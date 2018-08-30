@@ -1,0 +1,564 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Jul 27, 2018, 3:46:53 PM
+    Author     : Luis
+*/
+h3{
+    color: #77A449;
+}
+h4{
+    color: grey;
+}
+
+.back-stars{
+    background-image: url(../img/internas/fondo-header1.png);
+}
+
+.btn-start {
+    background-image: url(../img/botones/btn_iniciar.png);
+    background-color: transparent;
+    background-size: 260px;
+    display: block;
+    width: 130px;
+    height: 45px;
+    background-position: 0 0;
+    background-repeat: no-repeat;
+    font-family: 'Nunito', sans-serif;
+    font-weight: 700;
+    color: #FFFFFF;
+    font-size: 1.3em;
+    text-align: center;
+    line-height: 45px;
+    border: none;
+}
+
+.btn-start:hover { background-position: -130px 0px; }
+.conti {
+    background-image: url(../img/mod1/flecha-siguiente_activa.png);
+    position: relative;
+    right: -7%;
+    border: none;
+    text-indent: -999999999;
+    width: 78px;
+    height: 78px;
+    cursor: pointer;
+    top: 35%;
+}
+.conti:hover {
+    background-image: url(../img/mod1/flecha-siguiente_hover.png);
+    background-color: transparent;
+}
+.baki {
+    background-image: url(../img/mod1/flecha-anterior_activa.png);
+    position: relative;
+    left: -7%;
+    border: none;
+    text-indent: -999999999;
+    width: 78px;
+    height: 78px;
+    cursor: pointer;
+    top: 35%;
+}
+.baki:hover {
+    background-image: url(../img/mod1/flecha-anterior_hover.png);
+    background-color: transparent;
+}
+.baki,.conti {
+    background-color: transparent;
+    border: none;
+    color: #000;
+}
+.baki,.conti {
+    background-color: transparent;
+    border: none;
+    color: #000;
+        right: 0;
+    left: 0;
+}
+.ejem {
+    background-color: #FCD65A;
+    border: navajowhite;
+    color: #000;
+}
+#content{
+    width: 100%;
+    overflow: hidden;
+}
+#map_container{
+    height: 100%;
+    width: 100%; 
+}
+
+.gotoModulePage{margin: auto; display: inherit; margin-top: 10px;}
+.mod{
+    min-height: 470px;
+    /*padding: 10px;*/
+}
+.mod.intro{
+    background: url(../img/mod1/1-07_act_general.jpg);
+    background-size: 100%;
+    background-position: 0px -45px;
+    background-repeat: no-repeat;
+}
+
+
+/*.bx-wrapper {
+    margin-bottom: 0px;
+    height: 100%;
+    box-shadow: none;
+    border: none;
+}*/
+/*nav*/
+#sidebar ul li a {
+    padding: 10px;
+    font-size: 1.1em;
+    display: block;
+    color: #fff;
+    text-align: center;
+}
+#sidebar ul li a:hover {
+    color: #fff;
+    background: #912133;
+    text-decoration: none;
+}
+.nav-sobre,.nav-recursos,.nav-iniciar{
+    height:150px;
+    font-family: 'open-sans', sans-serif;
+    font-weight: 100;
+    font-size:28px;
+}
+a.nav-sobre:before{
+    content: '';
+    background-image: url(../img/menu-item1.png);
+    display: block;
+    width: 63px;
+    height: 63px;
+    background-repeat: no-repeat;
+    margin: auto;
+}
+a.nav-recursos:before{
+    content: '';
+    background-image: url(../img/menu-item2.png);
+    display: block;
+    width: 63px;
+    height: 63px;
+    background-repeat: no-repeat;
+    margin: auto;
+}
+a.nav-iniciar:before{
+    content: '';
+    background-image: url(../img/menu-item3.png);
+    display: block;
+    width: 63px;
+    height: 63px;
+    background-repeat: no-repeat;
+    margin: auto;
+}
+
+.nav-sobre{
+    background: #EF404D;
+
+}
+.nav-recursos{
+    background: #DD3B44;
+
+}
+.nav-iniciar{
+    background: #D52130;
+
+}
+.modal-body {
+
+    padding: 0rem 2rem;
+}
+.bx-wrapper .bx-prev {
+    left: -37px;
+
+}
+#modal_1-03init p{color: #fff;}
+.bx-wrapper .bx-next {
+    right: -37px;
+
+}
+.item-villain img{
+    margin:auto;
+    display: block;
+}
+#sidebar .sidebar-header h3{
+    font-family: 'Nunito', sans-serif;
+    font-weight: lighter;
+    color: fff;
+    text-align:center;
+    text-transform: UPPERCASE;
+    font-size:2em;
+    border-bottom: 1px #FFF solid;
+
+}
+
+img[usemap]{
+    width: 100%;
+    margin: auto;
+    display: block; 
+}
+
+/*.item-module{
+    min-height: 60px;
+    text-align: center;
+    padding: 10px 0px;
+}*/
+.item-module img{
+    width: 100%;
+    max-width: 50px;
+    display: block;
+    margin: auto;
+    margin-bottom: 10px;
+}
+
+.item-module.active{
+
+}
+.module.disabled .item-module.final{
+    border: none;
+    background: transparent;
+    margin: 0px;
+}
+
+.item-module a{color: #000; display: block; padding: 5px;}
+.module.disabled .item-module a{color: #888 !important; cursor: no-drop; text-decoration: none;}
+
+.tab-content > .tab-pane img{
+    max-width: 200px;
+    display: block;
+    margin: auto;
+}
+#mapster_wrap_0{
+    margin:auto;
+
+}
+
+/* entire container, keeps perspective */
+.flip-container {
+    perspective: 1000px;
+}
+/* flip the pane when hovered */
+.flip-container:hover .flipper, .flip-container.hover .flipper {
+    transform: rotateY(180deg);
+}
+
+.flip-container, .front, .back {
+    width: 100%;
+    /*height: 200px;*/
+    height: 325px;
+    border-radius: 10px;
+    margin-bottom: 10px;
+}
+
+/* flip speed goes here */
+.flipper {
+    transition: 0.6s;
+    transform-style: preserve-3d;
+
+    position: relative;
+}
+
+/* hide back of pane during swap */
+.front, .back {
+    backface-visibility: hidden;
+    padding: 0 10px;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+/* front pane, placed above back */
+.front {
+    /*background-color: #888;*/
+    z-index: 2;
+    /* for firefox 31 */
+    transform: rotateY(0deg);
+    color: #fff;
+    font-size: 2em;
+}
+.front p{
+    color: #fff;
+}
+
+/* back, initially hidden pane */
+.back {
+    /*background-color: #aaa;*/
+    transform: rotateY(180deg);
+    padding-top: 2em;
+    color: #fff;
+    font-size: 1.5em;
+}
+.f-1,.b-1{
+    background-color: #F65832;
+}
+.f-2,.b-2{
+    background-color: #0072B7;
+}
+.f-3,.b-3{
+    background-color: #86C656;
+}
+.flip-container:hover .flipper, .flip-container.hover .flipper, .flip-container.flip .flipper {
+    transform: rotateY(180deg);
+}
+
+.img-small{
+    width: 200px;
+    margin: auto;
+    display: block;
+
+}
+
+.list-unstyled-md li{ margin: 10px auto; padding-left: 15px; }
+.img-md{
+    max-width: 420px;
+    margin: auto;
+    display: block;
+    width: 100%;
+}
+.modal-header {
+    border:none;
+}
+.modal-content {
+
+    background-color: rgba(255, 255, 255, 0.89);
+    background-color: rgba(255, 255, 255, 0.89);
+    border: none;
+    border-radius: 0px;
+    padding: 15px;
+
+}
+.bg-light{
+    background-color: #ffffff !important;
+}
+.intro-header{
+    background: #DC7930;
+    font-family: 'Nunito', sans-serif;
+    color: #fff;
+    font-weight: bold;
+    padding: 12px;
+    font-size: 1.5em;
+    text-align: center;
+    box-shadow: inset 0 7px 9px -7px rgba(0,0,0,1);
+}
+
+.intro-header.orange{
+    background: #DC7930;
+}
+
+.intro-header.blue{
+    background: #2E8BB8;
+}
+.init-03{
+    color: #fff;
+    text-align: center;
+    text-shadow: none;
+}
+#modal_1-03init .modal-content{
+    background-color: rgba(33,111,117, 0.9019607843137255);
+    border-radius: 0px;
+    border: none;
+    padding: 30px 60px;
+}
+#modal_1-03init .close{
+    opacity: 1;
+    background-color: green;
+    padding: 8px 20px;
+    border-radius: 10px;
+    text-shadow: none;
+    color: #fff;
+    margin: 10px auto;
+    display: block;
+    font-size: 1.2em;
+}
+
+#act_01p3 .img-md {
+    max-width: 100%; 
+    margin: auto;
+    display: block;
+
+}
+p{
+    font-family: 'Nunito', sans-serif;
+    color: #5D5D5D;
+
+}
+.page-7-act p {
+    background-color: rgba(23, 162, 184, 0.91);
+    color: #fff;
+    padding: 1% 0;
+    line-height: 16px;
+    width: 50%;
+    margin: auto;
+}
+.bx-wrapper {
+
+
+    box-shadow: none;
+    /* border: 5px solid #fff; */
+    border: transparent;
+    background: transparent;
+
+}
+.page-7-act button.btn{
+    opacity: 1;
+    background-color: green;
+    padding: 8px 20px;
+    border-radius: 10px;
+    text-shadow: none;
+    color: #fff;
+    margin: 10px auto;
+    display: block;
+    font-size: 1.2em;
+    border:none;
+}
+.page-02-inf .modal-content {
+    border-radius: 0;
+    padding: 0 2em 3em 2em;
+}
+.page-02-inf .modal-content a{
+    color: #000;
+    font-weight: bold;
+
+}
+#prefooter p{
+    position: relative;
+}
+.barra-progress {
+    padding-top: 15px;
+}
+.barra-progress-img {
+    background-image: url(../img/botones/barra-progreso1.svg);
+    width: 320px;
+    height: 17px;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    display: block;
+    margin: auto;
+    overflow: hidden;
+    clear: both;
+}
+.barra-progress-img-2 {
+    background-image: url(../img/botones/barra-progreso2.svg);
+    width: 320px;
+    height: 17px;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    display: block;
+    margin: auto;
+    overflow: hidden;
+    clear: both;
+}
+.barra-progress-img-3 {
+    background-image: url(../img/botones/barra-progreso3.svg);
+    width: 320px;
+    height: 17px;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    display: block;
+    margin: auto;
+    overflow: hidden;
+    clear: both;
+}
+.barra-progress-img-4 {
+    background-image: url(../img/botones/barra-progreso4.svg);
+    width: 320px;
+    height: 17px;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    display: block;
+    margin: auto;
+    overflow: hidden;
+    clear: both;
+}
+.barra-progress-img-5 {
+    background-image: url(../img/botones/barra-progreso5.svg);
+    width: 320px;
+    height: 17px;
+    background-repeat: no-repeat;
+
+
+    
+    background-size: 100%;
+    display: block;
+    margin: auto;
+    overflow: hidden;
+    clear: both;
+}
+@media (min-width: 576px) { 
+    .bck-intro {
+    
+    margin-bottom:200px;
+    }
+}
+
+@media (min-width: 768px) {
+
+ }
+/* Portrait */
+@media only screen 
+  and (min-device-width: 768px) 
+  and (max-device-width: 1024px) 
+  
+  and (-webkit-min-device-pixel-ratio: 1) {
+    .bck-intro .main-block.back-girl:after{
+        content: "";
+        background: transparent !important;
+    }
+    .item-module {
+    min-height: 265px !important;
+
+
+}
+/* Portrait */
+@media only screen 
+  and (min-device-width: 480px) 
+  and (max-device-width: 640px)
+  and (-webkit-min-device-pixel-ratio: 1) 
+ {
+    #prefooter-place:before {
+
+    height: 84px!important;
+
+    }
+    
+
+
+}
+
+@media (min-width: 992px) { 
+
+
+    #act_01p3 .img-md {
+        max-width:420px; 
+
+    }
+    .conti {
+
+        position: absolute;
+
+    }
+
+    .baki {
+
+        position: absolute;
+
+    }
+    .main{
+        position: relative;
+        top: 0px;
+        bottom: 0px;
+        max-width: 100%;
+        left: 0px;
+        width: 100%;
+
+    }
+}
+
+@media (min-width: 1200px) { }

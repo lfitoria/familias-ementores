@@ -1,0 +1,13 @@
+#page-2-02a .flip-container, #page-2-02a .front, #page-2-02a .back{
+   
+    height: 200px;
+    
+}
+#page-2-02a .front {
+    background-color: #888;
+
+    font-size: 1em;
+}
+#page-2-02a .back p{
+   color: #fff;
+}

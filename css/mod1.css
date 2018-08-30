@@ -1,0 +1,392 @@
+.page-9-eva a,.page-9-eva button{
+    cursor: pointer;
+}
+
+.item-villain{
+    cursor: pointer;
+}
+
+#eva h3{
+    color: #454545;
+    font-family: 'Nunito', sans-serif;
+    font-weight: bold;
+    font-size: 1.7em;
+    text-align: left;
+    margin-bottom: 25px;
+}
+
+#eva .question, #eva .answers{
+    max-width: 750px;
+    margin: auto;
+    width: 100%;
+}
+#eva p.instruction{
+    font-family: 'Nunito', sans-serif;
+    font-size: 1.45em;
+}
+
+#eva h3 span, #eva p.instruction span{
+    background-color: #2CA294;
+    color: #fff;
+    width: 50px;
+    height: 50px;
+    display: block;
+    line-height: 50px;
+    border-radius: 50%;
+    text-align: center;
+    margin: 5px auto;
+
+}
+
+#eva .font-big{
+    font-size: 1.4em;
+    line-height: 45px;
+}
+
+#eva h3.intro-paragrah{
+    color: #206596;
+    font-family: 'Nunito', sans-serif;
+    font-weight: bold;
+}
+
+#eva p.label-info{
+    color: #5D5D5D;
+    font-family: 'Nunito', sans-serif;
+    font-weight: bold;
+    font-size: 1.4em;
+    text-align: left;
+}
+#eva .btn-finish-eva{
+    background-image: url(../img/botones/btn_finalizar.png);
+    background-color: transparent;
+    background-size: 400px;
+    display: inline-block;
+    width: 200px;
+    height: 57px;
+    background-position: -200px 0;
+    background-repeat: no-repeat;
+    font-family: 'Nunito', sans-serif;
+    font-weight: 700;
+    color: #FFFFFF;
+    font-size: 1.3em;
+    text-align: center;
+    line-height: 40px;
+    border: none;
+}
+
+#eva .btn-see-eva{
+    background-image: url(../img/botones/btn_turquesa.png);
+    background-color: transparent;
+    background-size: 470px;
+    display: inline-block;
+    width: 235px;
+    height: 57px;
+    background-position: 0px 0;
+    background-repeat: no-repeat;
+    font-family: 'Nunito', sans-serif;
+    font-weight: 700;
+    color: #FFFFFF;
+    font-size: 1.3em;
+    text-align: center;
+    line-height: 40px;
+    border: none;
+}
+
+#eva .btn-retry-eva{
+    background-image: url(../img/botones/btn_azul.png);
+    background-color: transparent;
+    background-size: 470px;
+    display: inline-block;
+    width: 235px;
+    height: 57px;
+    background-position: 0px 0;
+    background-repeat: no-repeat;
+    font-family: 'Nunito', sans-serif;
+    font-weight: 700;
+    color: #FFFFFF;
+    font-size: 1.3em;
+    text-align: center;
+    line-height: 40px;
+    border: none;
+}
+
+#eva .btn-see-eva:hover, #eva .btn-retry-eva:hover{
+    background-position: -235px 0;
+    text-decoration: none;
+}
+
+#eva .min-height-110 p{
+    min-height: 110px !important;
+}
+
+
+#eva .answer p {
+    border: 1px solid #ABABAB;
+    margin-bottom: 15px;
+    background-color: #F0F0F0;
+    border-radius: 15px;
+    min-height: 70px;
+    padding: 12px;
+    font-family: 'Nunito', sans-serif;
+    font-weight: 700;
+    text-align: center;
+    font-size: 1.15em;
+    cursor: pointer;
+}
+#eva .answer.img-answer p{
+    min-height: 180px;
+}
+
+#eva .answer p img{
+    display: block;
+    margin: auto;
+}
+
+
+#eva .answer p:hover {
+    background-color: #ddd;
+}
+
+#eva .text-help{
+    background-color: #2367B3;
+    color: #fff;
+    font-family: 'Nunito', sans-serif;
+    font-weight: 700;
+    text-align: center;
+    font-size: 1.5em;
+    max-width: 600px;
+    padding: 25px;
+    margin: 20px auto;
+}
+
+#eva .text-help.blue{background-color: #2367B3; }
+#eva .text-help.green{background-color: #86C142; }
+
+a#home-tab {
+    background-color: #EA7A30;
+    color: #fff;
+    border: none;
+    padding: 5px 25px;
+    font-size: 1.5em;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+div#desafios,#desafios .bx-wrapper {
+    background-color: #EA7A30;
+    color: #fff;
+}
+.nav-tabs {
+    border-bottom: none;
+    padding-left: 0%;
+}
+.nav-tabs .nav-item {
+    margin-bottom: -1px;
+    margin-left: 15px;
+}
+.tab-content > .tab-pane {
+    padding: 115px 5%;
+    border-radius: 10px;
+}
+a#contact-tab{
+    background-color: #0851A1;
+    color: #fff;
+    border:none;
+    padding: 5px 25px;
+    font-size: 1.5em;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+div#oportunidades,#oportunidades .bx-wrapper {
+    background-color: #0851A1;
+    color: #fff;
+}
+.bx-wrapper {
+    margin-bottom: 0px;
+    /*height: 25%;*/
+    box-shadow: none;
+    border: none;
+}
+img.ico-personaje {
+    position: absolute;
+    top: 0px;
+    left: 16px;
+    width: 100%;
+    max-width: 150px !important;
+}
+section.container {
+    margin-top: 5%;
+}
+.item-module {
+    min-height: 235px;
+    text-align: center;
+    padding: 25px 0px;
+    box-shadow: 5px 5px 9px 0px #dee2e6;
+    background-color: #fff;
+    margin-bottom: 30px;
+    border-radius: 5px;
+}
+.item-module.active{
+    border: 3px solid red;
+    background-color: rgba(0, 204, 102, 0.12941176470588237);
+    border-radius: 5px;
+    background-image: url(../img/mod1/Red-Ribbon.png);
+    background-position: 100% 0;
+    background-repeat: no-repeat;
+}
+.bck-mods{
+    background-color: #f8f9fa;
+}
+p.dots-mod {
+    margin: 0;
+    font-size: 4em;
+    padding: 0;
+    height: 30px;
+    line-height: 0%;
+    color: #c3c3c3;
+    overflow: hidden;
+    word-spacing: -14px;
+}
+.active p.dots-mod{
+    color: red;
+}
+a[class^="v-act-"]:before,a[class^="v2-act-"]:before,a[class^="v3-act-"]:before {
+
+    content: '';
+    width: 120px;
+    height: 120px;
+    display: block;
+    margin: auto;
+    max-width: 100%;
+}
+.disabled a[class^="v-act-"]:before,.disabled a[class^="v2-act-"]:before,.disabled a[class^="v3-act-"]:before {
+    background-position-x:100%;
+}
+
+a.v-act-1:before{
+    background-image: url(../img/mod1/modulo1-act1.png);
+}
+a.v-act-2:before{
+    background-image: url(../img/mod1/modulo1-act2.png);
+}
+a.v-act-3:before{
+    background-image: url(../img/mod1/modulo1-act3.png);
+}
+a.v-act-4:before{
+    background-image: url(../img/mod1/modulo1-act4.png);
+}
+a.v-act-5:before{
+    background-image: url(../img/mod1/modulo1-act5.png);
+}
+a.v-act-6:before{
+    background-image: url(../img/mod1/modulo1-act6.png);
+}
+a.v-act-7:before{
+    background-image: url(../img/mod1/modulo1-act7.png);
+}
+a.v-act-8:before{
+    background-image: url(../img/mod1/modulo1-act8.png);
+}
+
+/*2*/
+a.v2-act-1:before{
+    background-image: url(../img/mod1/modulo2-act1.png);
+}
+a.v2-act-2:before{
+    background-image: url(../img/mod1/modulo2-act2.png);
+}
+a.v2-act-3:before{
+    background-image: url(../img/mod1/modulo2-act3.png);
+}
+a.v2-act-4:before{
+    background-image: url(../img/mod1/modulo2-act4.png);
+}
+a.v2-act-5:before{
+    background-image: url(../img/mod1/modulo2-act5.png);
+}
+a.v2-act-6:before{
+    background-image: url(../img/mod1/modulo2-act6.png);
+}
+a.v2-act-7:before{
+    background-image: url(../img/mod1/modulo2-act7.png);
+}
+a.v2-act-8:before{
+    background-image: url(../img/mod1/modulo2-act8.png);
+}
+a.v2-act-9:before{
+    background-image: url(../img/mod1/modulo2-act9.png);
+}
+/*3*/
+a.v3-act-1:before{
+    background-image: url(../img/mod1/modulo3-act1.png);
+}
+a.v3-act-2:before{
+    background-image: url(../img/mod1/modulo3-act2.png);
+}
+a.v3-act-3:before{
+    background-image: url(../img/mod1/modulo3-act3.png);
+}
+a.v3-act-4:before{
+    background-image: url(../img/mod1/modulo3-act4.png);
+}
+a.v3-act-5:before{
+    background-image: url(../img/mod1/modulo3-act5.png);
+}
+a.v3-act-6:before{
+    background-image: url(../img/mod1/modulo3-act6.png);
+}
+a.v3-act-7:before{
+    background-image: url(../img/mod1/modulo1-act7.png);
+}
+#act_01p2 .col-4:nth-child(1) {
+
+}
+
+@media (min-width: 576px) { 
+
+}/*fin*/
+
+@media (max-width: 576px) { 
+
+    .nav-tabs .nav-item {
+
+        margin-left: 0;
+        width: 50%;
+        float: left;
+    }
+
+    a#contact-tab, a#home-tab {
+        font-size: 1.2em;
+
+    }
+    .tab-content > .tab-pane{
+        border-top-left-radius: 0;
+        border-top-right-radius: 0;
+    }
+    img.ico-personaje {
+        position: relative;
+        left: 0px;
+        margin-bottom: 10px !important;
+    }
+} /*fin*/
+
+
+@media (min-width: 768px) {  }/*fin*/
+
+
+
+@media (min-width: 992px) { 
+    .nav-tabs {
+        border-bottom: none;
+        padding-left: 25%;
+    }
+    
+    #eva h3 span, #eva p.instruction span{
+        display: inline-block;
+        position: absolute;
+        top: -5px;
+        left: -45px;
+    }
+} /*fin*/
+
+
+@media (min-width: 1200px) {  }/*fin*/

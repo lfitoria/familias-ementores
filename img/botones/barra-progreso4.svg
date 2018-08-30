@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 15.1.0, SVG Export Plug-In  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" [
+	<!ENTITY ns_flows "http://ns.adobe.com/Flows/1.0/">
+]>
+<svg version="1.1"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+	 x="0px" y="0px" width="696px" height="38px" viewBox="0 -0.309 696 38" enable-background="new 0 -0.309 696 38"
+	 xml:space="preserve">
+<defs>
+</defs>
+<path fill="#BABABA" d="M691.656,21.533c0,1.835-2.238,3.32-5,3.32H24.693c-2.762,0-5-1.485-5-3.32v-4.315
+	c0-1.833,2.238-3.32,5-3.32h661.963c2.762,0,5,1.487,5,3.32V21.533z"/>
+<circle fill="#FF5B00" cx="183.248" cy="18.749" r="18.749"/>
+<circle fill="#FF5B00" cx="347.748" cy="18.749" r="18.75"/>
+<circle fill="#BABABA" cx="512.248" cy="18.749" r="18.749"/>
+<circle fill="#BABABA" cx="676.748" cy="18.749" r="18.75"/>
+<circle fill="#FF5B00" cx="18.749" cy="18.749" r="18.749"/>
+<path fill="#FF5B00" d="M492.634,19.476c0,1.96-1.588,3.548-3.548,3.548H33.674c-1.959,0-3.549-1.588-3.549-3.548l0,0
+	c0-1.959,1.59-3.547,3.549-3.547h455.412C491.046,15.929,492.634,17.517,492.634,19.476L492.634,19.476z"/>
+<polyline fill="none" stroke="#FFC531" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
+	10.381,19.385 18.131,25.135 27.381,12.135 "/>
+<polyline fill="none" stroke="#FFC531" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
+	173.88,19.385 181.63,25.135 190.88,12.135 "/>
+<polyline fill="none" stroke="#FFC531" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
+	338.628,19.385 346.377,25.135 355.628,12.135 "/>
+</svg>
