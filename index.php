@@ -1,8 +1,8 @@
 <html class="front-page">
     <head>
-<meta http-equiv="Cache-Control" content="no-cache" />
-<meta http-equiv="Pragma" content="no-cache" />
-<meta http-equiv="Expires" content="0" />
+        <meta http-equiv="Cache-Control" content="no-cache" />
+        <meta http-equiv="Pragma" content="no-cache" />
+        <meta http-equiv="Expires" content="0" />
         <link rel="icon" href="favicon.ico" type="image/gif">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <title>Inicio | e-mentores</title>
@@ -54,8 +54,8 @@
                                     <div class="embed-responsive embed-responsive-16by9 main-div-iframe">
                                         <!-- <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/LLsdaT4NWu0?showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe> -->
                                         <video width="100%" height="auto" id="video" controls>
-                                        <source src="/videos/0-introduccion_vid.mp4" type="video/mp4">
-                                    </video>
+                                            <source src="/videos/0-introduccion_vid.mp4" type="video/mp4">
+                                        </video>
                                     </div>
                                 </div>
                                 <div class="col-12 col-sm-12 col-md-4 col-lg-4 col-xl-4 ">

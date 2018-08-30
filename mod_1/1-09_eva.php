@@ -101,7 +101,7 @@
                                 </div>
                                 <div class="col-12 col-sm-6 answer img-answer" data-value="4">
 
-                                    <p><img src="../img/mod1/1-09_eva-p2-d-información.png" alt=""/>Acceda a información sobre historia y cultura</p>
+                                    <p><img src="../img/mod1/1-09_eva-p2-d-informacion.png" alt=""/>Acceda a información sobre historia y cultura</p>
                                 </div>
 
                             </div>

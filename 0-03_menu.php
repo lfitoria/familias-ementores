@@ -1,8 +1,8 @@
 <html>
     <head>
-<meta http-equiv="Cache-Control" content="no-cache" />
-<meta http-equiv="Pragma" content="no-cache" />
-<meta http-equiv="Expires" content="0" />
+        <meta http-equiv="Cache-Control" content="no-cache" />
+        <meta http-equiv="Pragma" content="no-cache" />
+        <meta http-equiv="Expires" content="0" />
         <link rel="icon" href="favicon.ico" type="image/gif">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <title>Menú | e-mentores</title>
@@ -185,7 +185,7 @@
                                                 <div class="col-12 col-sm-6 col-md-4 col-lg-3">
                                                     <div class="item-module <?php if ($values2[2]["is_completed"] == 1) : ?>active<?php endif ?>">
                                                         <!-- <img src="img/icon.png" alt=""/> -->
-                                                        <a href="#3" class="v2-act-3">ACTIVIDAD 01</a><!--<p class=dots-mod>. . .</p>-->
+                                                        <a href="mod_2/2-03_act.php" class="v2-act-3">ACTIVIDAD 01</a><!--<p class=dots-mod>. . .</p>-->
                                                     </div>
                                                 </div>
                                                 <div class="col-12 col-sm-6 col-md-4 col-lg-3">
@@ -256,7 +256,7 @@
                                     $queryAct2 = "SELECT * FROM activity where user = $last_id and module = 2";
                                     $resultAct2 = $mysqli->query($queryAct2);
                                     $activity2 = mysqli_fetch_assoc($resultAct2);
-                                        // var_dump($activity2);
+                                    // var_dump($activity2);
                                     ?>
                                     <div class="module <?php if ($activity2["is_approved"] == 0) : ?>disabled<?php endif ?>">
                                         <h3 class="text-center menu-title">Protejo: reacciono ante situaciones.</h3>
