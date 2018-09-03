@@ -8,6 +8,7 @@
     <link rel="icon" href="favicon.ico" type="image/gif">
     <link  type="text/css"  href="../css/bootstrap.css" rel="stylesheet">
     <link  type="text/css"  href="../css/bootstrap-grid.css" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Nunito:300,400,700" rel="stylesheet">
     <link href="../css/style.css" rel="stylesheet" type="text/css"/>
     <link href="../css/index.css" rel="stylesheet" type="text/css"/>
     <link href="../css/mod2.css" rel="stylesheet" type="text/css"/>
@@ -35,17 +36,26 @@
                 </div>
             </nav>
             <p class="intro-header blue">Conductas de riesgo vs. Conductas protectoras</p>
-            <section class="container">
+            <section class="container-fluid">
                 <div class="main">
                     <div id="act_01p1" class="mod">
+                        <div class="row img-intro">
+                            <img src="../img/mod2/2-03_act-img-intro.png" alt="" class=""/>
+                        </div>
                         <div class="row ">
                             <div class="col-12">
-                                <p class="text-center">Las decisiones que tomamos en Internet puede protegernos o ponernos en peligro.</p> 
-                                <p class="text-center">Escuche la conducta protectora y la conducta de riesgo de las situaciones a continuación.</p> 
+                                
+                                <p class="text-center intro-label">Las decisiones que tomamos en Internet puede protegernos o ponernos en peligro.</p> 
+                                <p class="text-center intro-label">Escuche la conducta protectora y la conducta de riesgo de las situaciones a continuación.</p> 
                             </div>
                         </div>
-                        <button class="gotoModulePage conti" data-page="2">Continuar</button>
+                        <button class="gotoModulePage btn-start" data-page="2">Iniciar</button>
                     </div>
+                </div>
+            </section>
+            <section class="container">
+                <div class="main">
+                    
 
                     <div id="act_01p2" class="d-none mod">
                         <p>El mensaje ganador<br>Juan Carlos recibe un mensaje que dice: "Usted ha ganado un premio.  Haga clic aquí para obtenerlo".</p>
@@ -61,7 +71,7 @@
                                     <div class="col-md-8 data-risk">
                                         <p>Lo abre para ver de qué se trata.</p>
                                         <audio width="100%" height="auto" id="video" controls>
-                                            <source src="../videos/1-01_vid.mp4" type="video/mp4">
+                                            <source src="../audios/2-03_act_1riesgo.mp3" type="audio/mp3">
                                         </audio>
                                     </div>
                                 </div>
@@ -71,6 +81,9 @@
                                     </div>
                                     <div class="col-md-8 data-risk">
                                         <p>Lo borra y le cuenta a una persona adulta de confianza.</p>
+                                        <audio width="100%" height="auto" id="video" controls>
+                                            <source src="../audios/2-03_act_1protectora.mp3" type="audio/mp3">
+                                        </audio>
                                     </div>
                                 </div>
                             </div>
@@ -94,6 +107,9 @@
                                     </div>
                                     <div class="col-md-8 data-risk">
                                         <p>Decide ignorar el mensaje y lo borra.</p>
+                                        <audio width="100%" height="auto" id="video" controls>
+                                            <source src="../audios/2-03_act_2riesgo.mp3" type="audio/mp3">
+                                        </audio>
                                     </div>
                                 </div>
                                 <div class="audio-item row correct inactive">
@@ -102,6 +118,9 @@
                                     </div>
                                     <div class="col-md-8 data-risk">
                                         <p>Denuncia el mensaje con su mamá, papá o profesor(a).</p>
+                                        <audio width="100%" height="auto" id="video" controls>
+                                            <source src="../audios/2-03_act_2protectora.mp3" type="audio/mp3">
+                                        </audio>
                                     </div>
                                 </div>
                             </div>
@@ -126,6 +145,9 @@
                                     </div>
                                     <div class="col-md-8 data-risk">
                                         <p>Le responde a la persona diciéndole que no la moleste.</p>
+                                        <audio width="100%" height="auto" id="video" controls>
+                                            <source src="../audios/2-03_act_3riesgo.mp3" type="audio/mp3">
+                                        </audio>
                                     </div>
                                 </div>
                                 <div class="audio-item row correct inactive">
@@ -134,6 +156,9 @@
                                     </div>
                                     <div class="col-md-8 data-risk">
                                         <p>Denuncia a la persona en la red social y le cuenta a una persona de confianza.</p>
+                                        <audio width="100%" height="auto" id="video" controls>
+                                            <source src="../audios/2-03_act_3protectora.mp3" type="audio/mp3">
+                                        </audio>
                                     </div>
                                 </div>
                             </div>
@@ -158,6 +183,9 @@
                                     </div>
                                     <div class="col-md-8 data-risk">
                                         <p>Acepta el contacto ya que parece una persona agradable.</p>
+                                        <audio width="100%" height="auto" id="video" controls>
+                                            <source src="../audios/2-03_act_4riesgo.mp3" type="audio/mp3">
+                                        </audio>
                                     </div>
                                 </div>
                                 <div class="audio-item row correct inactive">
@@ -166,6 +194,9 @@
                                     </div>
                                     <div class="col-md-8 data-risk">
                                         <p>Ignora la solicitud y le cuenta a una persona adulta de confianza.</p>
+                                        <audio width="100%" height="auto" id="video" controls>
+                                            <source src="../audios/2-03_act_4protectora.mp3" type="audio/mp3">
+                                        </audio>
                                     </div>
                                 </div>
                             </div>
@@ -180,7 +211,7 @@
                         <div class="cont row">
                             
                             <div class="col-12 col-md-6 image-side">
-                                <img src="../img/mod2/2-03_act_img-05.png" alt="" class="img-fluid"/>
+                                <img src="../img/mod2/2-03_act_img-08.png" alt="" class="img-fluid"/>
                             </div>
                             <div class="col-12 col-md-6 data-side">
                                 <div class="audio-item row incorrect inactive">
@@ -189,6 +220,9 @@
                                     </div>
                                     <div class="col-md-8 data-risk">
                                         <p>Acepta la invitación y no le dice nada a nadie.</p>
+                                        <audio width="100%" height="auto" id="video" controls>
+                                            <source src="../audios/2-03_act_5riesgo.mp3" type="audio/mp3">
+                                        </audio>
                                     </div>
                                 </div>
                                 <div class="audio-item row correct inactive">
@@ -197,6 +231,9 @@
                                     </div>
                                     <div class="col-md-8 data-risk">
                                         <p>Les cuenta a sus papás que alguien la ha invitado a salir.</p>
+                                        <audio width="100%" height="auto" id="video" controls>
+                                            <source src="../audios/2-03_act_5protectora.mp3" type="audio/mp3">
+                                        </audio>
                                     </div>
                                 </div>
                             </div>
@@ -221,6 +258,9 @@
                                     </div>
                                     <div class="col-md-8 data-risk">
                                         <p>Pone toda la información que le piden.</p>
+                                        <audio width="100%" height="auto" id="video" controls>
+                                            <source src="../audios/2-03_act_6riesgo.mp3" type="audio/mp3">
+                                        </audio>
                                     </div>
                                 </div>
                                 <div class="audio-item row correct inactive">
@@ -229,6 +269,9 @@
                                     </div>
                                     <div class="col-md-8 data-risk">
                                         <p>Pone solo su nombre.</p>
+                                        <audio width="100%" height="auto" id="video" controls>
+                                            <source src="../audios/2-03_act_6protectora.mp3" type="audio/mp3">
+                                        </audio>
                                     </div>
                                 </div>
                             </div>
@@ -244,7 +287,7 @@
                         <div class="cont row">
                             
                             <div class="col-12 col-md-6 image-side">
-                                <img src="../img/mod2/2-03_act_img-07.png" alt="" class="img-fluid"/>
+                                <img src="../img/mod2/2-03_act_img-05.png" alt="" class="img-fluid"/>
                             </div>
                             <div class="col-12 col-md-6 data-side">
                                 <div class="audio-item row incorrect inactive">
@@ -253,6 +296,9 @@
                                     </div>
                                     <div class="col-md-8 data-risk">
                                         <p>Se toma las fotos y se las envía.</p>
+                                        <audio width="100%" height="auto" id="video" controls>
+                                            <source src="../audios/2-03_act_7riesgo.mp3" type="audio/mp3">
+                                        </audio>
                                     </div>
                                 </div>
                                 <div class="audio-item row correct inactive">
@@ -261,6 +307,9 @@
                                     </div>
                                     <div class="col-md-8 data-risk">
                                         <p>Decide no tomarse las fotos.</p>
+                                        <audio width="100%" height="auto" id="video" controls>
+                                            <source src="../audios/2-03_act_7protectora.mp3" type="audio/mp3">
+                                        </audio>
                                     </div>
                                 </div>
                             </div>
@@ -276,7 +325,7 @@
                         <div class="cont row">
                             
                             <div class="col-12 col-md-6 image-side">
-                                <img src="../img/mod2/2-03_act_img-08.png" alt="" class="img-fluid"/>
+                                <img src="../img/mod2/2-03_act_img-07.png" alt="" class="img-fluid"/>
                             </div>
                             <div class="col-12 col-md-6 data-side">
                                 <div class="audio-item row incorrect inactive">
@@ -311,7 +360,7 @@
                                 <p class="text-center"  >Esperamos que le haya sido útil para comprender la diferencia entre conductas protectoras y conductas de riesgo.</p>
                             </div>
                             <div class="col-12 col-md-5 image-side">
-                                <img src="../img/mod2/2-03_act_img-07.png" alt="" class="img-fluid" />
+                                <img src="../img/mod2/2-03_act-img-cierre.png" alt="" class="img-fluid" />
                             </div>
                             
                         </div>
@@ -395,7 +444,6 @@
 
                 </div>
             </div>
-            <a href="../0-03_menu.php" class="back_to_menu">Volver</a>
             </section>
             <?php require '../footer.php'; ?>
         </div>
@@ -452,8 +500,8 @@
             url: "../db/user/update_module.php",
             method: "POST",
             data: {
-                step: 8,
-                module: 1
+                step: 3,
+                module: 2
             },
             dataType: "html"
         });

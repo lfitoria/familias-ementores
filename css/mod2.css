@@ -3,6 +3,16 @@
 #page-2-03 #content.bck-green .cont{ background: #fff; padding: 15px 0px; }
 
 
+#page-2-03 .img-intro { background-color: #00B9D3;}
+#page-2-03 .img-intro img{  display: block; margin: auto; max-width: 1100px; width: 100%;}
+#page-2-03 .intro-header{ margin-bottom: 0px; }
+#page-2-03 p.intro-label{
+    font-size: 1.2em;
+    width: 100%;
+    max-width: 600px;
+    margin: 10px auto;
+    display: block;
+}
 #page-2-03 .audio-item{ margin-bottom: 20px; padding: 10px; background: #ededed; margin-right: 0px; transition: all 0.5s ease; }
 #page-2-03 .audio-item.correct{background-color: #1D7B3C}
 #page-2-03 .audio-item.incorrect{background-color: #F5252B}
@@ -13,18 +23,9 @@
 #page-2-03 .audio-item p{ font-weight: bold; font-size: 1.1em; }
 #page-2-03 .cont.final-page p{ font-weight: bold; font-size: 1.1em; color: #000 !important; }
 
-
 #page-2-02a .flip-container, #page-2-02a .front, #page-2-02a .back{ height: 200px; }
-#page-2-02a .front {
-    background-color: #888;
-
-    font-size: 1em;
-}
-#page-2-02a .back p{
-    color: #fff;
-    font-family: 'Nunito', sans-serif;
-    font-weight: bold;
-}
+#page-2-02a .front { background-color: #888; font-size: 1em; }
+#page-2-02a .back p{ color: #fff; font-family: 'Nunito', sans-serif; font-weight: bold; }
 
 #page-2-09 .nav-tabs .nav-link { font-size: 1.3em; transition: all 0.5s ease; min-height: 85px; font-family: 'Nunito', sans-serif; color: #fff; font-weight: bold; border-radius: 0px; background: #aaa; border: none; }
 #page-2-09 .nav-tabs .nav-item { padding-top: 20px; transition: all 0.5s ease;}
@@ -49,4 +50,136 @@
 #page-2-09 .tab-content p{ color: #fff !important; font-size: 1.1em;}
 #page-2-09 .tab-content p.title{ font-size: 1.2em; font-weight: bold; }
 #page-2-09 .tab-content .advice{ padding: 10px; border: 1px solid; min-height: 170px; }
+
+#page-2-02b h3 span {
+    background-color: #FFBF3F;
+    color: #fff;
+    width: 50px;
+    height: 50px;
+        padding: 3px 13px;
+    line-height: 50px;
+    border-radius: 50%;
+    text-align: center;
+    margin: 5px auto;
+}
+div[class*="reco-box-"]{
+	padding:1em 2em;
+}
+div[class*="reco-box-"] p{
+	color: #fff;
+}
+.reco-box-1{
+	background-color: #559CD1;
+}
+.reco-box-2{
+	background-color: #69AB54;	
+}
+.reco-box-3{
+	background-color: #6A4FA2;
+}
+.reco-box-4{
+	background-color: #3FC9B7;
+}
+.row.disabled-request {
+    opacity: 0.5;
+}
+#page-2-05_act .col-3 button{
+	display: block;
+    margin: 20px auto 10px auto;
+    border: none;
+    color: #fff;
+    border-radius: 5px;
+    width: 160px;
+    padding:5px 15px;
+    cursor: pointer;
+}
+#page-2-05_act .col-3 button:nth-child(1){
+background-color: #234680;	
+}
+#page-2-05_act .col-3 button:nth-child(2){
+background-color: #cecece;	
+}
+#page-2-05_act .box-solicitud{
+	margin-bottom: 15px;
+}
+
+/*#page-2-05_act .col-3 button{
+    display: block;
+    margin: 10px auto 10px auto;
+    border: none;
+    background-color: #234680;
+    color: #fff;
+    border-radius: 5px;
+    padding: 5px 15px;
+}*/
+.bck-grey{
+	background-color: #E7EAE8;
+	    padding: 1%;
+}
+.disabled-btn-request{
+	opacity: 0.5;
+	cursor:	not-allowed !important;
+}
+
+#page-2-05_act h3{
+	color: #234680;
+}
+#page-2-06act a{
+	cursor: pointer;
+}
+div[class*='sit'] a{
+	display: block;
+	text-align: center;
+}
+.sit-1-t a:before,a.sit-1-t:before{
+	content: '';
+    background-image: url(../img/mod2/2-06_act-img-tristeza.png);
+    display: block;
+    height: 145px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    margin: auto;
+    background-position: center;
+}
+.sit-1-e a:before,a.sit-1-e:before{
+	content: '';
+    background-image: url(../img/mod2/2-06_act-img-enojo.png);
+    display: block;
+    height: 145px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    margin: auto;
+    background-position: center;
+}
+.sit-1-i a:before,a.sit-1-i:before{
+	content: '';
+    background-image: url(../img/mod2/2-06_act-img-indiferencia.png);
+    display: block;
+    height: 145px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    margin: auto;
+    background-position: center;
+}
+.sit-1-m a:before,a.sit-1-m:before{
+	content: '';
+    background-image: url(../img/mod2/2-06_act-img-miedo.png);
+    display: block;
+    height: 145px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    margin: auto;
+    background-position: center;
+}
+.sit-1-d a:before,a.sit-1-d:before{
+	content: '';
+    background-image: url(../img/mod2/2-06_act-img-disgusto.png);
+    display: block;
+    height: 145px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    margin: auto;
+    background-position: center;
+}
+
 

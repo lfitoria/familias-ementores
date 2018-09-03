@@ -34,6 +34,7 @@ h4{
     text-align: center;
     line-height: 45px;
     border: none;
+    margin-bottom: 10px !important;
 }
 
 .btn-start:hover { background-position: -130px 0px; }
@@ -71,6 +72,7 @@ h4{
     background-color: transparent;
     border: none;
     color: #000;
+        background-repeat: no-repeat;
 }
 .baki,.conti {
     background-color: transparent;
