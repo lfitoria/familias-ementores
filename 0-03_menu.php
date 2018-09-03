@@ -225,7 +225,7 @@
                                                 <div class="col-12 col-sm-6 col-md-4 col-lg-3">
                                                     <div class="item-module <?php if ($values2[8]["is_completed"] == 1) : ?>active<?php endif ?>">
                                                         <!-- <img src="img/icon.png" alt=""/> -->
-                                                        <a href="#9" class="v2-act-9">SLIDESHOW 02</a><!--<p class=dots-mod>. . .</p>-->
+                                                        <a href="mod_2/2-09_sli.php" class="v2-act-9">SLIDESHOW 02</a><!--<p class=dots-mod>. . .</p>-->
                                                     </div>
                                                 </div>
                                             </div>

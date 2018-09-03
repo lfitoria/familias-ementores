@@ -1,19 +1,19 @@
 <head>
+    <title>Me informo: oportunidades y desafíos en la web | e-mentores</title>
     <meta http-equiv="Cache-Control" content="no-cache" />
     <meta http-equiv="Pragma" content="no-cache" />
     <meta http-equiv="Expires" content="0" />
-    <link rel="icon" href="favicon.ico" type="image/gif">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Me informo: oportunidades y desafíos en la web | e-mentores</title>
+    
+    <link rel="icon" href="favicon.ico" type="image/gif">
     <link  type="text/css"  href="../css/bootstrap.css" rel="stylesheet">
     <link  type="text/css"  href="../css/bootstrap-grid.css" rel="stylesheet">
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/bxslider/4.2.12/jquery.bxslider.css">
     <link href="../css/style.css" rel="stylesheet" type="text/css"/>
     <link href="../css/index.css" rel="stylesheet" type="text/css"/>
     <link href="../css/mod2.css" rel="stylesheet" type="text/css"/>
 
 </head>
-<body>
+<body id="page-2-03">
     <div class="wrapper">
         <div id="content" class="bck-green">
             <nav class="navbar navbar-expand-lg navbar-light bg-light d-block">
@@ -60,6 +60,9 @@
                                     </div>
                                     <div class="col-md-8 data-risk">
                                         <p>Lo abre para ver de qué se trata.</p>
+                                        <audio width="100%" height="auto" id="video" controls>
+                                            <source src="../videos/1-01_vid.mp4" type="video/mp4">
+                                        </audio>
                                     </div>
                                 </div>
                                 <div class="audio-item row correct inactive">
@@ -82,7 +85,7 @@
                         <p>Yamileth recibe un mensaje en el que un compañero se burla de Juan Carlos, poniéndolo en ridículo.</p>
                         <div class="cont row">
                             <div class="col-12 col-md-6 image-side">
-                                <img src="../img/mod2/2-03_act_img-02.png" alt=""/>
+                                <img src="../img/mod2/2-03_act_img-02.png" alt="" class="img-fluid"/>
                             </div>
                             <div class="col-12 col-md-6 data-side">
                                 <div class="audio-item row incorrect inactive">
@@ -102,16 +105,19 @@
                                     </div>
                                 </div>
                             </div>
+                            
+                        </div>
+                        <div class="row">
                             <button class="gotoModulePage baki" data-page="2">Atrás</button>
                             <button class="gotoModulePage conti" data-page="4">Continuar</button>
-                        </div>
+                        </div>        
                     </div>
                     <div id="act_01p4" class="d-none mod ">
                         <p>Mariana recibe mensajes en que una persona que no conoce le comparte videos con contenidos sexuales.</p>
                         <div class="cont row">
                             
                             <div class="col-12 col-md-6 image-side">
-                                <img src="../img/mod2/2-03_act_img-03.png" alt=""/>
+                                <img src="../img/mod2/2-03_act_img-03.png" alt="" class="img-fluid"/>
                             </div>
                             <div class="col-12 col-md-6 data-side">
                                 <div class="audio-item row incorrect inactive">
@@ -131,8 +137,11 @@
                                     </div>
                                 </div>
                             </div>
-                            <button class="gotoModulePage btn btn-dark baki conti-baki" data-page="3">Atrás</button>
-                            <button class="gotoModulePage btn btn-dark baki conti-baki" data-page="5">Atrás</button>
+                            
+                        </div>
+                        <div class="row">
+                            <button class="gotoModulePage baki" data-page="3">Atrás</button>
+                            <button class="gotoModulePage conti" data-page="5">Continuar</button>
                         </div>
                     </div>
                     <div id="act_01p5" class="d-none mod ">
@@ -140,7 +149,7 @@
                         <div class="cont row">
                             
                             <div class="col-12 col-md-6 image-side">
-                                <img src="../img/mod2/2-03_act_img-04.png" alt=""/>
+                                <img src="../img/mod2/2-03_act_img-04.png" alt="" class="img-fluid"/>
                             </div>
                             <div class="col-12 col-md-6 data-side">
                                 <div class="audio-item row incorrect inactive">
@@ -160,8 +169,10 @@
                                     </div>
                                 </div>
                             </div>
-                            <button class="gotoModulePage btn btn-dark baki conti-baki" data-page="4">Atrás</button>
-                            <button class="gotoModulePage btn btn-dark baki conti-baki" data-page="6">Atrás</button>
+                        </div>
+                        <div class="row">
+                            <button class="gotoModulePage baki" data-page="4">Atrás</button>
+                            <button class="gotoModulePage conti" data-page="6">Atrás</button>
                         </div>
                     </div>
                     <div id="act_01p6" class="d-none mod ">
@@ -169,7 +180,7 @@
                         <div class="cont row">
                             
                             <div class="col-12 col-md-6 image-side">
-                                <img src="../img/mod2/2-03_act_img-05.png" alt=""/>
+                                <img src="../img/mod2/2-03_act_img-05.png" alt="" class="img-fluid"/>
                             </div>
                             <div class="col-12 col-md-6 data-side">
                                 <div class="audio-item row incorrect inactive">
@@ -189,8 +200,11 @@
                                     </div>
                                 </div>
                             </div>
-                            <button class="gotoModulePage btn btn-dark baki conti-baki" data-page="5">Atrás</button>
-                            <button class="gotoModulePage btn btn-dark baki conti-baki" data-page="7">Atrás</button>
+                            
+                        </div>
+                        <div class="row">
+                            <button class="gotoModulePage baki" data-page="5">Atrás</button>
+                            <button class="gotoModulePage conti" data-page="7">Atrás</button>
                         </div>
                     </div>
                     <div id="act_01p7" class="d-none mod ">
@@ -198,7 +212,7 @@
                         <div class="cont row">
                             
                             <div class="col-12 col-md-6 image-side">
-                                <img src="../img/mod2/2-03_act_img-06.png" alt=""/>
+                                <img src="../img/mod2/2-03_act_img-06.png" alt="" class="img-fluid"/>
                             </div>
                             <div class="col-12 col-md-6 data-side">
                                 <div class="audio-item row incorrect inactive">
@@ -218,8 +232,11 @@
                                     </div>
                                 </div>
                             </div>
-                            <button class="gotoModulePage btn btn-dark baki conti-baki" data-page="6">Atrás</button>
-                            <button class="gotoModulePage btn btn-dark baki conti-baki" data-page="8">Atrás</button>
+                            
+                        </div>
+                        <div class="row">
+                            <button class="gotoModulePage baki" data-page="6">Atrás</button>
+                            <button class="gotoModulePage conti" data-page="8">Atrás</button>
                         </div>
                     </div>
                     <div id="act_01p8" class="d-none mod ">
@@ -227,7 +244,7 @@
                         <div class="cont row">
                             
                             <div class="col-12 col-md-6 image-side">
-                                <img src="../img/mod2/2-03_act_img-07.png" alt=""/>
+                                <img src="../img/mod2/2-03_act_img-07.png" alt="" class="img-fluid"/>
                             </div>
                             <div class="col-12 col-md-6 data-side">
                                 <div class="audio-item row incorrect inactive">
@@ -247,8 +264,11 @@
                                     </div>
                                 </div>
                             </div>
-                            <button class="gotoModulePage btn btn-dark baki conti-baki" data-page="7">Atrás</button>
-                            <button class="gotoModulePage btn btn-dark baki conti-baki" data-page="9">Siguiente</button>
+                            
+                        </div>
+                        <div class="row">
+                            <button class="gotoModulePage baki" data-page="7">Atrás</button>
+                            <button class="gotoModulePage conti" data-page="9">Siguiente</button>
                         </div>
                     </div>
                     <div id="act_01p9" class="d-none mod ">
@@ -256,7 +276,7 @@
                         <div class="cont row">
                             
                             <div class="col-12 col-md-6 image-side">
-                                <img src="../img/mod2/2-03_act_img-07.png" alt=""/>
+                                <img src="../img/mod2/2-03_act_img-08.png" alt="" class="img-fluid"/>
                             </div>
                             <div class="col-12 col-md-6 data-side">
                                 <div class="audio-item row incorrect inactive">
@@ -276,24 +296,30 @@
                                     </div>
                                 </div>
                             </div>
-                            <button class="gotoModulePage btn btn-dark baki conti-baki" data-page="8">Atrás</button>
-                            <button class="gotoModulePage btn btn-dark baki conti-baki" data-page="10">Continuar</button>
+                            
+                        </div>
+                        <div class="row">
+                            <button class="gotoModulePage baki" data-page="8">Atrás</button>
+                            <button class="gotoModulePage conti" data-page="10">Continuar</button>
                         </div>
                     </div>
                     <div id="act_01p10" class="d-none mod ">
-                        <p>Mauricio recibe memes con contenidos sexuales en su celular.</p>
-                        <div class="cont row">
+                        <div class="cont row final-page">
                             
                             <div class="col-12 col-md-7 data-side">
-                                <p><strong>¡Ha llegado al final de esta actividad!</strong></p>
-                                <p>Esperamos que le haya sido útil para comprender la diferencia entre conductas protectoras y conductas de riesgo.</p>
+                                <p class="text-center"><strong>¡Ha llegado al final de esta actividad!</strong></p>
+                                <p class="text-center"  >Esperamos que le haya sido útil para comprender la diferencia entre conductas protectoras y conductas de riesgo.</p>
                             </div>
                             <div class="col-12 col-md-5 image-side">
-                                <img src="../img/mod2/2-03_act_img-07.png" alt=""/>
+                                <img src="../img/mod2/2-03_act_img-07.png" alt="" class="img-fluid" />
                             </div>
-                            <button class="gotoModulePage btn btn-dark baki conti-baki" data-page="9">Atrás</button>
+                            
+                        </div>
+                        <div class="row">
+                            <button class="gotoModulePage baki" data-page="9">Atrás</button>
                         </div>
                     </div>
+
                 </div>
             </section>
             <div class="modal fade" id="modal_1-08_act1" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
@@ -310,7 +336,7 @@
                                 <div class="col-6">
                                     <ul>
                                         <li>Problemas para dormir </li>
-                                        <li>Pesadillas</li> 
+                                        <li>Pesadillas</li>
                                         <li>No comer o comer mucho, problemas para controlar la necesidad de ir al baño</li>
                                         <li>Ansiedad, temor, culpa, vergüenza, depresión</li>
                                         <li>Agresividad, consumo de drogas, escaparse de la escuela/colegio</li>
@@ -409,36 +435,18 @@
     </div>
 
 
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <script src="../js/jquery.min.js"></script>
     <script src="../js/bootstrap.bundle.js" type="text/javascript"></script>
     <script src="../js/bootstrap.js" type="text/javascript"></script>
-    <script src="https://cdn.jsdelivr.net/bxslider/4.2.12/jquery.bxslider.min.js"></script>
 
-    <script type="text/javascript" src="../js/map/jquery.imagemapster.js"></script>
-    <script type="text/javascript" src="../js/map/when.js"></script>
-    <script type="text/javascript" src="../js/map/core.js"></script>
-    <script type="text/javascript" src="../js/map/graphics.js"></script>
-    <script type="text/javascript" src="../js/map/mapimage.js"></script>
-    <script type="text/javascript" src="../js/map/mapdata.js"></script>
-    <script type="text/javascript" src="../js/map/areadata.js"></script>
-    <script type="text/javascript" src="../js/map/areacorners.js"></script>
-    <script type="text/javascript" src="../js/map/scale.js"></script>
-    <script type="text/javascript" src="../js/map/tooltip.js"></script>
-    <script type="text/javascript" src="../js/map/jquery.rwdImageMaps.js"></script>
-    <script type="text/javascript" src="../js/map/init.js" ></script>
     <script>
         $(".gotoModulePage").click(function () {
             $(".mod").addClass("d-none");
             $("#act_01p" + $(this).data("page")).removeClass("d-none");
         });
 
-        $("area").click(function (e) {
-            e.preventDefault();
-            console.log($(this).data("nbr"));
-            $(".act-07-mdl").addClass("d-none");
-            $(".act-07-mdl.act0" + $(this).data("nbr")).removeClass("d-none");
-            $("#modal_1-07_act").modal("show");
-
+        $(".audio-item img").click(function (e) {
+            $(this).parent().parent().toggleClass("inactive");
         });
         $.ajax({
             url: "../db/user/update_module.php",

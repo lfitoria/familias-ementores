@@ -16,7 +16,7 @@
 
     <body>
         <div class="wrapper">
-
+        <?php include 'db/connection/conexion.php'; ?>
 
             <!-- Page Content -->
 
