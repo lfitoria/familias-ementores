@@ -444,8 +444,8 @@
             url: "../db/user/update_module.php",
             method: "POST",
             data: {
-                step: 8,
-                module: 1
+                step: 3,
+                module: 2
             },
             dataType: "html"
         });

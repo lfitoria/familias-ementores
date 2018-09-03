@@ -71,6 +71,7 @@ h4{
     background-color: transparent;
     border: none;
     color: #000;
+        background-repeat: no-repeat;
 }
 .baki,.conti {
     background-color: transparent;

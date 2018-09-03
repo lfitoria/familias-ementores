@@ -191,7 +191,7 @@
                                                 <div class="col-12 col-sm-6 col-md-4 col-lg-3">
                                                     <div class="item-module <?php if ($values2[3]["is_completed"] == 1) : ?>active<?php endif ?>">
                                                         <!-- <img src="img/icon.png" alt=""/> -->
-                                                        <a href="#4" class="v2-act-4">INFOGRÁFICO 01</a><!--<p class=dots-mod>. . .</p>-->
+                                                        <a href="mod_2/2-04_inf.php" class="v2-act-4">INFOGRÁFICO 01</a><!--<p class=dots-mod>. . .</p>-->
                                                     </div>
                                                 </div>
 
@@ -199,7 +199,7 @@
                                                 <div class="col-12 col-sm-6 col-md-4 col-lg-3">
                                                     <div class="item-module <?php if ($values2[4]["is_completed"] == 1) : ?>active<?php endif ?>">
                                                         <!-- <img src="img/icon.png" alt=""/> -->
-                                                        <a href="#5" class="v2-act-5">ACTIVIDAD 02</a><!--<p class=dots-mod>. . .</p>-->
+                                                        <a href="mod_2/2-05_act.php" class="v2-act-5">ACTIVIDAD 02</a><!--<p class=dots-mod>. . .</p>-->
                                                     </div>
                                                 </div>
                                                 <div class="col-12 col-sm-6 col-md-4 col-lg-3">
