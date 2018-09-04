@@ -72,6 +72,21 @@ Realice esta actividad para reflexionar sobre las emociones que nos pueden provo
                         <!-- slide2 -->
                         <div id="act_01p2" class="d-none mod">
                             
+                            <div class="row align-items-center justify-content-center">
+                                <div class="col-6 " >
+                                <h3>  Usted comparte una foto íntima con una persona, y luego se la encuentra en Internet. 
+                                </h3>     
+                                </div> 
+                                <div class="col-3">
+                                    <img src="../img/mod2/2-06_act-situacion1.png" class="img-fluid">
+                                </div>
+                                
+                                </div>
+                                <div class="row align-items-center justify-content-center">
+                                <div class="col-9">
+                                    <p>Escoja la emoción que lo hace sentir esta situación.</p>
+                                </div>
+                                </div>
 
                                 <div class="row">
                                     <div class="col-6 col-sm sit-1-t">
@@ -101,10 +116,39 @@ Realice esta actividad para reflexionar sobre las emociones que nos pueden provo
                         <!-- fin slide2 -->
 
                         <div id="act_01p3" class="d-none mod">
+                                <div class="row align-items-center justify-content-center">
+                                <div class="col-6 " >
+                                <h3>Aparece  en redes sociales un mensaje en el que una persona se burla de usted.
+                                </h3>     
+                                </div> 
+                                <div class="col-3">
+                                    <img src="../img/mod2/2-06_act-situacion2.png" class="img-fluid">
+                                </div>
+                                
+                                </div>
+                                <div class="row align-items-center justify-content-center">
+                                <div class="col-9">
+                                    <p>Escoja la emoción que lo hace sentir esta situación.</p>
+                                </div>
+                                </div>
+
                                 <div class="row">
-                            <p>Haga clic en los botones para descubrir cuáles son las consecuencias
-                                emocionales, sociales y físicas del abuso sexual.</p>
-                            </div>
+                                    <div class="col-6 col-sm sit-2-t">
+                                        <a data-modl="sit-2-t">Tristeza</a>
+                                    </div>
+                                    <div class="col-6 col-sm sit-2-e">
+                                        <a data-modl="sit-2-e">Enojo</a>
+                                    </div>
+                                    <div class="col-6 col-sm sit-2-i">
+                                        <a data-modl="sit-2-i">Indiferencia</a>
+                                    </div>
+                                    <div class="col-6 col-sm sit-2-m">
+                                        <a data-modl="sit-2-m">Miedo</a>
+                                    </div>
+                                    <div class="col-6 col-sm sit-2-d">
+                                        <a data-modl="sit-2-d">Disgusto</a>
+                                    </div>
+                                </div>
                             <div class="row">
                             <button class="gotoModulePage baki " data-page="1">Atrás</button>
                             <button class="gotoModulePage conti " data-page="4">Continuar</button>
@@ -112,22 +156,114 @@ Realice esta actividad para reflexionar sobre las emociones que nos pueden provo
                         </div>
                         
                         <div id="act_01p4" class="d-none mod ">
-                            <div class="row align-items-center justify-content-md-center">
-                                <div class="col-12 col-sm-4">
-                                    <p>
-                                        Recordá que la Crianza respetuosa no es permisiva, ni carece de límites.
-                                    </p>
-                                    <p>
-                                        Promueve que estos límites se construyan en conjunto y negociando para resolver conflictos de manera afectuosa y comprensiva.
-                                    </p>
+                           <div class="row align-items-center justify-content-center">
+                                <div class="col-6 " >
+                                <h3>Una persona le pide dinero a cambio de no revelar un secreto suyo en redes sociales. 
+                                </h3>     
+                                </div> 
+                                <div class="col-3">
+                                    <img src="../img/mod2/2-06_act-situacion3.png" class="img-fluid">
                                 </div>
-                                <div class="col-12 col-sm-4">
-                                    <img src="../img/mod2/2-02a_sli-grafico.png" class="img-fluid img-md">
+                                
+                                </div>
+                                <div class="row align-items-center justify-content-center">
+                                <div class="col-9">
+                                    <p>Escoja la emoción que lo hace sentir esta situación.</p>
+                                </div>
                                 </div>
 
+                                <div class="row">
+                                    <div class="col-6 col-sm sit-3-t">
+                                        <a data-modl="sit-3-t">Tristeza</a>
+                                    </div>
+                                    <div class="col-6 col-sm sit-3-e">
+                                        <a data-modl="sit-3-e">Enojo</a>
+                                    </div>
+                                    <div class="col-6 col-sm sit-3-i">
+                                        <a data-modl="sit-3-i">Indiferencia</a>
+                                    </div>
+                                    <div class="col-6 col-sm sit-3-m">
+                                        <a data-modl="sit-3-m">Miedo</a>
+                                    </div>
+                                    <div class="col-6 col-sm sit-3-d">
+                                        <a data-modl="sit-3-d">Disgusto</a>
+                                    </div>
+                                </div>
+                                <div class="row">
+                            <button class="gotoModulePage baki " data-page="3">Atrás</button>
+                            <button class="gotoModulePage conti " data-page="5">Continuar</button>
                             </div>
-                            <button class="gotoModulePage btn btn-dark baki conti-baki" data-page="3">Atrás</button>
                         </div>
+                        <div id="act_01p5" class="d-none mod ">
+                           <div class="row align-items-center justify-content-center">
+                                <div class="col-6 " >
+                                <h3>Una persona le pide que le envíe fotos íntimas.
+                                </h3>     
+                                </div> 
+                                <div class="col-3">
+                                    <img src="../img/mod2/2-06_act-situacion4.png" class="img-fluid">
+                                </div>
+                                
+                                </div>
+                                <div class="row align-items-center justify-content-center">
+                                <div class="col-9">
+                                    <p>Escoja la emoción que lo hace sentir esta situación.</p>
+                                </div>
+                                </div>
+
+                                <div class="row">
+                                    <div class="col-6 col-sm sit-4-t">
+                                        <a data-modl="sit-4-t">Tristeza</a>
+                                    </div>
+                                    <div class="col-6 col-sm sit-4-e">
+                                        <a data-modl="sit-4-e">Enojo</a>
+                                    </div>
+                                    <div class="col-6 col-sm sit-4-i">
+                                        <a data-modl="sit-4-i">Indiferencia</a>
+                                    </div>
+                                    <div class="col-6 col-sm sit-4-m">
+                                        <a data-modl="sit-4-m">Miedo</a>
+                                    </div>
+                                    <div class="col-6 col-sm sit-4-d">
+                                        <a data-modl="sit-4-d">Disgusto</a>
+                                    </div>
+                                </div>
+                            <div class="row">
+                            <button class="gotoModulePage baki " data-page="4">Atrás</button>
+                            <button class="gotoModulePage conti " data-page="6">Continuar</button>
+                            </div>
+                        </div>
+                        <!-- 6 -->
+                        <div id="act_01p6" class="d-none mod ">
+                           
+                                <div class="col text-center" >
+                                <h3>¡Preste atención a sus emociones! 
+                                </h3>     
+                                </div> 
+                  
+
+                                <div class="row">
+                                    <div class="col-6 col-sm sit-4-t">
+                                        <a data-modl="sit-4-t">Tristeza</a>
+                                    </div>
+                                    <div class="col-6 col-sm sit-4-e">
+                                        <a data-modl="sit-4-e">Enojo</a>
+                                    </div>
+                                    <div class="col-6 col-sm sit-4-i">
+                                        <a data-modl="sit-4-i">Indiferencia</a>
+                                    </div>
+                                    <div class="col-6 col-sm sit-4-m">
+                                        <a data-modl="sit-4-m">Miedo</a>
+                                    </div>
+                                    <div class="col-6 col-sm sit-4-d">
+                                        <a data-modl="sit-4-d">Disgusto</a>
+                                    </div>
+                                </div>
+                                <p>Las emociones de miedo, tristeza, enojo y disgusto son avisos de que algo no está bien y que hay que buscar ayuda, mantener la calma y evitar la violencia. Al usar Internet y redes sociales es importante mantener el respeto en todo momento, cuidarse y cuidar a los demás.</p>
+                                <p></p>
+                            <button class="gotoModulePage btn btn-dark baki conti-baki" data-page="5">Atrás</button>
+                        </div>
+                        <!-- fin 6 -->
 
 
 
@@ -147,42 +283,348 @@ Realice esta actividad para reflexionar sobre las emociones que nos pueden provo
                                 <!-- <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button> -->
                                 <div class="row d-none act-04-mdl act-sit-1-t" >
                                     <div class="col-12">
+                                        <div class="row align-items-center">
+                                            <div class="col"> 
                                        <span class="ico"></span>
-                                        
-
-                                        Permite compartir fotos, videos, enlaces, estados de ánimo e interactuar con las personas parte de la lista de contactos. Es un espacio de interacción en el que es posible comentar las publicaciones propias y de otros de forma pública. Es recomendable mantener en la lista de contactos solo a personas conocidas y modificar las variables de seguridad para decidir quién puede ver cada cosa que publicamos.
+                                       </div>
+                                       <div class="col">
+                                       <span class="title-b"></span>
+                                        </div>
+                                        </div>
+                                       <p class="text-center">
+                                        <audio width="100%" height="auto" id="video" controls>
+                                            <source src="../audios/mod2/2-06_act_1tristeza.mp3" type="audio/mp3">
+                                        </audio>
+                                        </p>
                                     </div>
                                 </div>
                                 <div class="row d-none act-04-mdl act-sit-1-e" >
                                     <div class="col-12">
-                                         <span class="ico"></span>
-                                        <a href="http://www.instagram.com">instagram.com</a><br>
-                                        Las personas usuarias pueden subir fotos o vídeos y agregarles filtros fotográficos y efectos. Además las personas usuarias pueden usar hashtags (palabras clave precedidas por el signo #) para identificar de qué tipo de imagen se trata. En Instagram las fotografías son, por default, públicas y hay que modificar las variables de publicación para que puedan verlas sólo nuestros seguidores. 
+                                         <div class="row align-items-center">
+                                            <div class="col"> 
+                                       <span class="ico"></span>
+                                       </div>
+                                       <div class="col">
+                                       <span class="title-b"></span>
+                                        </div>
+                                        </div>
+                                        <p class="text-center">
+                                        <audio width="100%" height="auto" id="video" controls>
+                                            <source src="../audios/mod2/2-06_act_1enojo.mp3" type="audio/mp3">
+                                        </audio>
+                                        </p>
                                     </div>
                                 </div>
                                 <div class="row d-none act-04-mdl act-sit-1-i" >
                                     <div class="col-12">
-                                         <span class="ico"></span>
-                                        <a href="http://www.snapchat.com">snapchat.com</a><br>
-                                        Permite enviar fotos y vídeos que se borran pocos segundos después de que la persona que los recibió los abrió. Aunque se puede considerar “más seguro” porque los videos desaparecen inmediatamente, en realidad, esto puede convertirse en un riesgo ya que las personas abusadoras pueden actuar sabiendo que el video va a desaparecer después de que sea visto (sin dejar pruebas del abuso cometido).  
+                                         <div class="row align-items-center">
+                                            <div class="col"> 
+                                       <span class="ico"></span>
+                                       </div>
+                                       <div class="col">
+                                       <span class="title-b"></span>
+                                        </div>
+                                        </div>
+                                        <p class="text-center">
+                                        <audio width="100%" height="auto" id="video" controls>
+                                            <source src="../audios/mod2/2-06_act_1indiferencia.mp3" type="audio/mp3">
+                                        </audio>
+                                        </p>
                                     </div>
                                 </div>
                                 <div class="row d-none act-04-mdl act-sit-1-m" >
                                     <div class="col-12">
-                                         <span class="ico"></span>
-                                        <a href="http://www.whatsapp.com">whatsapp.com</a><br>
-                                        Aplicación que permite enviar mensajes instantáneos, que pueden ser textos, fotos, vídeos o audios. WhatsApp se ha vuelto una herramienta de comunicación muy popular, especialmente por la utilidad de los grupos. Los grupos son áreas de comunicación para dos o más contactos que se usan, por ejemplo, entre familias para enviar fotos, organizar eventos, etc. Es importante no establecer contacto con desconocidos a través de WhatsApp y además recordar que todo lo que enviamos, deja de estar bajo nuestro control.
+                                         <div class="row align-items-center">
+                                            <div class="col"> 
+                                       <span class="ico"></span>
+                                       </div>
+                                       <div class="col">
+                                       <span class="title-b"></span>
+                                        </div>
+                                        </div>
+                                        <p class="text-center">
+                                        <audio width="100%" height="auto" id="video" controls>
+                                            <source src="../audios/mod2/2-06_act_1miedo.mp3" type="audio/mp3">
+                                        </audio>
+                                        </p>
                                     </div>
                                 </div>
                                 <div class="row d-none act-04-mdl act-sit-1-d" >
                                     <div class="col-12">
-                                         <span class="ico"></span>
-                                        <a href="http://www.twitch.tv">twitch.tv</a><br>
-                                        Plataforma para ver y subir vídeos en vivo que se usa, sobre todo, para compartir las sesiones en vivo de personas reales jugando juegos de video o juegos en línea. Precisamente por ser en vivo, el contenido dentro de Twitch es difícil de evaluar. Es posible que el contenido de los juegos no sea apropiado o que los jugadores usen un lenguaje violento o con referencias sexuales. 
+                                         <div class="row align-items-center">
+                                            <div class="col"> 
+                                       <span class="ico"></span>
+                                       </div>
+                                       <div class="col">
+                                       <span class="title-b"></span>
+                                        </div>
+                                        </div>
+                                        <p class="text-center">
+                                        <audio width="100%" height="auto" id="video" controls>
+                                            <source src="../audios/mod2/2-06_act_1disgusto.mp3" type="audio/mp3">
+                                        </audio>
+                                        </p>
                                     </div>
                                 </div>
-                                
-                            </div>
+                                <!-- fin sit1 -->
+                                <div class="row d-none act-04-mdl act-sit-2-t" >
+                                    <div class="col-12">
+                                        <div class="row align-items-center">
+                                            <div class="col"> 
+                                       <span class="ico"></span>
+                                       </div>
+                                       <div class="col">
+                                       <span class="title-b"></span>
+                                        </div>
+                                        </div>
+                                       <p class="text-center">
+                                        <audio width="100%" height="auto" id="video" controls>
+                                            <source src="../audios/mod2/2-06_act_2tristeza.mp3" type="audio/mp3">
+                                        </audio>
+                                        </p>
+                                    </div>
+                                </div>
+                                <div class="row d-none act-04-mdl act-sit-2-e" >
+                                    <div class="col-12">
+                                         <div class="row align-items-center">
+                                            <div class="col"> 
+                                       <span class="ico"></span>
+                                       </div>
+                                       <div class="col">
+                                       <span class="title-b"></span>
+                                        </div>
+                                        </div>
+                                        <p class="text-center">
+                                        <audio width="100%" height="auto" id="video" controls>
+                                            <source src="../audios/mod2/2-06_act_2enojo.mp3" type="audio/mp3">
+                                        </audio>
+                                        </p>
+                                    </div>
+                                </div>
+                                <div class="row d-none act-04-mdl act-sit-2-i" >
+                                    <div class="col-12">
+                                         <div class="row align-items-center">
+                                            <div class="col"> 
+                                       <span class="ico"></span>
+                                       </div>
+                                       <div class="col">
+                                       <span class="title-b"></span>
+                                        </div>
+                                        </div>
+                                        <p class="text-center">
+                                        <audio width="100%" height="auto" id="video" controls>
+                                            <source src="../audios/mod2/2-06_act_2indiferencia.mp3" type="audio/mp3">
+                                        </audio>
+                                        </p>
+                                    </div>
+                                </div>
+                                <div class="row d-none act-04-mdl act-sit-2-m" >
+                                    <div class="col-12">
+                                         <div class="row align-items-center">
+                                            <div class="col"> 
+                                       <span class="ico"></span>
+                                       </div>
+                                       <div class="col">
+                                       <span class="title-b"></span>
+                                        </div>
+                                        </div>
+                                        <p class="text-center">
+                                        <audio width="100%" height="auto" id="video" controls>
+                                            <source src="../audios/mod2/2-06_act_2miedo.mp3" type="audio/mp3">
+                                        </audio>
+                                        </p>
+                                    </div>
+                                </div>
+                                <div class="row d-none act-04-mdl act-sit-2-d" >
+                                    <div class="col-12">
+                                         <div class="row align-items-center">
+                                            <div class="col"> 
+                                       <span class="ico"></span>
+                                       </div>
+                                       <div class="col">
+                                       <span class="title-b"></span>
+                                        </div>
+                                        </div>
+                                        <p class="text-center">
+                                        <audio width="100%" height="auto" id="video" controls>
+                                            <source src="../audios/mod2/2-06_act_2disgusto.mp3" type="audio/mp3">
+                                        </audio>
+                                        </p>
+                                    </div>
+                                </div>
+                                <!-- fin sit2 -->
+                                <div class="row d-none act-04-mdl act-sit-3-t" >
+                                    <div class="col-12">
+                                        <div class="row align-items-center">
+                                            <div class="col"> 
+                                       <span class="ico"></span>
+                                       </div>
+                                       <div class="col">
+                                       <span class="title-b"></span>
+                                        </div>
+                                        </div>
+                                       <p class="text-center">
+                                        <audio width="100%" height="auto" id="video" controls>
+                                            <source src="../audios/mod2/2-06_act_3tristeza.mp3" type="audio/mp3">
+                                        </audio>
+                                        </p>
+                                    </div>
+                                </div>
+                                <div class="row d-none act-04-mdl act-sit-3-e" >
+                                    <div class="col-12">
+                                         <div class="row align-items-center">
+                                            <div class="col"> 
+                                       <span class="ico"></span>
+                                       </div>
+                                       <div class="col">
+                                       <span class="title-b"></span>
+                                        </div>
+                                        </div>
+                                        <p class="text-center">
+                                        <audio width="100%" height="auto" id="video" controls>
+                                            <source src="../audios/mod2/2-06_act_3enojo.mp3" type="audio/mp3">
+                                        </audio>
+                                        </p>
+                                    </div>
+                                </div>
+                                <div class="row d-none act-04-mdl act-sit-3-i" >
+                                    <div class="col-12">
+                                         <div class="row align-items-center">
+                                            <div class="col"> 
+                                       <span class="ico"></span>
+                                       </div>
+                                       <div class="col">
+                                       <span class="title-b"></span>
+                                        </div>
+                                        </div>
+                                        <p class="text-center">
+                                        <audio width="100%" height="auto" id="video" controls>
+                                            <source src="../audios/mod2/2-06_act_3indiferencia.mp3" type="audio/mp3">
+                                        </audio>
+                                        </p>
+                                    </div>
+                                </div>
+                                <div class="row d-none act-04-mdl act-sit-3-m" >
+                                    <div class="col-12">
+                                         <div class="row align-items-center">
+                                            <div class="col"> 
+                                       <span class="ico"></span>
+                                       </div>
+                                       <div class="col">
+                                       <span class="title-b"></span>
+                                        </div>
+                                        </div>
+                                        <p class="text-center">
+                                        <audio width="100%" height="auto" id="video" controls>
+                                            <source src="../audios/mod2/2-06_act_3miedo.mp3" type="audio/mp3">
+                                        </audio>
+                                        </p>
+                                    </div>
+                                </div>
+                                <div class="row d-none act-04-mdl act-sit-3-d" >
+                                    <div class="col-12">
+                                         <div class="row align-items-center">
+                                            <div class="col"> 
+                                       <span class="ico"></span>
+                                       </div>
+                                       <div class="col">
+                                       <span class="title-b"></span>
+                                        </div>
+                                        </div>
+                                        <p class="text-center">
+                                        <audio width="100%" height="auto" id="video" controls>
+                                            <source src="../audios/mod2/2-06_act_3disgusto.mp3" type="audio/mp3">
+                                        </audio>
+                                        </p>
+                                    </div>
+                                </div>
+                                <!-- fin sit3 -->
+                                <div class="row d-none act-04-mdl act-sit-4-t" >
+                                    <div class="col-12">
+                                        <div class="row align-items-center">
+                                            <div class="col"> 
+                                       <span class="ico"></span>
+                                       </div>
+                                       <div class="col">
+                                       <span class="title-b"></span>
+                                        </div>
+                                        </div>
+                                       <p class="text-center">
+                                        <audio width="100%" height="auto" id="video" controls>
+                                            <source src="../audios/mod2/2-06_act_4tristeza.mp3" type="audio/mp3">
+                                        </audio>
+                                        </p>
+                                    </div>
+                                </div>
+                                <div class="row d-none act-04-mdl act-sit-4-e" >
+                                    <div class="col-12">
+                                         <div class="row align-items-center">
+                                            <div class="col"> 
+                                       <span class="ico"></span>
+                                       </div>
+                                       <div class="col">
+                                       <span class="title-b"></span>
+                                        </div>
+                                        </div>
+                                        <p class="text-center">
+                                        <audio width="100%" height="auto" id="video" controls>
+                                            <source src="../audios/mod2/2-06_act_4enojo.mp3" type="audio/mp3">
+                                        </audio>
+                                        </p>
+                                    </div>
+                                </div>
+                                <div class="row d-none act-04-mdl act-sit-4-i" >
+                                    <div class="col-12">
+                                         <div class="row align-items-center">
+                                            <div class="col"> 
+                                       <span class="ico"></span>
+                                       </div>
+                                       <div class="col">
+                                       <span class="title-b"></span>
+                                        </div>
+                                        </div>
+                                        <p class="text-center">
+                                        <audio width="100%" height="auto" id="video" controls>
+                                            <source src="../audios/mod2/2-06_act_4indiferencia.mp3" type="audio/mp3">
+                                        </audio>
+                                        </p>
+                                    </div>
+                                </div>
+                                <div class="row d-none act-04-mdl act-sit-4-m" >
+                                    <div class="col-12">
+                                         <div class="row align-items-center">
+                                            <div class="col"> 
+                                       <span class="ico"></span>
+                                       </div>
+                                       <div class="col">
+                                       <span class="title-b"></span>
+                                        </div>
+                                        </div>
+                                        <p class="text-center">
+                                        <audio width="100%" height="auto" id="video" controls>
+                                            <source src="../audios/mod2/2-06_act_4miedo.mp3" type="audio/mp3">
+                                        </audio>
+                                        </p>
+                                    </div>
+                                </div>
+                                <div class="row d-none act-04-mdl act-sit-4-d" >
+                                    <div class="col-12">
+                                         <div class="row align-items-center">
+                                            <div class="col"> 
+                                       <span class="ico"></span>
+                                       </div>
+                                       <div class="col">
+                                       <span class="title-b"></span>
+                                        </div>
+                                        </div>
+                                        <p class="text-center">
+                                        <audio width="100%" height="auto" id="video" controls>
+                                            <source src="../audios/mod2/2-06_act_4disgusto.mp3" type="audio/mp3">
+                                        </audio>
+                                        </p>
+                                    </div>
+                                </div>
+                            </div> <!-- fin body -->
                             <!-- <div class="modal-footer">
                                 <button type="button" class="btn btn-secondary" data-dismiss="modal">Cerrar</button>
                             </div> -->
@@ -271,7 +713,11 @@ Realice esta actividad para reflexionar sobre las emociones que nos pueden provo
 
 
 
-                $(".act-04-mdl.act-" + $(this).data("modl")).find("span.ico").html("<a class="+btnPressClass+">"+btnPressText+"</a>");
+                // $(".act-04-mdl.act-" + $(this).data("modl")).find("span.ico").html("<a class="+btnPressClass+">"+btnPressText+"</a>");
+                $(".act-04-mdl.act-" + $(this).data("modl")).find("span.ico").html("<a class="+btnPressClass+">&nbsp;</a>");
+
+                $(".act-04-mdl.act-" + $(this).data("modl")).find("span.title-b").text(btnPressText);
+
 
 
                 $("#modal_1-04_act").modal("show");
