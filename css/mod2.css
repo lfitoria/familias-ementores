@@ -131,7 +131,11 @@ div[class*='sit'] a{
 	display: block;
 	text-align: center;
 }
-.sit-1-t a:before,a.sit-1-t:before{
+a[class*='sit']:before{
+	display: inline-block !important;
+	width: 135px;
+}
+.sit-1-t a:before,a.sit-1-t:before,.sit-2-t a:before,a.sit-2-t:before,.sit-3-t a:before,a.sit-3-t:before,.sit-4-t a:before,a.sit-4-t:before{
 	content: '';
     background-image: url(../img/mod2/2-06_act-img-tristeza.png);
     display: block;
@@ -141,7 +145,7 @@ div[class*='sit'] a{
     margin: auto;
     background-position: center;
 }
-.sit-1-e a:before,a.sit-1-e:before{
+.sit-1-e a:before,a.sit-1-e:before,.sit-2-e a:before,a.sit-2-e:before,.sit-3-e a:before,a.sit-3-e:before,.sit-4-e a:before,a.sit-4-e:before{
 	content: '';
     background-image: url(../img/mod2/2-06_act-img-enojo.png);
     display: block;
@@ -151,7 +155,7 @@ div[class*='sit'] a{
     margin: auto;
     background-position: center;
 }
-.sit-1-i a:before,a.sit-1-i:before{
+.sit-1-i a:before,a.sit-1-i:before,.sit-2-i a:before,a.sit-2-i:before,.sit-3-i a:before,a.sit-3-i:before,.sit-4-i a:before,a.sit-4-i:before{
 	content: '';
     background-image: url(../img/mod2/2-06_act-img-indiferencia.png);
     display: block;
@@ -161,7 +165,7 @@ div[class*='sit'] a{
     margin: auto;
     background-position: center;
 }
-.sit-1-m a:before,a.sit-1-m:before{
+.sit-1-m a:before,a.sit-1-m:before,.sit-2-m a:before,a.sit-2-m:before,.sit-3-m a:before,a.sit-3-m:before,.sit-4-m a:before,a.sit-4-m:before{
 	content: '';
     background-image: url(../img/mod2/2-06_act-img-miedo.png);
     display: block;
@@ -171,7 +175,7 @@ div[class*='sit'] a{
     margin: auto;
     background-position: center;
 }
-.sit-1-d a:before,a.sit-1-d:before{
+.sit-1-d a:before,a.sit-1-d:before,.sit-2-d a:before,a.sit-2-d:before,.sit-3-d a:before,a.sit-3-d:before,.sit-4-d a:before,a.sit-4-d:before{
 	content: '';
     background-image: url(../img/mod2/2-06_act-img-disgusto.png);
     display: block;
@@ -182,4 +186,7 @@ div[class*='sit'] a{
     background-position: center;
 }
 
-
+span.title-b {
+    font-size: 1.3em;
+    color: #696969;
+}
