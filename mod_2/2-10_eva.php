@@ -171,7 +171,7 @@
                             <div class="question row">
                                 <div class="col-12 text-center">
                                     <p class="instruction text-left"><span>6</span> Lea el siguiente testimonio:</p>
-                                    <p class="text-help green">“Mi hija recibió por medio de una red social unos mensajes sexuales de alguien que no conoce. Está asustada. ¿Qué hago?”.</p>
+                                    <p class="text-help blue">“Mi hija recibió por medio de una red social unos mensajes sexuales de alguien que no conoce. Está asustada. ¿Qué hago?”.</p>
                                     <h3 class="">Elija la opción correcta.</h3>
                                 </div>
 
@@ -192,7 +192,7 @@
                             <div class="question row">
                                 <div class="col-12 text-center">
                                     <p class="instruction text-left"><span>7</span> Lea el siguiente testimonio:</p>
-                                    <p class="text-help green">“Yo tengo derecho a tomar todas las fotos que yo quiera de mis hijos y a compartirlas por Internet con mi familia y amigos”.</p>
+                                    <p class="text-help purple">“Yo tengo derecho a tomar todas las fotos que yo quiera de mis hijos y a compartirlas por Internet con mi familia y amigos”.</p>
                                     <h3 class="">¿Cierto o falso?</h3>
                                 </div>
 
@@ -210,7 +210,7 @@
                             <div class="question row">
                                 <div class="col-12 text-center">
                                      <p class="instruction text-left"><span>8</span> Lea el siguiente testimonio:</p>
-                                    <p class="text-help green">“Internet es una distracción. Es mejor que las personas menores de edad no tenga celulares o tablets porque pasan todo el día jugando videojuegos y eso los puede afectar en el colegio”.</p>
+                                    <p class="text-help orange">“Internet es una distracción. Es mejor que las personas menores de edad no tenga celulares o tablets porque pasan todo el día jugando videojuegos y eso los puede afectar en el colegio”.</p>
                                     <h3 class="">¿Cierto o falso?</h3>
                                 </div>
 
@@ -249,27 +249,23 @@
                         </div>
                         <div id="eva_09p11" class="mod d-none">
                             <div class="question row ">
-                                <div class="col-12 col-sm-7 text-center">
-                                    <p class="instruction text-left"><span>10</span> Observe la imagen. Este tipo de anuncio se usa para engañar a las personas menores de edad para secuestrarlas con fines sexuales. </p><h3>¿Cómo se llama este tipo de explotación sexual?</h3>
-                                </div>
-                                <div class="col-12 col-sm-5 text-center">
-                                    <img src="../img/mod1/1-09_eva-p10_img.png" alt="" class="img-fluid"/>
+                                <div class="col-12 text-center">
+                                    <p class="instruction text-left"><span>10</span> Esta imagen representa una posible situación de sexting... Como persona adulta, ¿cuál debería ser su reacción?. </p><h3>Elija la opción correcta.</h3>
                                 </div>
 
 
                             </div>
                             <div class="answers row final">
-                                <div class="col-12 col-sm-6 col-md-3 answer min-height-110" data-value="1">
-                                    <p>Pornografía infantil</p>
+                                <div class="col-12 col-md-6">
+                                    <img src="../img/mod2/1-09_eva-p6-img.png" alt="" class="d-block m-auto"/>
                                 </div>
-                                <div class="col-12 col-sm-6 col-md-3 answer min-height-110" data-value="2">
-                                    <p>Producción de material de abuso infantil</p>
-                                </div>
-                                <div class="col-12 col-sm-6 col-md-3 answer min-height-110" data-value="3">
-                                    <p>Explotación sexual turística</p>
-                                </div>
-                                <div class="col-12 col-sm-6 col-md-3 answer min-height-110" data-value="4">
-                                    <p>Trata de personas</p>
+                                <div class="col-12 col-md-6">
+                                    <div class="col-12 answer" data-value="1">
+                                        <p>Prohibirle volver a usar celular o tablet y revisar el historial de sus cuentas para saber a quién le ha estado mandando mensajes o fotos.</p>
+                                    </div>
+                                    <div class="col-12 answer" data-value="2">
+                                        <p>Sentarme a conversar con mi hija/hijo sobre qué es la huella digital y cómo cada cosa que publicamos en Internet puede volverse pública.</p>
+                                    </div>
                                 </div>
                             </div>
                         </div>
@@ -349,7 +345,7 @@
         <script src="https://cdn.jsdelivr.net/bxslider/4.2.12/jquery.bxslider.min.js"></script>
         <script>
             var user_answers = [];
-            var answers = [3, 2, 7, 2, 2, 2, 1, 2, 3, 4];
+            var answers = [5, 3, 2, 5, 3, 3, 2, 2, 2, 2];
             var multi = [];
             var score = 0;
             $(".gotoModulePage").click(function () {
