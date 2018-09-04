@@ -177,9 +177,9 @@
                                                     </div>
                                                 </div>
                                                 <div class="col-12 col-sm-6 col-md-4 col-lg-3">
-                                                    <div class="item-module <?php if ($values2[1]["is_completed"] == 1) : ?>active<?php endif ?>">
+                                                    <div class="item-module <?php if ($values2[9]["is_completed"] == 1) : ?>active<?php endif ?>">
                                                         <!-- <img src="img/icon.png" alt=""/> -->
-                                                        <a href="mod_2/2-02b_sli.php" class="v2-act-2">Ejemplos aplicados de crianza respetuosa</a><!--<p class=dots-mod>. . .</p>-->
+                                                        <a href="mod_2/2-02b_sli.php" class="v2-act-2a">Ejemplos aplicados de crianza respetuosa</a><!--<p class=dots-mod>. . .</p>-->
                                                     </div>
                                                 </div>
                                                 <div class="col-12 col-sm-6 col-md-4 col-lg-3">

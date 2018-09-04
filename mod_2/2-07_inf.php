@@ -1,9 +1,9 @@
 <html id="page-2-07_inf">
     <head>
-<meta http-equiv="Cache-Control" content="no-cache" />
-<meta http-equiv="Pragma" content="no-cache" />
-<meta http-equiv="Expires" content="0" />
-    <link rel="icon" href="../favicon.ico" type="image/gif">
+        <meta http-equiv="Cache-Control" content="no-cache" />
+        <meta http-equiv="Pragma" content="no-cache" />
+        <meta http-equiv="Expires" content="0" />
+        <link rel="icon" href="../favicon.ico" type="image/gif">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <title>Prevengo: acompaño en línea | e-mentores</title>
         <link  type="text/css"  href="../css/bootstrap.css" rel="stylesheet">
@@ -42,16 +42,15 @@
                 <p class="intro-header blue">Prevenir ≠ prohibir</p>
                 <section class="container">
                     <div class="main">
-                        <div id="act_01" class="mod">
+                        <div id="act_01" class="">
                             <div class="cont row">
                                 <div id="map_container">
-                                    <img usemap="#1-04-inf"  src="../img/mod2/2-07_inf.png" class="img-fluid">
-                                    <map name="1-04-inf">
+                                    <img usemap="#1-07-inf" id="img-map" src="../img/mod2/2-07_inf.png" class="img-fluid">
+                                    <map name="1-07-inf">
                                         <area data-nbr="1" shape='rect' coords='542, 832, 763, 904' href='#' />
                                         <area data-nbr="2" shape='rect' coords='539, 1332, 761, 1252' href='#' />
                                         <area data-nbr="3" shape='rect' coords='541, 1713, 761, 1788' href='#' />
                                         <area data-nbr="4" shape='rect' coords='541, 2143, 761, 2218' href='#' />
-                                      
                                     </map>
                                 </div>
                             </div>
@@ -106,7 +105,7 @@
                             <div class="col-12">
                                 <div class="slider3">
                                     <div>Es preciso aprender a protegerse y estar siempre alerta.</div>
-                                    
+
                                 </div>
                             </div>
                         </div>
@@ -117,7 +116,7 @@
                                 </div>
                             </div>
                         </div>
-                        
+
                     </div>
                     <!-- <div class="modal-footer">
                         <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
@@ -145,13 +144,11 @@
 
         <script>
             init();
-            var slider;
             $("area").click(function (e) {
                 e.preventDefault();
                 console.log($(this).data("nbr"));
                 $(".act-04-mdl").addClass("d-none");
                 $(".act-04-mdl.act0" + $(this).data("nbr")).removeClass("d-none");
-                slider = $(this).data("nbr");
                 $("#modal_1-04_act").modal("show");
 
             });
