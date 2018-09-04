@@ -1,9 +1,9 @@
 <html>
     <head>
-<meta http-equiv="Cache-Control" content="no-cache" />
-<meta http-equiv="Pragma" content="no-cache" />
-<meta http-equiv="Expires" content="0" />
-        <link rel="icon" href="favicon.ico" type="image/gif">
+        <meta http-equiv="Cache-Control" content="no-cache" />
+        <meta http-equiv="Pragma" content="no-cache" />
+        <meta http-equiv="Expires" content="0" />
+        <link rel="icon" href="../../favicon.ico" type="image/gif">
         <title>Me informo: oportunidades y desafíos en la web | e-mentores</title>
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <link  type="text/css"  href="../../css/bootstrap.css" rel="stylesheet">

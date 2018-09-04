@@ -5,7 +5,7 @@
     <meta http-equiv="Expires" content="0" />
     <meta name="viewport" content="width=device-width, initial-scale=1">
     
-    <link rel="icon" href="favicon.ico" type="image/gif">
+    <link rel="icon" href="../favicon.ico" type="image/gif">
     <link  type="text/css"  href="../css/bootstrap.css" rel="stylesheet">
     <link  type="text/css"  href="../css/bootstrap-grid.css" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=Nunito:300,400,700" rel="stylesheet">
@@ -444,6 +444,7 @@
 
                 </div>
             </div>
+            <a href="../0-03_menu.php" class="back_to_menu">Volver al menú</a>
             </section>
             <?php require '../footer.php'; ?>
         </div>

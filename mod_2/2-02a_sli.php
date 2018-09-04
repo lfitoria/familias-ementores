@@ -3,7 +3,7 @@
 <meta http-equiv="Cache-Control" content="no-cache" />
 <meta http-equiv="Pragma" content="no-cache" />
 <meta http-equiv="Expires" content="0" />
-        <link rel="icon" href="favicon.ico" type="image/gif">
+        <link rel="icon" href="../favicon.ico" type="image/gif">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <title>Prevengo: acompaño en línea | e-mentores</title>
         <link  type="text/css"  href="../css/bootstrap.css" rel="stylesheet">
@@ -119,7 +119,7 @@
                                                 
                                                 <div class="row align-items-center justify-content-md-center">
                                                     <div class="col-6">
-                                                        <p>Si es crianza respetuosa
+                                                        <p>Sí es crianza respetuosa
                                                         </p>
                                                     </div>
                                                     <div class="col-3">
@@ -145,7 +145,7 @@
                                                 <img src="../img/mod2/2-02a_sli-icono-video.png" alt="" class="d-block m-auto"/>
                                                 <div class="row align-items-center justify-content-md-center">
                                                     <div class="col-6">
-                                                        <p>Si es crianza respetuosa
+                                                        <p>Sí es crianza respetuosa
                                                         </p>
                                                     </div>
                                                     <div class="col-3">
@@ -171,8 +171,7 @@
                                                 <img src="../img/mod2/2-02a_sli-icono-plan.png" alt="" class="d-block m-auto"/>
                                                 <div class="row align-items-center justify-content-md-center">
                                                     <div class="col-6">
-                                                        <p>Si es crianza respetuosa
-                                                        </p>
+                                                        <p>Sí es crianza respetuosa</p>
                                                     </div>
                                                     <div class="col-3">
                                                         <img src="../img/mod2/2-02a_sli-icono-carita.png" alt="" class="d-block m-auto"/>
@@ -336,7 +335,7 @@
 
                     </div>
                 </div>
-                <a href="../0-03_menu.php" class="back_to_menu">Volver</a>
+                <a href="../0-03_menu.php" class="back_to_menu">Volver al menú</a>
                 </section>
                 <?php require '../footer.php'; ?>
             </div>

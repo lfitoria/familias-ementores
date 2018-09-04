@@ -1,9 +1,9 @@
 <html class="page-02-inf">
     <head>
-<meta http-equiv="Cache-Control" content="no-cache" />
-<meta http-equiv="Pragma" content="no-cache" />
-<meta http-equiv="Expires" content="0" />
-    <link rel="icon" href="favicon.ico" type="image/gif">
+        <meta http-equiv="Cache-Control" content="no-cache" />
+        <meta http-equiv="Pragma" content="no-cache" />
+        <meta http-equiv="Expires" content="0" />
+        <link rel="icon" href="../favicon.ico" type="image/gif">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <title>Me informo: oportunidades y desafíos en la web | e-mentores</title>
         <link  type="text/css"  href="../css/bootstrap.css" rel="stylesheet">
@@ -54,14 +54,14 @@
                                         <area data-nbr="6"  shape='rect' coords='664, 630, 817, 787' href='#' />
                                         <area data-nbr="7"  shape='rect' coords='438, 636, 597, 792' href='#' />
                                         <area data-nbr="8"  shape='rect' coords='202, 633, 355, 784' href='#' /> -->
-<area data-nbr="1" shape='rect' coords='363, 400, 237, 532' href='#' />
-<area data-nbr="2" shape='rect' coords='601, 405, 465, 540' href='#' />
-<area data-nbr="3" shape='rect' coords='831, 409, 705, 537' href='#' />
-<area data-nbr="4" shape='rect' coords='1066, 399, 942, 540' href='#' />
-<area data-nbr="5" shape='rect' coords='1069, 632, 940, 765' href='#' />
-<area data-nbr="6" shape='rect' coords='834, 630, 705, 760' href='#' />
-<area data-nbr="7" shape='rect' coords='596, 636, 472, 760' href='#' />
-<area data-nbr="8" shape='rect' coords='362, 630, 242, 757' href='#' />
+                                        <area data-nbr="1" shape='rect' coords='363, 400, 237, 532' href='#' />
+                                        <area data-nbr="2" shape='rect' coords='601, 405, 465, 540' href='#' />
+                                        <area data-nbr="3" shape='rect' coords='831, 409, 705, 537' href='#' />
+                                        <area data-nbr="4" shape='rect' coords='1066, 399, 942, 540' href='#' />
+                                        <area data-nbr="5" shape='rect' coords='1069, 632, 940, 765' href='#' />
+                                        <area data-nbr="6" shape='rect' coords='834, 630, 705, 760' href='#' />
+                                        <area data-nbr="7" shape='rect' coords='596, 636, 472, 760' href='#' />
+                                        <area data-nbr="8" shape='rect' coords='362, 630, 242, 757' href='#' />
 
                                     </map>
                                 </div>
@@ -70,72 +70,72 @@
                         <a href="../0-03_menu.php" class="back_to_menu">Volver al menú</a>
                     </div>
                     <div class="modal" id="modal_1-04_act" tabindex="-1" role="dialog">
-                    <div class="modal-dialog" role="document">
-                        <div class="modal-content">
-                            <div class="modal-header">
-                        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                        <div class="modal-dialog" role="document">
+                            <div class="modal-content">
+                                <div class="modal-header">
+                                    <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
 
-                    </div>
-                            <div class="modal-body">
-                                <!-- <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button> -->
-                                <div class="row d-none act-04-mdl act01" >
-                                    <div class="col-12">
-                                        <a href="http://www.facebook.com">facebook.com</a><br>
-                                        Permite compartir fotos, videos, enlaces, estados de ánimo e interactuar con las personas parte de la lista de contactos. Es un espacio de interacción en el que es posible comentar las publicaciones propias y de otros de forma pública. Es recomendable mantener en la lista de contactos solo a personas conocidas y modificar las variables de seguridad para decidir quién puede ver cada cosa que publicamos.
+                                </div>
+                                <div class="modal-body">
+                                    <!-- <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button> -->
+                                    <div class="row d-none act-04-mdl act01" >
+                                        <div class="col-12">
+                                            <a href="http://www.facebook.com">facebook.com</a><br>
+                                            Permite compartir fotos, videos, enlaces, estados de ánimo e interactuar con las personas parte de la lista de contactos. Es un espacio de interacción en el que es posible comentar las publicaciones propias y de otros de forma pública. Es recomendable mantener en la lista de contactos solo a personas conocidas y modificar las variables de seguridad para decidir quién puede ver cada cosa que publicamos.
+                                        </div>
+                                    </div>
+                                    <div class="row d-none act-04-mdl act02" >
+                                        <div class="col-12">
+                                            <a href="http://www.instagram.com">instagram.com</a><br>
+                                            Las personas usuarias pueden subir fotos o vídeos y agregarles filtros fotográficos y efectos. Además las personas usuarias pueden usar hashtags (palabras clave precedidas por el signo #) para identificar de qué tipo de imagen se trata. En Instagram las fotografías son, por default, públicas y hay que modificar las variables de publicación para que puedan verlas sólo nuestros seguidores. 
+                                        </div>
+                                    </div>
+                                    <div class="row d-none act-04-mdl act03" >
+                                        <div class="col-12">
+                                            <a href="http://www.snapchat.com">snapchat.com</a><br>
+                                            Permite enviar fotos y vídeos que se borran pocos segundos después de que la persona que los recibió los abrió. Aunque se puede considerar “más seguro” porque los videos desaparecen inmediatamente, en realidad, esto puede convertirse en un riesgo ya que las personas abusadoras pueden actuar sabiendo que el video va a desaparecer después de que sea visto (sin dejar pruebas del abuso cometido).  
+                                        </div>
+                                    </div>
+                                    <div class="row d-none act-04-mdl act04" >
+                                        <div class="col-12">
+                                            <a href="http://www.whatsapp.com">whatsapp.com</a><br>
+                                            Aplicación que permite enviar mensajes instantáneos, que pueden ser textos, fotos, vídeos o audios. WhatsApp se ha vuelto una herramienta de comunicación muy popular, especialmente por la utilidad de los grupos. Los grupos son áreas de comunicación para dos o más contactos que se usan, por ejemplo, entre familias para enviar fotos, organizar eventos, etc. Es importante no establecer contacto con desconocidos a través de WhatsApp y además recordar que todo lo que enviamos, deja de estar bajo nuestro control.
+                                        </div>
+                                    </div>
+                                    <div class="row d-none act-04-mdl act05" >
+                                        <div class="col-12">
+                                            <a href="http://www.twitch.tv">twitch.tv</a><br>
+                                            Plataforma para ver y subir vídeos en vivo que se usa, sobre todo, para compartir las sesiones en vivo de personas reales jugando juegos de video o juegos en línea. Precisamente por ser en vivo, el contenido dentro de Twitch es difícil de evaluar. Es posible que el contenido de los juegos no sea apropiado o que los jugadores usen un lenguaje violento o con referencias sexuales. 
+                                        </div>
+                                    </div>
+                                    <div class="row d-none act-04-mdl act06" >
+                                        <div class="col-12">
+                                            <a href="http://www.youtube.com">youtube.com</a><br>
+                                            Plataforma en línea que permite ver y subir vídeos. Aunque es posible denunciar videos con contenidos inapropiados en YouTube, es muy común que en una lista de videos recomendados, en medio de videos inofensivos, se esconda material abusivo. Si vamos a dejar que personas menores de edad usen YouTube sin supervisión adulta, es importante activar el control de seguridad parental. 
+                                        </div>
+                                    </div>
+                                    <div class="row d-none act-04-mdl act07" >
+                                        <div class="col-12">
+                                            <a href="http://www.pinterest.es">pinterest.es</a><br>
+                                            Permite buscar, guardar, organizar y compartir contenidos en Internet. Cada contenido, que se conoce como “pin”, está compuesto por una imagen y una descripción corta. Pinterest funciona como un catálogo de información que podemos categorizar siguiendo el orden que nos parezca más adecuado por lo que es una excelente herramienta para guardar información de temas que nos interesan. Sin embargo, siempre hay ser cuidadosos con respecto al origen de los “pins” y verificar que el link efectivamente lleve a una página no abusiva. 
+                                        </div>
+                                    </div>
+                                    <div class="row d-none act-04-mdl act08" >
+                                        <div class="col-12">
+                                            <a href="http://www.twitter.com">twitter.com</a><br>
+                                            Permite compartir textos cortos que no superen 280 caracteres. Estos textos se conocen como “twits”. Es importante recordar que todo lo que publicamos en Twitter es, por default, público y se convierte en parte de nuestra identidad digital. Importantes figuras de la política y celebridades han debido pedir disculpas públicas o perdido su trabajo porque publican un “twit” ofensivo o discriminatorio.
+                                        </div>
                                     </div>
                                 </div>
-                                <div class="row d-none act-04-mdl act02" >
-                                    <div class="col-12">
-                                        <a href="http://www.instagram.com">instagram.com</a><br>
-                                        Las personas usuarias pueden subir fotos o vídeos y agregarles filtros fotográficos y efectos. Además las personas usuarias pueden usar hashtags (palabras clave precedidas por el signo #) para identificar de qué tipo de imagen se trata. En Instagram las fotografías son, por default, públicas y hay que modificar las variables de publicación para que puedan verlas sólo nuestros seguidores. 
-                                    </div>
-                                </div>
-                                <div class="row d-none act-04-mdl act03" >
-                                    <div class="col-12">
-                                        <a href="http://www.snapchat.com">snapchat.com</a><br>
-                                        Permite enviar fotos y vídeos que se borran pocos segundos después de que la persona que los recibió los abrió. Aunque se puede considerar “más seguro” porque los videos desaparecen inmediatamente, en realidad, esto puede convertirse en un riesgo ya que las personas abusadoras pueden actuar sabiendo que el video va a desaparecer después de que sea visto (sin dejar pruebas del abuso cometido).  
-                                    </div>
-                                </div>
-                                <div class="row d-none act-04-mdl act04" >
-                                    <div class="col-12">
-                                        <a href="http://www.whatsapp.com">whatsapp.com</a><br>
-                                        Aplicación que permite enviar mensajes instantáneos, que pueden ser textos, fotos, vídeos o audios. WhatsApp se ha vuelto una herramienta de comunicación muy popular, especialmente por la utilidad de los grupos. Los grupos son áreas de comunicación para dos o más contactos que se usan, por ejemplo, entre familias para enviar fotos, organizar eventos, etc. Es importante no establecer contacto con desconocidos a través de WhatsApp y además recordar que todo lo que enviamos, deja de estar bajo nuestro control.
-                                    </div>
-                                </div>
-                                <div class="row d-none act-04-mdl act05" >
-                                    <div class="col-12">
-                                        <a href="http://www.twitch.tv">twitch.tv</a><br>
-                                        Plataforma para ver y subir vídeos en vivo que se usa, sobre todo, para compartir las sesiones en vivo de personas reales jugando juegos de video o juegos en línea. Precisamente por ser en vivo, el contenido dentro de Twitch es difícil de evaluar. Es posible que el contenido de los juegos no sea apropiado o que los jugadores usen un lenguaje violento o con referencias sexuales. 
-                                    </div>
-                                </div>
-                                <div class="row d-none act-04-mdl act06" >
-                                    <div class="col-12">
-                                        <a href="http://www.youtube.com">youtube.com</a><br>
-                                        Plataforma en línea que permite ver y subir vídeos. Aunque es posible denunciar videos con contenidos inapropiados en YouTube, es muy común que en una lista de videos recomendados, en medio de videos inofensivos, se esconda material abusivo. Si vamos a dejar que personas menores de edad usen YouTube sin supervisión adulta, es importante activar el control de seguridad parental. 
-                                    </div>
-                                </div>
-                                <div class="row d-none act-04-mdl act07" >
-                                    <div class="col-12">
-                                        <a href="http://www.pinterest.es">pinterest.es</a><br>
-                                        Permite buscar, guardar, organizar y compartir contenidos en Internet. Cada contenido, que se conoce como “pin”, está compuesto por una imagen y una descripción corta. Pinterest funciona como un catálogo de información que podemos categorizar siguiendo el orden que nos parezca más adecuado por lo que es una excelente herramienta para guardar información de temas que nos interesan. Sin embargo, siempre hay ser cuidadosos con respecto al origen de los “pins” y verificar que el link efectivamente lleve a una página no abusiva. 
-                                    </div>
-                                </div>
-                                <div class="row d-none act-04-mdl act08" >
-                                    <div class="col-12">
-                                        <a href="http://www.twitter.com">twitter.com</a><br>
-                                        Permite compartir textos cortos que no superen 280 caracteres. Estos textos se conocen como “twits”. Es importante recordar que todo lo que publicamos en Twitter es, por default, público y se convierte en parte de nuestra identidad digital. Importantes figuras de la política y celebridades han debido pedir disculpas públicas o perdido su trabajo porque publican un “twit” ofensivo o discriminatorio.
-                                    </div>
-                                </div>
+                                <!-- <div class="modal-footer">
+                                    <button type="button" class="btn btn-secondary" data-dismiss="modal">Cerrar</button>
+                                </div> -->
                             </div>
-                            <!-- <div class="modal-footer">
-                                <button type="button" class="btn btn-secondary" data-dismiss="modal">Cerrar</button>
-                            </div> -->
                         </div>
                     </div>
-                </div>
                 </section>
                 <?php require '../footer.php'; ?>
-                
+
             </div>
             <nav id="sidebar" class="">
                 <div class="sidebar-header">

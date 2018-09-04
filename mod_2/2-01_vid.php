@@ -3,7 +3,7 @@
 <meta http-equiv="Cache-Control" content="no-cache" />
 <meta http-equiv="Pragma" content="no-cache" />
 <meta http-equiv="Expires" content="0" />
-    <link rel="icon" href="favicon.ico" type="image/gif">
+    <link rel="icon" href="../favicon.ico" type="image/gif">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <title>Prevengo: acompaño en línea | e-mentores</title>
         <link  type="text/css"  href="../css/bootstrap.css" rel="stylesheet">
@@ -20,9 +20,15 @@
             <div id="content"> 
                 <nav class="navbar navbar-expand-lg navbar-light bg-light d-block">
                     <div class="container-fluid">
+
+                        <div class="nav justify-content-start">
+
+                        </div>
+
                         <div class="nav justify-content-center">
                             <h1><a class="mx-auto" href="../index.php"><img src="../img/logo-ementores.png" alt="E-mentores"></a></h1>
                         </div>
+
                         <div class="nav justify-content-end">
                             <button type="button" id="sidebarCollapse" class="btn" >
                                 <span class="navbar-toggler-icon"></span>

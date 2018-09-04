@@ -3,7 +3,7 @@
 <meta http-equiv="Cache-Control" content="no-cache" />
 <meta http-equiv="Pragma" content="no-cache" />
 <meta http-equiv="Expires" content="0" />
-        <link rel="icon" href="favicon.ico" type="image/gif">
+        <link rel="icon" href="../favicon.ico" type="image/gif">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <title>Prevengo: acompaño en línea | e-mentores</title>
         <link  type="text/css"  href="../css/bootstrap.css" rel="stylesheet">
@@ -320,7 +320,7 @@
 
                     </div>
                 </div>
-                <a href="../0-03_menu.php" class="back_to_menu">Volver</a>
+                <a href="../0-03_menu.php" class="back_to_menu">Volver al menú</a>
                 </section>
                 <?php require '../footer.php'; ?>
             </div>

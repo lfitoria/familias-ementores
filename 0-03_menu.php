@@ -185,7 +185,7 @@
                                                 <div class="col-12 col-sm-6 col-md-4 col-lg-3">
                                                     <div class="item-module <?php if ($values2[2]["is_completed"] == 1) : ?>active<?php endif ?>">
                                                         <!-- <img src="img/icon.png" alt=""/> -->
-                                                        <a href="mod_2/2-03_act.php" class="v2-act-3">"Conductas de riesgo vs. Conductas protectoras"</a><!--<p class=dots-mod>. . .</p>-->
+                                                        <a href="mod_2/2-03_act.php" class="v2-act-3">Conductas de riesgo vs. Conductas protectoras</a><!--<p class=dots-mod>. . .</p>-->
                                                     </div>
                                                 </div>
                                                 <div class="col-12 col-sm-6 col-md-4 col-lg-3">
