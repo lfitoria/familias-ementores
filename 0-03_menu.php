@@ -167,31 +167,31 @@
                                                 <div class="col-12 col-sm-6 col-md-4 col-lg-3">
                                                     <div class="item-module <?php if ($values2[0]["is_completed"] == 1) : ?>active<?php endif ?>">
                                                         <!-- <img src="img/icon.png" alt=""/> -->
-                                                        <a href="mod_2/2-01_vid.php" class="v2-act-1">VIDEO ANIMADO 01</a><!--<p class=dots-mod>. . .</p>-->
+                                                        <a href="mod_2/2-01_vid.php" class="v2-act-1">El acompañamiento en las TIC</a><!--<p class=dots-mod>. . .</p>-->
                                                     </div>
                                                 </div>
                                                 <div class="col-12 col-sm-6 col-md-4 col-lg-3">
                                                     <div class="item-module <?php if ($values2[1]["is_completed"] == 1) : ?>active<?php endif ?>">
                                                         <!-- <img src="img/icon.png" alt=""/> -->
-                                                        <a href="mod_2/2-02a_sli.php" class="v2-act-2">SLIDESHOW 01</a><!--<p class=dots-mod>. . .</p>-->
+                                                        <a href="mod_2/2-02a_sli.php" class="v2-act-2">La crianza respetuosa en el marco de la crianza tecnológica</a><!--<p class=dots-mod>. . .</p>-->
                                                     </div>
                                                 </div>
                                                 <div class="col-12 col-sm-6 col-md-4 col-lg-3">
                                                     <div class="item-module <?php if ($values2[1]["is_completed"] == 1) : ?>active<?php endif ?>">
                                                         <!-- <img src="img/icon.png" alt=""/> -->
-                                                        <a href="mod_2/2-02b_sli.php" class="v2-act-2">SLIDESHOW 02</a><!--<p class=dots-mod>. . .</p>-->
+                                                        <a href="mod_2/2-02b_sli.php" class="v2-act-2">Ejemplos aplicados de crianza respetuosa</a><!--<p class=dots-mod>. . .</p>-->
                                                     </div>
                                                 </div>
                                                 <div class="col-12 col-sm-6 col-md-4 col-lg-3">
                                                     <div class="item-module <?php if ($values2[2]["is_completed"] == 1) : ?>active<?php endif ?>">
                                                         <!-- <img src="img/icon.png" alt=""/> -->
-                                                        <a href="mod_2/2-03_act.php" class="v2-act-3">ACTIVIDAD 01</a><!--<p class=dots-mod>. . .</p>-->
+                                                        <a href="mod_2/2-03_act.php" class="v2-act-3">"Conductas de riesgo vs. Conductas protectoras"</a><!--<p class=dots-mod>. . .</p>-->
                                                     </div>
                                                 </div>
                                                 <div class="col-12 col-sm-6 col-md-4 col-lg-3">
                                                     <div class="item-module <?php if ($values2[3]["is_completed"] == 1) : ?>active<?php endif ?>">
                                                         <!-- <img src="img/icon.png" alt=""/> -->
-                                                        <a href="mod_2/2-04_inf.php" class="v2-act-4">INFOGRÁFICO 01</a><!--<p class=dots-mod>. . .</p>-->
+                                                        <a href="mod_2/2-04_inf.php" class="v2-act-4">Protección de la información personal</a><!--<p class=dots-mod>. . .</p>-->
                                                     </div>
                                                 </div>
 
@@ -199,25 +199,25 @@
                                                 <div class="col-12 col-sm-6 col-md-4 col-lg-3">
                                                     <div class="item-module <?php if ($values2[4]["is_completed"] == 1) : ?>active<?php endif ?>">
                                                         <!-- <img src="img/icon.png" alt=""/> -->
-                                                        <a href="mod_2/2-05_act.php" class="v2-act-5">ACTIVIDAD 02</a><!--<p class=dots-mod>. . .</p>-->
+                                                        <a href="mod_2/2-05_act.php" class="v2-act-5">Manejo de contactos en redes sociales</a><!--<p class=dots-mod>. . .</p>-->
                                                     </div>
                                                 </div>
                                                 <div class="col-12 col-sm-6 col-md-4 col-lg-3">
                                                     <div class="item-module <?php if ($values2[5]["is_completed"] == 1) : ?>active<?php endif ?>">
                                                         <!-- <img src="img/icon.png" alt=""/> -->
-                                                        <a href="#6" class="v2-act-6">ACTIVIDAD 03</a><!--<p class=dots-mod>. . .</p>-->
+                                                        <a href="mod_2/2-06_act.php" class="v2-act-6">Atención a las emociones</a><!--<p class=dots-mod>. . .</p>-->
                                                     </div>
                                                 </div>
                                                 <div class="col-12 col-sm-6 col-md-4 col-lg-3">
                                                     <div class="item-module <?php if ($values2[6]["is_completed"] == 1) : ?>active<?php endif ?>">
                                                         <!-- <img src="img/icon.png" alt=""/> -->
-                                                        <a href="mod_2/2-07_inf.php" class="v2-act-7">INFOGRÁFICO 02</a><!--<p class=dots-mod>. . .</p>-->
+                                                        <a href="mod_2/2-07_inf.php" class="v2-act-7">Prevenir ≠ prohibir</a><!--<p class=dots-mod>. . .</p>-->
                                                     </div>
                                                 </div>
                                                 <div class="col-12 col-sm-6 col-md-4 col-lg-3">
                                                     <div class="item-module <?php if ($values2[7]["is_completed"] == 1) : ?>active<?php endif ?>">
                                                         <!-- <img src="img/icon.png" alt=""/> -->
-                                                        <a href="#8" class="v2-act-8">VIDEO ANIMADO 02</a><!--<p class=dots-mod>. . .</p>-->
+                                                        <a href="mod_2/2-08_vid.php" class="v2-act-8">Huella digital</a><!--<p class=dots-mod>. . .</p>-->
                                                     </div>
                                                 </div>
 
@@ -225,13 +225,13 @@
                                                 <div class="col-12 col-sm-6 col-md-4 col-lg-3">
                                                     <div class="item-module <?php if ($values2[8]["is_completed"] == 1) : ?>active<?php endif ?>">
                                                         <!-- <img src="img/icon.png" alt=""/> -->
-                                                        <a href="mod_2/2-09_sli.php" class="v2-act-9">SLIDESHOW 02</a><!--<p class=dots-mod>. . .</p>-->
+                                                        <a href="mod_2/2-09_sli.php" class="v2-act-9">Estrategias de prevención</a><!--<p class=dots-mod>. . .</p>-->
                                                     </div>
                                                 </div>
                                             </div>
                                             <div class="row">
                                                 <div class="col-12 item-module-final">
-                                                    <?php if ($row_cnt2 == 0): ?><a href="#7">ACTIVIDAD FINAL 2</a><?php endif; ?>
+                                                    <?php if ($row_cnt2 == 0): ?><a href="mod_2/2-10_eva.php">ACTIVIDAD FINAL</a><?php endif; ?>
                                                 </div>
                                             </div>
                                         </div>
@@ -265,25 +265,25 @@
                                                 <div class="col-12 col-sm-6 col-md-4 col-lg-3">
                                                     <div class="item-module <?php if ($values3[0]["is_completed"] == 1) : ?>active<?php endif ?>">
                                                         <!-- <img src="img/icon.png" alt=""/> -->
-                                                        <a href="modulo3.php?stp=1" class="v3-act-1">VIDEO ANIMADO 01</a><!--<p class=dots-mod>. . .</p>-->
+                                                        <a href="#1" class="v3-act-1">VIDEO ANIMADO 01</a><!--<p class=dots-mod>. . .</p>-->
                                                     </div>
                                                 </div>
                                                 <div class="col-12 col-sm-6 col-md-4 col-lg-3">
                                                     <div class="item-module <?php if ($values3[1]["is_completed"] == 1) : ?>active<?php endif ?>">
                                                         <!-- <img src="img/icon.png" alt=""/> -->
-                                                        <a href="modulo3.php?stp=2" class="v3-act-2">SLIDESHOW 01</a><!--<p class=dots-mod>. . .</p>-->
+                                                        <a href="#2" class="v3-act-2">SLIDESHOW 01</a><!--<p class=dots-mod>. . .</p>-->
                                                     </div>
                                                 </div>
                                                 <div class="col-12 col-sm-6 col-md-4 col-lg-3">
                                                     <div class="item-module <?php if ($values3[2]["is_completed"] == 1) : ?>active<?php endif ?>">
                                                         <!-- <img src="img/icon.png" alt=""/> -->
-                                                        <a href="modulo3.php?stp=3" class="v3-act-3">ACTIVIDAD 01</a><!--<p class=dots-mod>. . .</p>-->
+                                                        <a href="#3" class="v3-act-3">ACTIVIDAD 01</a><!--<p class=dots-mod>. . .</p>-->
                                                     </div>
                                                 </div>
                                                 <div class="col-12 col-sm-6 col-md-4 col-lg-3">
                                                     <div class="item-module <?php if ($values3[3]["is_completed"] == 1) : ?>active<?php endif ?>">
                                                         <!-- <img src="img/icon.png" alt=""/> -->
-                                                        <a href="modulo3.php?stp=4" class="v3-act-4">INFOGRÁFICO 01</a><!--<p class=dots-mod>. . .</p>-->
+                                                        <a href="#4" class="v3-act-4">INFOGRÁFICO 01</a><!--<p class=dots-mod>. . .</p>-->
                                                     </div>
                                                 </div>
 
@@ -291,26 +291,26 @@
                                                 <div class="col-12 col-sm-6 col-md-4 col-lg-3">
                                                     <div class="item-module <?php if ($values3[4]["is_completed"] == 1) : ?>active<?php endif ?>">
                                                         <!-- <img src="img/icon.png" alt=""/> -->
-                                                        <a href="modulo3.php?stp=5" class="v3-act-5">VIDEO ANIMADO 02</a><!--<p class=dots-mod>. . .</p>-->
+                                                        <a href="#5" class="v3-act-5">VIDEO ANIMADO 02</a><!--<p class=dots-mod>. . .</p>-->
                                                     </div>
                                                 </div>
                                                 <div class="col-12 col-sm-6 col-md-4 col-lg-3">
                                                     <div class="item-module <?php if ($values3[5]["is_completed"] == 1) : ?>active<?php endif ?>">
                                                         <!-- <img src="img/icon.png" alt=""/> -->
-                                                        <a href="modulo3.php?stp=6" class="v3-act-6">INFOGRÁFICO 02</a><!--<p class=dots-mod>. . .</p>-->
+                                                        <a href="#6" class="v3-act-6">INFOGRÁFICO 02</a><!--<p class=dots-mod>. . .</p>-->
                                                     </div>
                                                 </div>
                                                 <div class="col-12 col-sm-6 col-md-4 col-lg-3">
                                                     <div class="item-module <?php if ($values3[6]["is_completed"] == 1) : ?>active<?php endif ?>">
                                                         <!-- <img src="img/icon.png" alt=""/> -->
-                                                        <a href="modulo3.php?stp=7" class="v3-act-7">INFOGRÁFICO 03</a><!--<p class=dots-mod>. . .</p>-->
+                                                        <a href="#7" class="v3-act-7">INFOGRÁFICO 03</a><!--<p class=dots-mod>. . .</p>-->
                                                     </div>
                                                 </div>
                                             </div>
                                         </div>
                                         <div class="row">
                                             <div class="col-12 item-module-final">
-                                                <?php if ($row_cnt3 == 0): ?><a href="modulo3.php?stp=7">ACTIVIDAD FINAL 3</a><?php endif; ?>
+                                                <?php if ($row_cnt3 == 0): ?><a href="#7">ACTIVIDAD FINAL</a><?php endif; ?>
                                             </div>
                                         </div>
                                     </div>
