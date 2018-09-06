@@ -173,13 +173,13 @@
                                                 <div class="col-12 col-sm-6 col-md-4 col-lg-3">
                                                     <div class="item-module <?php if ($values2[1]["is_completed"] == 1) : ?>active<?php endif ?>">
                                                         <!-- <img src="img/icon.png" alt=""/> -->
-                                                        <a href="mod_2/2-02a_sli.php" class="v2-act-2">La crianza respetuosa en el marco de la crianza tecnológica</a><!--<p class=dots-mod>. . .</p>-->
+                                                        <a href="mod_2/2-02a_sli.php" class="v2-act-2">Crianza Respetuosa para acompañar en el uso de las TIC: poniendo límites con amor</a><!--<p class=dots-mod>. . .</p>-->
                                                     </div>
                                                 </div>
                                                 <div class="col-12 col-sm-6 col-md-4 col-lg-3">
                                                     <div class="item-module <?php if ($values2[9]["is_completed"] == 1) : ?>active<?php endif ?>">
                                                         <!-- <img src="img/icon.png" alt=""/> -->
-                                                        <a href="mod_2/2-02b_sli.php" class="v2-act-2a">Ejemplos aplicados de crianza respetuosa</a><!--<p class=dots-mod>. . .</p>-->
+                                                        <a href="mod_2/2-02b_sli.php" class="v2-act-2a">¿Cómo aplicar la crianza respetuosa? Algunos ejemplo</a><!--<p class=dots-mod>. . .</p>-->
                                                     </div>
                                                 </div>
                                                 <div class="col-12 col-sm-6 col-md-4 col-lg-3">
@@ -199,7 +199,7 @@
                                                 <div class="col-12 col-sm-6 col-md-4 col-lg-3">
                                                     <div class="item-module <?php if ($values2[4]["is_completed"] == 1) : ?>active<?php endif ?>">
                                                         <!-- <img src="img/icon.png" alt=""/> -->
-                                                        <a href="mod_2/2-05_act.php" class="v2-act-5">Manejo de contactos en redes sociales</a><!--<p class=dots-mod>. . .</p>-->
+                                                        <a href="mod_2/2-05_act.php" class="v2-act-5">¿Aceptaría a esta persona como contacto?</a><!--<p class=dots-mod>. . .</p>-->
                                                     </div>
                                                 </div>
                                                 <div class="col-12 col-sm-6 col-md-4 col-lg-3">

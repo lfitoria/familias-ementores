@@ -39,7 +39,7 @@
                         </div>
                     </div>
                 </nav>
-                <p class="intro-header blue">Ejemplos aplicados de crianza respetuosa</p>
+                <p class="intro-header blue">¿Cómo aplicar la crianza respetuosa? Algunos ejemplo</p>
                 <section class="container">
                     <div class="main">
                         <div id="act_01p1" class="module-page">
@@ -166,7 +166,7 @@
                             </div>
                         </div>
 
-                        <div id="act_01p6" class="d-none mod ">
+                        <div id="act_01p6" class="d-none module-page">
                             <div class="row align-items-center justify-content-md-center">
                                 <h3 class="col-10">Recomendaciones finales</h3>
                             </div>
@@ -175,7 +175,7 @@
                             <img src="../img/mod2/2-02b_sli-img-recomendaciones.png" alt="" class="img-fluid"/>
                              
                             <div class="row">
-                                <button class="gotoModulePage btn btn-dark baki conti-baki" data-page="5">Atrás</button>
+                                <button class="gotoModulePage baki conti-baki" data-page="4">Atrás</button>
                             </div>
                         </div>
                     </div>

@@ -96,7 +96,6 @@
 
 #page-2-09 .nav-tabs .nav-link.active { color: #fff; border-radius: 10px 10px 0px 0px; min-height: 105px; }
 
-
 #page-2-09 .tab-content .tab-pane{ padding: 0px; color: #fff !important; border-radius: 0px; opacity: 1;}
 #page-2-09 .tab-content .tab-pane:nth-child(1) { background-color: #F99235; }
 #page-2-09 .tab-content .tab-pane:nth-child(2) { background-color: #00A79D; }
@@ -243,23 +242,7 @@ span.title-b {
     font-size: 1.3em;
     color: #696969;
 }
-.btn-j-center .mod{
-    position: relative;
-}
-.btn-j-center button.baki {
-    position: absolute;
-    left: -10%;
-    margin: 0;
-    top: 50%;
-}
 
-.btn-j-center button.conti {
-    position: absolute;
-    right: -10%;
-    margin: 0;
-    top: 50%;
-    left: auto;
-}
 
 
 .nav-tabs {
@@ -272,13 +255,12 @@ span.title-b {
         opacity: 1;
     }
     
-    
 }
 @media (min-width: 768px) {
     .nav-tabs {
         display: flex;
     }
-    
+
     .card {
         border: none;
     }
@@ -290,6 +272,24 @@ span.title-b {
     .card .collapse{
         display:block;
     }
+    
+    .btn-j-center .mod{
+        position: relative;
+    }
+    .btn-j-center button.baki {
+        position: absolute;
+        left: -10%;
+        margin: 0;
+        top: 50%;
+    }
+
+    .btn-j-center button.conti {
+        position: absolute;
+        right: -10%;
+        margin: 0;
+        top: 50%;
+        left: auto;
+    }
 }/*fin*/
 
 
@@ -297,7 +297,7 @@ span.title-b {
 @media (min-width: 992px) { 
     #page-2-02b .jumbo{ height: 220px; }
     #page-2-09 .tab-content .tab-pane{ padding: 55px; border-radius: 0px 0px 15px 15px; }
-    
+
 } /*fin*/
 
 

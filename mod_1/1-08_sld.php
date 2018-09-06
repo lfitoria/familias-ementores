@@ -281,6 +281,13 @@
         $(".gotoModulePage").click(function () {
             $(".mod").addClass("d-none");
             $("#act_01p" + $(this).data("page")).removeClass("d-none");
+            
+            $(window).ready(function (){
+                $(".flipper").each(function (){
+                    $(this).css("height", $(this).find(".front").height()+"px");
+                    $(this).css("height", $(this).find(".front").height()+"px");
+                });
+            });
         });
 
         $("area").click(function (e) {
@@ -300,6 +307,8 @@
             },
             dataType: "html"
         });
+        
+        
 
     </script>
 </body>

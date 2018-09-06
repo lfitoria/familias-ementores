@@ -39,7 +39,7 @@
                         </div>
                     </div>
                 </nav>
-                <p class="intro-header blue">La crianza respetuosa en el marco de la crianza tecnológica</p>
+                <p class="intro-header blue">Crianza Respetuosa para acompañar en el uso de las TIC: poniendo límites con amor</p>
                 <section class="container">
                     <div class="main">
                         <div id="act_01p1" class=" module_page">
@@ -55,7 +55,8 @@
                         </div>
                         <!-- slide2 -->
                         <div id="act_01p2" class="d-none module_page">
-                            <p class="text-center"><strong>Es educar sin violencia, mediante una disciplina positiva. Está basada en:</strong></p>
+                            <h3 class="text-center">Crianza Respetuosa</h3>
+                            <p class="text-center intro-label"><strong>Es educar sin violencia, mediante una disciplina positiva. Está basada en:</strong></p>
                             <div class="row justify-content-md-center">
                                 <div class="col-12 col-sm-10">
                                     <img src="../img/mod2/2-02a_sli-img1.png" alt="" class="img-fluid m-auto d-block"/>
@@ -73,7 +74,8 @@
                         <!-- fin slide2 -->
 
                         <div id="act_01p3" class="d-none module_page">
-                            <p class="text-center"><strong>Descubra si estas acciones corresponden o no a crianza respetuosa.</strong></p>
+                            <h3 class="text-center">¿Qué es y qué no es?</h3>
+                            <p class="text-center intro-label"><strong>Descubra si estas acciones corresponden o no a crianza respetuosa.</strong></p>
                             <div class="cont row">
                                 <div class="col-12 col-md-4">
                                     <div class="flip-container" ontouchstart="this.classList.toggle('hover');">
@@ -199,7 +201,7 @@
                         <div id="act_01p4" class="d-none  module_page ">
                             <div class="row align-items-center justify-content-md-center">
                                 <div class="col-12 col-sm-4">
-                                    <p class="intro-label">Recordá que la Crianza respetuosa no es permisiva, ni carece de límites.</p>
+                                    <p class="intro-label">Recuerde que la Crianza respetuosa no es permisiva, ni carece de límites.</p>
                                     <p class="intro-label">Promueve que estos límites se construyan en conjunto y negociando para resolver conflictos de manera afectuosa y comprensiva.</p>
                                 </div>
                                 <div class="col-12 col-sm-4">

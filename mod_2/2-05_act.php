@@ -40,7 +40,7 @@
                         </div>
                     </div>
                 </nav>
-                <p class="intro-header blue">Manejo de contactos en redes sociales</p>
+                <p class="intro-header blue">¿Aceptaría a esta persona como contacto?</p>
                 <section class="container">
                     <div class="text-center"> 
                         <p>Revise cada una de las solicitudes de amistad a continuación.

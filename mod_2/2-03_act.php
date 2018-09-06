@@ -107,161 +107,83 @@
                 </div>
 
             </section>
-
             <section class="container">
-
                 <div class="main">
-
                     
 
-
-
                     <div id="act_01p2" class="d-none mod">
-
                         <p class="message-case">El mensaje ganador<br>Juan Carlos recibe un mensaje que dice: "Usted ha ganado un premio.  Haga clic aquí para obtenerlo".</p>
-
                         <div class="cont row">
-
                             <div class="col-12 col-md-5 image-side">
-
                                 <img src="../img/mod2/2-03_act_img-01.png" alt="" class="img-fluid"/>
-
                             </div>
-
                             <div class="col-12 col-md-7 data-side">
-
                                 <div class="audio-item row incorrect inactive">
-
                                     <div class="col-md-4 image-risk">
-
                                         <img src="../img/mod2/2-03_act_btn-riesgo.png" alt="" class="img-fluid"/>
-
                                     </div>
-
                                     <div class="col-md-8 data-risk">
-
                                         <p>Lo abre para ver de qué se trata.</p>
-
                                         <audio width="100%" height="auto" id="video" controls>
-
                                             <source src="../audios/2-03_act_1riesgo.mp3" type="audio/mp3">
-
                                         </audio>
-
                                     </div>
-
                                 </div>
-
                                 <div class="audio-item row correct inactive">
-
                                    <div class="col-md-4 image-risk">
-
                                        <img src="../img/mod2/2-03_act_btn-protectora.png" alt="" class="img-fluid"/>
-
                                     </div>
-
                                     <div class="col-md-8 data-risk">
-
                                         <p>Lo borra y le cuenta a una persona adulta de confianza.</p>
-
                                         <audio width="100%" height="auto" id="video" controls>
-
                                             <source src="../audios/2-03_act_1protectora.mp3" type="audio/mp3">
-
                                         </audio>
-
                                     </div>
-
                                 </div>
-
                             </div>
-
                             
-
                         </div>
-
                         <div class="row">
-
                             <button class="gotoModulePage baki" data-page="1">Atrás</button>
-
                             <button class="gotoModulePage conti" data-page="3">Continuar</button>
-
                         </div>
-
                     </div>
-
                     <div id="act_01p3" class="d-none mod ">
-
                         <p class="message-case">Yamileth recibe un mensaje en el que un compañero se burla de Juan Carlos, poniéndolo en ridículo.</p>
-
                         <div class="cont row">
-
                             <div class="col-12 col-md-6 image-side">
-
                                 <img src="../img/mod2/2-03_act_img-02.png" alt="" class="img-fluid"/>
-
                             </div>
-
                             <div class="col-12 col-md-6 data-side">
-
                                 <div class="audio-item row incorrect inactive">
-
                                     <div class="col-md-4 image-risk">
-
                                         <img src="../img/mod2/2-03_act_btn-riesgo.png" alt=""/>
-
                                     </div>
-
-                                    <div class="col-md-8 data-risk">
-
+                                    <div class="col-md-8 data-risk"
                                         <p>Decide ignorar el mensaje y lo borra.</p>
-
                                         <audio width="100%" height="auto" id="video" controls>
-
                                             <source src="../audios/2-03_act_2riesgo.mp3" type="audio/mp3">
-
                                         </audio>
-
                                     </div>
-
                                 </div>
-
                                 <div class="audio-item row correct inactive">
-
                                    <div class="col-md-4 image-risk">
-
                                        <img src="../img/mod2/2-03_act_btn-protectora.png" alt=""/>
-
                                     </div>
-
                                     <div class="col-md-8 data-risk">
-
                                         <p>Denuncia el mensaje con su mamá, papá o profesor(a).</p>
-
                                         <audio width="100%" height="auto" id="video" controls>
-
                                             <source src="../audios/2-03_act_2protectora.mp3" type="audio/mp3">
-
                                         </audio>
-
                                     </div>
-
                                 </div>
-
                             </div>
-
                             
-
                         </div>
-
                         <div class="row">
-
                             <button class="gotoModulePage baki" data-page="2">Atrás</button>
-
                             <button class="gotoModulePage conti" data-page="4">Continuar</button>
-
                         </div>        
-
                     </div>
 
                     <div id="act_01p4" class="d-none mod ">
