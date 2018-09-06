@@ -60,7 +60,7 @@
 
                             <div class="row align-items-center justify-content-md-center">
 
-                                <div class="jumbo col-10 num1">
+                                <div class="jumbo col-12 col-md-10 num1">
                                     <div class="row">
                                         <div class="col-12 col-sm-5 image-jumbo">
                                             <img src="../img/mod2/2-02b_sli-img-1.png" class="img-fluid img-md">
@@ -92,7 +92,7 @@
                         <div id="act_01p3" class="d-none module-page">
 
                             <div class="row align-items-center justify-content-md-center">
-                                <div class="jumbo col-10 num2">
+                                <div class="jumbo col-12 col-md-10 num2">
                                     <div class="row">
                                         <div class="col-12 col-sm-5 image-jumbo">
                                             <img src="../img/mod2/2-02b_sli-img-2.png" class="img-fluid img-md">
@@ -102,14 +102,13 @@
                                         </div>
                                     </div>
                                 </div>
-
                                 <div class="col-10">
                                     <h4>¿Qué hacer?</h4>
                                     <p>Realizar un uso seguro, responsable, productivo y participativo de las TIC:</p>
                                     <ul>
-                                        <li>¿Cómo reaccionar si alguien me ofende o agrede en redes sociales?</li>
-                                        <li>¿Qué hacer si alguien me amenaza?</li>
-                                        <li>Si una publicación en redes sociales me molesta mucho, ¿cómo respondo?</li>
+                                        <li>Recuérdele que los videojuegos, como cualquier juego, son para divertirse. No tiene mayor importancia quién gana.</li>
+                                        <li>Si alguien le ofende en redes sociales, recomiéndele no responder a sus comentarios y mucho menos ofender de vuelta.</li>
+                                        <li>Si sufre amenazas pídale que lo comente de inmediato con usted o con otros adultos de confianza.</li>
                                     </ul>
                                 </div>
                             </div>
@@ -121,7 +120,7 @@
                         <div id="act_01p4" class="d-none module-page ">
                             <div class="row align-items-center justify-content-md-center">
 
-                                <div class="jumbo col-10 num3">
+                                <div class="jumbo col-12 col-md-10 num3">
                                     <div class="row">
                                         <div class="col-12 col-sm-5 image-jumbo">
                                             <img src="../img/mod2/2-02b_sli-img-3.png" class="img-fluid img-md">

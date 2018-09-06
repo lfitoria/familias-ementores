@@ -49,10 +49,10 @@
                                 <div class="col-12 text-center ">
 
                                     <!-- <h3 class="intro-paragrah">¡Es momento de realizar la evaluación final del Módulo 01<br> - Oportunidades y desafíos de las TIC!</h3> -->
-                                    <h3 class="intro-paragrah">¡Completá el reto de aprendizaje! Demostrá todo lo que sabés sobre oportunidades y desafíos en línea. Da tu primer paso para ser un e-mentor.
+                                    <h3 class="intro-paragrah text-center">¡Completá el reto de aprendizaje! Demostrá todo lo que sabés sobre oportunidades y desafíos en línea. Da tu primer paso para ser un e-mentor.
                                     </h3>
                                     <img src="../img/mod1/1-09_eva-intro.png" alt="" class="img-md"/>
-                                    <p class="label-info">A continuación usted encontrará una serie de preguntas de diferentes tipos.<br>Lea cada una de ellas y escoja la respuesta correcta.</p>
+                                    <p class="label-info text-center">A continuación usted encontrará una serie de preguntas de diferentes tipos.<br>Lea cada una de ellas y escoja la respuesta correcta.</p>
                                 </div>
                             </div>
                             <button class="gotoModulePage btn-start" data-page="2">Iniciar</button>

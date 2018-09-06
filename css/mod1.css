@@ -54,8 +54,10 @@
     font-family: 'Nunito', sans-serif;
     font-weight: bold;
     font-size: 1.4em;
-    text-align: left;
+    line-height: 1.2em;
+    margin-top: 10px;
 }
+
 #eva .btn-finish-eva{
     background-image: url(../img/botones/btn_finalizar.png);
     background-color: transparent;

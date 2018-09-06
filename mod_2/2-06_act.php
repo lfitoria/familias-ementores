@@ -45,22 +45,10 @@
                         <div id="act_01p1" class="module-page">
                             <div class="row align-items-center justify-content-md-center">
                                 <div class="col-12 col-sm-7">
-                                    <h3 class="text-center">
-                                        ¿Cómo me hace sentir esta situación?
-
-
-                                    </h3>
+                                    <h3 class="text-center">¿Cómo me hace sentir esta situación?</h3>
                                     <br>
-                                    <p>
-                                        Para protegernos al usar las TIC, debemos aprender a identificar las señales que nos dan nuestras emociones cuando navegamos en Internet e interactuamos con otras personas. 
-
-                                    </p><p>
-                                        Realice esta actividad para reflexionar sobre las emociones que nos pueden provocar diferentes situaciones… Puede incluso realizarla con sus hijos, hijas o personas menores de edad a su cargo, y usarla para conversar con ellos.
-
-
-
-
-                                    </p>
+                                    <p>Para protegernos al usar las TIC, debemos aprender a identificar las señales que nos dan nuestras emociones cuando navegamos en Internet e interactuamos con otras personas.</p>
+                                    <p>Realice esta actividad para reflexionar sobre las emociones que nos pueden provocar diferentes situaciones… Puede incluso realizarla con sus hijos, hijas o personas menores de edad a su cargo, y usarla para conversar con ellos.</p>
                                     <br>
                                 </div>
                                 <!-- <div class="col-12 col-sm-7">
@@ -73,11 +61,11 @@
                         <div id="act_01p2" class="d-none module-page">
 
                             <div class="row align-items-center justify-content-center">
-                                <div class="col-6 " >
+                                <div class="col-12 col-md-6" >
                                     <h3>  Usted comparte una foto íntima con una persona, y luego se la encuentra en Internet. 
                                     </h3>     
                                 </div> 
-                                <div class="col-3">
+                                <div class="d-none d-sm-block col-md-4">
                                     <img src="../img/mod2/2-06_act-situacion1.png" class="img-fluid">
                                 </div>
 
@@ -117,11 +105,11 @@
 
                         <div id="act_01p3" class="d-none module-page">
                             <div class="row align-items-center justify-content-center">
-                                <div class="col-6 " >
+                                <div class="col-12 col-md-6 " >
                                     <h3>Aparece  en redes sociales un mensaje en el que una persona se burla de usted.
                                     </h3>     
                                 </div> 
-                                <div class="col-3">
+                                <div class="d-none d-sm-block col-md-4">
                                     <img src="../img/mod2/2-06_act-situacion2.png" class="img-fluid">
                                 </div>
 
@@ -157,11 +145,11 @@
 
                         <div id="act_01p4" class="d-none module-page ">
                             <div class="row align-items-center justify-content-center">
-                                <div class="col-6 " >
+                                <div class="col-12 col-md-6 " >
                                     <h3>Una persona le pide dinero a cambio de no revelar un secreto suyo en redes sociales. 
                                     </h3>     
                                 </div> 
-                                <div class="col-3">
+                                <div class="d-none d-sm-block col-md-4">
                                     <img src="../img/mod2/2-06_act-situacion3.png" class="img-fluid">
                                 </div>
 
@@ -196,11 +184,11 @@
                         </div>
                         <div id="act_01p5" class="d-none module-page ">
                             <div class="row align-items-center justify-content-center">
-                                <div class="col-6 " >
+                                <div class="col-12 col-md-6 " >
                                     <h3>Una persona le pide que le envíe fotos íntimas.
                                     </h3>     
                                 </div> 
-                                <div class="col-3">
+                                <div class="d-none d-sm-block col-md-4">
                                     <img src="../img/mod2/2-06_act-situacion4.png" class="img-fluid">
                                 </div>
 

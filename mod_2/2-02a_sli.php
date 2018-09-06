@@ -55,6 +55,7 @@
                         </div>
                         <!-- slide2 -->
                         <div id="act_01p2" class="d-none module_page">
+                            <p class="text-center"><strong>Es educar sin violencia, mediante una disciplina positiva. Está basada en:</strong></p>
                             <div class="row justify-content-md-center">
                                 <div class="col-12 col-sm-10">
                                     <img src="../img/mod2/2-02a_sli-img1.png" alt="" class="img-fluid m-auto d-block"/>
@@ -72,8 +73,7 @@
                         <!-- fin slide2 -->
 
                         <div id="act_01p3" class="d-none module_page">
-                            <p>Haga clic en los botones para descubrir cuáles son las consecuencias
-                                emocionales, sociales y físicas del abuso sexual.</p>
+                            <p class="text-center"><strong>Descubra si estas acciones corresponden o no a crianza respetuosa.</strong></p>
                             <div class="cont row">
                                 <div class="col-12 col-md-4">
                                     <div class="flip-container" ontouchstart="this.classList.toggle('hover');">

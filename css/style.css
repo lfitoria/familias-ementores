@@ -8,8 +8,12 @@ and open the template in the editor.
     Author     : Luis
 */
 audio{cursor: pointer}
+
 h3{
     color: #77A449;
+    font-family: 'Nunito', sans-serif;
+    font-weight: bold;
+    line-height: 1.2em;
 }
 h4{
     color: grey;
@@ -73,13 +77,13 @@ h4{
     background-color: transparent;
     border: none;
     color: #000;
-        background-repeat: no-repeat;
+    background-repeat: no-repeat;
 }
 .baki,.conti {
     background-color: transparent;
     border: none;
     color: #000;
-        right: 0;
+    right: 0;
     left: 0;
 }
 .ejem {
@@ -485,7 +489,7 @@ p{
     background-repeat: no-repeat;
 
 
-    
+
     background-size: 100%;
     display: block;
     margin: auto;
@@ -494,72 +498,72 @@ p{
 }
 @media (min-width: 576px) { 
     .bck-intro {
-    
-    margin-bottom:200px;
+
+        margin-bottom:200px;
     }
 }
 
 @media (min-width: 768px) {
 
- }
+}
 /* Portrait */
 @media only screen 
-  and (min-device-width: 768px) 
-  and (max-device-width: 1024px) 
-  
-  and (-webkit-min-device-pixel-ratio: 1) {
+and (min-device-width: 768px) 
+and (max-device-width: 1024px) 
+
+and (-webkit-min-device-pixel-ratio: 1) {
     .bck-intro .main-block.back-girl:after{
         content: "";
         background: transparent !important;
     }
     .item-module {
-    min-height: 265px !important;
+        min-height: 265px !important;
 
-
-}
-/* Portrait */
-@media only screen 
-  and (min-device-width: 480px) 
-  and (max-device-width: 640px)
-  and (-webkit-min-device-pixel-ratio: 1) 
- {
-    #prefooter-place:before {
-
-    height: 84px!important;
 
     }
-    
+    /* Portrait */
+    @media only screen 
+    and (min-device-width: 480px) 
+    and (max-device-width: 640px)
+    and (-webkit-min-device-pixel-ratio: 1) 
+    {
+        #prefooter-place:before {
+
+            height: 84px!important;
+
+        }
 
 
-}
-
-@media (min-width: 992px) { 
-
-
-    #act_01p3 .img-md {
-        max-width:420px; 
-
-    }
-    .conti {
-
-        position: absolute;
 
     }
 
-    .baki {
+    @media (min-width: 992px) { 
 
-        position: absolute;
 
+        #act_01p3 .img-md {
+            max-width:420px; 
+
+        }
+        .conti {
+
+            position: absolute;
+
+        }
+
+        .baki {
+
+            position: absolute;
+
+        }
+        .main{
+            position: relative;
+            top: 0px;
+            bottom: 0px;
+            max-width: 100%;
+            left: 0px;
+            width: 100%;
+
+        }
     }
-    .main{
-        position: relative;
-        top: 0px;
-        bottom: 0px;
-        max-width: 100%;
-        left: 0px;
-        width: 100%;
 
-    }
-}
-
-@media (min-width: 1200px) { }
+    @media (min-width: 1200px) { }

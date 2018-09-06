@@ -44,7 +44,7 @@
 #page-2-02a .flip-5 .front{ background-color: #79469B }
 #page-2-02a .flip-6 .front{ background-color: #3597DA }
 
-#page-2-02b .jumbo{ height: 220px; background: #F6FAD2; border-radius: 25px; padding: 15px; margin: 35px 0px;  }
+#page-2-02b .jumbo{ background: #F6FAD2; border-radius: 25px; padding: 15px; margin: 35px 0px;  }
 #page-2-02b .text-jumbo{ color: #246F92; font-family: 'Nunito', sans-serif; font-weight: bold; font-size: 1.3em; }
 #page-2-02b .jumbo:before {
     background-color: #FFBF3F;
@@ -97,13 +97,13 @@
 #page-2-09 .nav-tabs .nav-link.active { color: #fff; border-radius: 10px 10px 0px 0px; min-height: 105px; }
 
 
-#page-2-09 .tab-content .tab-pane{ padding: 55px; border-radius: 0px 0px 15px 15px; color: #fff !important;}
+#page-2-09 .tab-content .tab-pane{ padding: 0px; color: #fff !important; border-radius: 0px; opacity: 1;}
 #page-2-09 .tab-content .tab-pane:nth-child(1) { background-color: #F99235; }
 #page-2-09 .tab-content .tab-pane:nth-child(2) { background-color: #00A79D; }
 #page-2-09 .tab-content .tab-pane:nth-child(3) { background-color: #005C8D; }
 #page-2-09 .tab-content .tab-pane:nth-child(4) { background-color: #7CB63F; }
 #page-2-09 .tab-content .tab-pane:nth-child(5) { background-color: #9F005C; }
-
+#page-2-09 .tab-content .tab-pane .card-header a{color: #fff;}
 #page-2-09 .tab-content img{  max-width: 100% !important;}
 #page-2-09 .tab-content p{ color: #fff !important; font-size: 1.1em;}
 #page-2-09 .tab-content p.title{ font-size: 1.2em; font-weight: bold; }
@@ -244,15 +244,42 @@ span.title-b {
     color: #696969;
 }
 
+.nav-tabs {
+    display:none;
+}
 
+@media(max-width:767px){
+    .tab-pane {
+        display: block !important;
+        opacity: 1;
+    }
+    
+    
+}
+@media (min-width: 768px) {
+    .nav-tabs {
+        display: flex;
+    }
+    
+    .card {
+        border: none;
+    }
 
+    .card .card-header {
+        display:none;
+    }  
 
-@media (min-width: 768px) {  }/*fin*/
+    .card .collapse{
+        display:block;
+    }
+}/*fin*/
 
 
 
 @media (min-width: 992px) { 
-
+    #page-2-02b .jumbo{ height: 220px; }
+    #page-2-09 .tab-content .tab-pane{ padding: 55px; border-radius: 0px 0px 15px 15px; }
+    
 } /*fin*/
 
 

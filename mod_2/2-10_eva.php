@@ -94,7 +94,7 @@
 
                                     <img src="../img/mod1/1-09_eva-intro.png" alt="" class="img-md"/>
 
-                                    <p class="label-info">A continuación usted encontrará una serie de preguntas de diferentes tipos.<br>Lea cada una de ellas y escoja la respuesta correcta.</p>
+                                    <p class="label-info text-center">A continuación usted encontrará una serie de preguntas de diferentes tipos.<br>Lea cada una de ellas y escoja la respuesta correcta.</p>
 
                                 </div>
 
