@@ -101,7 +101,7 @@ h4{
 
 .gotoModulePage{margin: auto; display: inherit; margin-top: 10px;}
 .mod{
-    min-height: 770px;
+    min-height: 570px;
     /*padding: 10px;*/
 }
 .mod.intro{
@@ -445,7 +445,7 @@ p{
     background-repeat: no-repeat;
     background-size: 100%;
     display: block;
-    margin: auto;
+        margin: 1% auto 2% auto;
     overflow: hidden;
     clear: both;
 }
