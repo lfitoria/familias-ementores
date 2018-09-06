@@ -134,7 +134,7 @@
     cursor: pointer;
 }
 #eva .answer.img-answer p{
-    min-height: 180px;
+    min-height: 210px;
 }
 
 #eva .answer p img{
@@ -295,6 +295,10 @@ a.v2-act-1:before{
 }
 a.v2-act-2:before{
     background-image: url(../img/mod1/modulo2-act2.png);
+}
+
+a.v2-act-2a:before{
+    background-image: url(../img/mod1/icon-modulo2.png);
 }
 a.v2-act-3:before{
     background-image: url(../img/mod1/modulo2-act3.png);

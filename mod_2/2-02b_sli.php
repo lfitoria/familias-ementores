@@ -1,14 +1,14 @@
 <html id="page-2-02b">
     <head>
-<meta http-equiv="Cache-Control" content="no-cache" />
-<meta http-equiv="Pragma" content="no-cache" />
-<meta http-equiv="Expires" content="0" />
-        <link rel="icon" href="favicon.ico" type="image/gif">
+        <meta http-equiv="Cache-Control" content="no-cache" />
+        <meta http-equiv="Pragma" content="no-cache" />
+        <meta http-equiv="Expires" content="0" />
+        <link rel="icon" href="../favicon.ico" type="image/gif">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <title>Prevengo: acompaño en línea | e-mentores</title>
         <link  type="text/css"  href="../css/bootstrap.css" rel="stylesheet">
         <link  type="text/css"  href="../css/bootstrap-grid.css" rel="stylesheet">
-        <link rel="stylesheet" href="https://cdn.jsdelivr.net/bxslider/4.2.12/jquery.bxslider.css">
+        <link href="https://fonts.googleapis.com/css?family=Nunito:300,400,700" rel="stylesheet">
         <link href="../css/style.css" rel="stylesheet" type="text/css"/>
         <link href="../css/index.css" rel="stylesheet" type="text/css"/>
         <link href="../css/mod2.css" rel="stylesheet" type="text/css"/>
@@ -42,209 +42,143 @@
                 <p class="intro-header blue">Ejemplos aplicados de crianza respetuosa</p>
                 <section class="container">
                     <div class="main">
-                        <div id="act_01p1" class="mod">
+                        <div id="act_01p1" class="module-page">
                             <div class="row align-items-center justify-content-md-center">
-                                <div class="col-12 col-sm-7">
-                                    <p>
-                                        Lea los siguientes consejos sobre cómo criar respetuosamente. Observe cómo cada uno de ellos puede aplicarse dentro de la crianza tecnológica. 
-                                    </p>
+                                <div class="col-12 col-sm-10">
+                                    <p class="text-center intro-label"><strong>Lea los siguientes consejos sobre cómo criar respetuosamente. Observe cómo cada uno de ellos puede aplicarse dentro de la crianza tecnológica.</strong></p>
                                 </div>
-                                <div class="col-12 col-sm-7">
-                                    <img src="../img/mod2/2-02a_sli-familias.png" class="img-fluid img-md">
+                                <div class="col-12 col-sm-10">
+                                    <img src="../img/mod2/2-02b_sli-img-intro.png" alt="" class="img-fluid m-auto d-block"/>
                                 </div>
                             </div>
                             <button class="gotoModulePage conti conti-ini" data-page="2">Continuar</button>
                         </div>
                         <!-- slide2 -->
-                        <div id="act_01p2" class="d-none mod">
-                        	
-                        	<div class="row align-items-center justify-content-md-center">
-                        	<h3 class="col-10"><span>1</span></h3>
-                        	</div>
+                        <div id="act_01p2" class="d-none module-page">
+
+
 
                             <div class="row align-items-center justify-content-md-center">
 
-                                
-                                <div class="col-12 col-sm-3">
-                                    <img src="../img/mod2/2-02b_sli-img-1.png" class="img-fluid img-md">
+                                <div class="jumbo col-10 num1">
+                                    <div class="row">
+                                        <div class="col-12 col-sm-5 image-jumbo">
+                                            <img src="../img/mod2/2-02b_sli-img-1.png" class="img-fluid img-md">
+                                        </div>
+                                        <div class="col-12 col-sm-6">
+                                            <p class="font-italic text-jumbo">“Como persona adulta, al usar Internet también tengo que lidiar con conflictos y tomar decisiones. Lo que yo haga me puede convertir en un buen o mal ejemplo para mis hijos e hijas.”</p>
+                                        </div>
+                                    </div>
                                 </div>
-                                <div class="col-12 col-sm-7">
-                                   <h2 class="font-italic">“Como persona adulta, al usar Internet también tengo que lidiar con conflictos y tomar decisiones. Lo que yo haga me puede convertir en un buen o mal ejemplo para mis hijos e hijas.”
-									</h2>
-                                </div>
+
                                 <div class="col-10">
-                                	<h4>¿Qué hacer?</h4>
-                                	<p>Realizar un uso seguro, responsable, productivo y participativo de las TIC:</p>
-                                	<ul>
-                                		<li>
-                                			Tener contraseñas seguras.
-                                		</li>
-                                		<li>
-                                			Configurar la privacidad de las redes sociales.
-                                		</li>
-                                		<li>
-                                			No publicar información íntima, privada u ofensiva.
-                                		</li>
-                                		<li>
-                                			Pedir permiso para publicar fotos de otras personas.
-                                		</li>
-                                		<li>
-                                			Usar la tecnología para aprender.
-                                		</li>
-                                	</ul>
+                                    <h4>¿Qué hacer?</h4>
+                                    <p>Realizar un uso seguro, responsable, productivo y participativo de las TIC:</p>
+                                    <ul>
+                                        <li>Tener contraseñas seguras.</li>
+                                        <li>Configurar la privacidad de las redes sociales.</li>
+                                        <li>No publicar información íntima, privada u ofensiva.</li>
+                                        <li>Pedir permiso para publicar fotos de otras personas.</li>
+                                        <li>Usar la tecnología para aprender.</li>
+                                    </ul>
                                 </div>
-
-
-
-                                
                             </div>
                             <div class="row">
-                            <button class="gotoModulePage baki " data-page="1">Atrás</button>
-                            <button class="gotoModulePage conti " data-page="3">Continuar</button>
+                                <button class="gotoModulePage baki " data-page="1">Atrás</button>
+                                <button class="gotoModulePage conti " data-page="3">Continuar</button>
                             </div>
                         </div>
                         <!-- fin slide2 -->
-
-                        <div id="act_01p3" class="d-none mod">
-                            
-                        	<div class="row align-items-center justify-content-md-center">
-                        	<h3 class="col-10"><span>2</span></h3>
-                        	</div>
+                        <div id="act_01p3" class="d-none module-page">
 
                             <div class="row align-items-center justify-content-md-center">
+                                <div class="jumbo col-10 num2">
+                                    <div class="row">
+                                        <div class="col-12 col-sm-5 image-jumbo">
+                                            <img src="../img/mod2/2-02b_sli-img-2.png" class="img-fluid img-md">
+                                        </div>
+                                        <div class="col-12 col-sm-6">
+                                            <p class="font-italic text-jumbo">“Mi hijo se molestaba cuando perdía en los videojuegos en línea y se frustraba porque otros le hacían bromas y hasta lo amenazaron en redes sociales.”</p>
+                                        </div>
+                                    </div>
+                                </div>
 
-                                
-                                <div class="col-12 col-sm-3">
-                                    <img src="../img/mod2/2-02b_sli-img-2.png" class="img-fluid img-md">
-                                </div>
-                                <div class="col-12 col-sm-7">
-                                   <h2 class="font-italic">“Como persona adulta, al usar Internet también tengo que lidiar con conflictos y tomar decisiones. Lo que yo haga me puede convertir en un buen o mal ejemplo para mis hijos e hijas.”
-									</h2>
-                                </div>
                                 <div class="col-10">
-                                	<h4>¿Qué hacer?</h4>
-                                	<p>Realizar un uso seguro, responsable, productivo y participativo de las TIC:</p>
-                                	<ul>
-                                		<li>
-                                			¿Cómo reaccionar si alguien me ofende o agrede en redes sociales?
-                                		</li>
-                                		<li>
-                                			¿Qué hacer si alguien me amenaza?
-                                		</li>
-                                		<li>
-                                			Si una publicación en redes sociales me molesta mucho, ¿cómo respondo?
-                                		</li>
-                                		
-                                	</ul>
-                                </div> 
+                                    <h4>¿Qué hacer?</h4>
+                                    <p>Realizar un uso seguro, responsable, productivo y participativo de las TIC:</p>
+                                    <ul>
+                                        <li>¿Cómo reaccionar si alguien me ofende o agrede en redes sociales?</li>
+                                        <li>¿Qué hacer si alguien me amenaza?</li>
+                                        <li>Si una publicación en redes sociales me molesta mucho, ¿cómo respondo?</li>
+                                    </ul>
+                                </div>
                             </div>
-
-                        	<div class="row">
+                            <div class="row">
                                 <button class="gotoModulePage baki" data-page="2">Atrás</button>
                                 <button class="gotoModulePage conti" data-page="4">Continuar</button>
                             </div>
                         </div>
-                        
-                        
-                        <div id="act_01p4" class="d-none mod ">
-                        	<div class="row align-items-center justify-content-md-center">
-                        	<h3 class="col-10"><span>3</span></h3>
-                        	</div>
-
+                        <div id="act_01p4" class="d-none module-page ">
                             <div class="row align-items-center justify-content-md-center">
 
-                                
-                                <div class="col-12 col-sm-3">
-                                    <img src="../img/mod2/2-02b_sli-img-3.png" class="img-fluid img-md">
-                                </div>
-                                <div class="col-12 col-sm-7">
-                                   <h2 class="font-italic">“Nuestra hija llegó muy afectada del colegio. Me acerqué y me comentó que le hicieron un meme y lo enviaron por teléfono a los grupos de compañeros.”
-									</h2>
+                                <div class="jumbo col-10 num3">
+                                    <div class="row">
+                                        <div class="col-12 col-sm-5 image-jumbo">
+                                            <img src="../img/mod2/2-02b_sli-img-3.png" class="img-fluid img-md">
+                                        </div>
+                                        <div class="col-12 col-sm-6">
+                                            <p class="font-italic text-jumbo">“Nuestra hija llegó muy afectada del colegio. Me acerqué y me comentó que le hicieron un meme y lo enviaron por teléfono a los grupos de compañeros.”</p>
+                                        </div>
+                                    </div>
                                 </div>
                                 <div class="col-10">
-                                	<h4>¿Qué hacer?</h4>
-                                	<p>Reaccionar con empatía, comprensión y amor. Agradecer  la confianza y tratar de apoyarla para buscar soluciones y para evitar estas situaciones en el futuro. Le ofrecemos un abrazo.
-                                	</p>
+                                    <h4>¿Qué hacer?</h4>
+                                    <p>Reaccionar con empatía, comprensión y amor. Agradecer  la confianza y tratar de apoyarla para buscar soluciones y para evitar estas situaciones en el futuro. Le ofrecemos un abrazo.
+                                    </p>
                                 </div>
-
-
-
-                                
                             </div>
                             <div class="row">
                                 <button class="gotoModulePage baki" data-page="3">Atrás</button>
                                 <button class="gotoModulePage conti" data-page="5">Continuar</button>
                             </div>
                         </div>
-                        <div id="act_01p5" class="d-none mod ">
-                        	<div class="row align-items-center justify-content-md-center">
-                        	<h3 class="col-10"><span>4</span></h3>
-                        	</div>
-
+                        <div id="act_01p5" class="d-none module-page ">
+                          
                             <div class="row align-items-center justify-content-md-center">
-
-                                
-                                <div class="col-12 col-sm-3">
-                                    <img src="../img/mod2/2-02b_sli-img-4.png" class="img-fluid img-md">
-                                </div>
-                                <div class="col-12 col-sm-7">
-                                   <h2 class="font-italic">“Mi sobrino presenta conductas de riesgo al usar las TIC.”
-									</h2>
+                                <div class="jumbo col-10 num4">
+                                    <div class="row">
+                                        <div class="col-12 col-sm-5 image-jumbo">
+                                            <img src="../img/mod2/2-02b_sli-img-4.png" class="img-fluid img-md">
+                                        </div>
+                                        <div class="col-12 col-sm-6">
+                                            <p class="font-italic text-jumbo">“Mi sobrino presenta conductas de riesgo al usar las TIC.”</p>
+                                        </div>
+                                    </div>
                                 </div>
                                 <div class="col-10">
-                                	<h4>¿Qué hacer?</h4>
-                                	<p>Explorar alternativas para hacer un uso responsable, productivo y participativo de las TIC. 
-                                	</p>
+                                    <h4>¿Qué hacer?</h4>
+                                    <p>Explorar alternativas para hacer un uso responsable, productivo y participativo de las TIC.
+                                    </p>
                                 </div>
-                                </div>
-                                <div class="row">
+                            </div>
+                            <div class="row">
                                 <button class="gotoModulePage baki" data-page="4">Atrás</button>
                                 <button class="gotoModulePage conti" data-page="6">Continuar</button>
+                            </div>
+                        </div>
+
+                        <div id="act_01p6" class="d-none mod ">
+                            <div class="row align-items-center justify-content-md-center">
+                                <h3 class="col-10">Recomendaciones finales</h3>
+                            </div>
+
                             
-                        </div>
-                    </div>
-
-
-
-                         <div id="act_01p6" class="d-none mod ">
-                        	<div class="row align-items-center justify-content-md-center">
-                        	<h3 class="col-10">Recomendaciones finales</h3>
-                        	</div>
-                        
-                            <div class="d-flex justify-content-center">
-                            	<div class="col-12 col-sm-4 reco-box-1"><img src="../img/mod2/2-02b_sli-icono-celular.png" class="img-fluid img-small">
-                            		<p>Negocie condiciones y límites para el uso del celular o computadora, redes sociales, videojuegos, etc.
-									</p>
-                            	</div>
-                            	<div class="col-12 col-sm-4 reco-box-2"><img src="../img/mod2/2-02b_sli-icono-chatcorazon.png" class="img-fluid img-small">
-                            		<p>
-                            			Responda siempre con respeto, interés y comprensión las inquietudes de las personas menores de edad.
-
-                            		</p>
-                            	</div>
-                            </div>
-
-                            <div class="d-flex justify-content-center">
-                            	<div class="col-12 col-sm-4 reco-box-3"><img src="../img/mod2/2-02b_sli-icono-basketball.png" class="img-fluid img-small">
-                            		<p>
-                            			Comparta tiempo en familia con y sin usar la tecnología, por ejemplo hablando de sus aplicaciones o videos favoritos.
-
-                            		</p>
-                            	</div>
-                            	<div class="col-12 col-sm-4 reco-box-4"><img src="../img/mod2/2-02b_sli-icono-manos.png" class="img-fluid img-small">
-                            		<p>Negocie un “contrato de uso de TIC”: cada parte asume compromisos y en consenso se define las consecuencias si estos no se cumplen.
-									</p>
-                            	</div>
-                            </div>
-                           
-
+                            <img src="../img/mod2/2-02b_sli-img-recomendaciones.png" alt="" class="img-fluid"/>
+                             
                             <div class="row">
-                            <button class="gotoModulePage btn btn-dark baki conti-baki" data-page="5">Atrás</button>
+                                <button class="gotoModulePage btn btn-dark baki conti-baki" data-page="5">Atrás</button>
+                            </div>
                         </div>
-                        </div>
-
-
-
                     </div>
                 </section>
                 <div class="modal fade" id="modal_1-08_act1" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
@@ -253,7 +187,6 @@
                             <div class="modal-header">
                                 <span></span>
                                 <button type="button" class="close" data-dismiss="modal" aria-label="Close">x</button>
-
                             </div>
                             <div class="modal-body">
                                 <div class="row" >
@@ -261,7 +194,7 @@
                                     <div class="col-6">
                                         <ul>
                                             <li>Problemas para dormir </li>
-                                            <li>Pesadillas</li> 
+                                            <li>Pesadillas</li>
                                             <li>No comer o comer mucho, problemas para controlar la necesidad de ir al baño</li>
                                             <li>Ansiedad, temor, culpa, vergüenza, depresión</li>
                                             <li>Agresividad, consumo de drogas, escaparse de la escuela/colegio</li>
@@ -304,7 +237,7 @@
                                     </div>
                                     <div class="col-6 col-md-6">
                                         <ul>
-                                            <li>Dificultad al dormir</li> 
+                                            <li>Dificultad al dormir</li>
                                             <li>Problemas de alimentación</li>
                                             <li>Problemas sexuales </li>
                                             <li>Enfermedades sin causa física</li>
@@ -320,7 +253,7 @@
 
                     </div>
                 </div>
-                <a href="../0-03_menu.php" class="back_to_menu">Volver</a>
+                <a href="../0-03_menu.php" class="back_to_menu">Volver al menú</a>
                 </section>
                 <?php require '../footer.php'; ?>
             </div>
@@ -330,21 +263,6 @@
                 </div>
 
                 <ul class="list-unstyled components">
-                    <!-- <p>Dummy Heading</p> -->
-                    <!-- <li class="active">
-                        <a href="#homeSubmenu" data-toggle="collapse" aria-expanded="false" class="dropdown-toggle">Home</a>
-                        <ul class="collapse list-unstyled" id="homeSubmenu">
-                            <li>
-                                <a href="#">Home 1</a>
-                            </li>
-                            <li>
-                                <a href="#">Home 2</a>
-                            </li>
-                            <li>
-                                <a href="#">Home 3</a>
-                            </li>
-                        </ul>
-                    </li> -->
                     <li>
                         <a href="#" class="nav-sobre">Sobre el proyecto</a>
                     </li>
@@ -379,7 +297,7 @@
         <script type="text/javascript" src="../js/map/init.js" ></script>
         <script>
             $(".gotoModulePage").click(function () {
-                $(".mod").addClass("d-none");
+                $(".module-page").addClass("d-none");
                 $("#act_01p" + $(this).data("page")).removeClass("d-none");
             });
 

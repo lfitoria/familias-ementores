@@ -1,14 +1,14 @@
 <html id="page-2-01">
     <head>
-<meta http-equiv="Cache-Control" content="no-cache" />
-<meta http-equiv="Pragma" content="no-cache" />
-<meta http-equiv="Expires" content="0" />
-    <link rel="icon" href="favicon.ico" type="image/gif">
+        <meta http-equiv="Cache-Control" content="no-cache" />
+        <meta http-equiv="Pragma" content="no-cache" />
+        <meta http-equiv="Expires" content="0" />
+        <link rel="icon" href="../favicon.ico" type="image/gif">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <title>Prevengo: acompaño en línea | e-mentores</title>
         <link  type="text/css"  href="../css/bootstrap.css" rel="stylesheet">
         <link  type="text/css"  href="../css/bootstrap-grid.css" rel="stylesheet">
-        <link rel="stylesheet" href="https://cdn.jsdelivr.net/bxslider/4.2.12/jquery.bxslider.css">
+        <link href="https://fonts.googleapis.com/css?family=Nunito:300,400,700" rel="stylesheet">
         <link href="../css/style.css" rel="stylesheet" type="text/css"/>
         <link href="../css/index.css" rel="stylesheet" type="text/css" />
         <link href="../css/mod2.css" rel="stylesheet" type="text/css" />
@@ -20,9 +20,15 @@
             <div id="content"> 
                 <nav class="navbar navbar-expand-lg navbar-light bg-light d-block">
                     <div class="container-fluid">
+
+                        <div class="nav justify-content-start">
+
+                        </div>
+
                         <div class="nav justify-content-center">
                             <h1><a class="mx-auto" href="../index.php"><img src="../img/logo-ementores.png" alt="E-mentores"></a></h1>
                         </div>
+
                         <div class="nav justify-content-end">
                             <button type="button" id="sidebarCollapse" class="btn" >
                                 <span class="navbar-toggler-icon"></span>
@@ -37,7 +43,7 @@
                             <div class="cont row">
                                 <div class="col-12">
                                     <video width="100%" height="auto" id="video" controls>
-                                        <source src="../videos/02-01_vid.mp4" type="video/mp4">
+                                        <source src="../videos/2-01_vid.mp4" type="video/mp4">
                                     </video>
                                     <a href="../0-03_menu.php" class="back_to_menu">Volver al menú</a>
                                 </div>
