@@ -70,168 +70,199 @@ Realice esta actividad para reflexionar sobre las emociones que nos pueden provo
                             <button class="gotoModulePage conti conti-ini" data-page="2">Continuar</button>
                         </div>
                         <!-- slide2 -->
-                        <div id="act_01p2" class="d-none mod">
-                            
-                            <div class="row align-items-center justify-content-center">
-                                <div class="col-6 " >
-                                <h3>  Usted comparte una foto íntima con una persona, y luego se la encuentra en Internet. 
-                                </h3>     
-                                </div> 
-                                <div class="col-3">
-                                    <img src="../img/mod2/2-06_act-situacion1.png" class="img-fluid">
-                                </div>
+                        <div class="row justify-content-center btn-j-center">
+                        <div class="col-12 col-sm-10">
+                            <div id="act_01p2" class="d-none mod">
                                 
-                                </div>
                                 <div class="row align-items-center justify-content-center">
-                                <div class="col-9">
-                                    <p>Escoja la emoción que lo hace sentir esta situación.</p>
-                                </div>
-                                </div>
+                                    <div class="col-6 " >
+                                    <h3>  Usted comparte una foto íntima con una persona, y luego se la encuentra en Internet. 
+                                    </h3>     
+                                    </div> 
+                                    <div class="col-3">
+                                        <img src="../img/mod2/2-06_act-situacion1.png" class="img-fluid">
+                                    </div>
+                                    
+                                    </div>
+                                    <div class="row align-items-center justify-content-center">
+                                    <div class="col-9">
+                                        <p>Escoja la emoción que lo hace sentir esta situación.</p>
+                                    </div>
+                                    </div>
 
-                                <div class="row">
-                                    <div class="col-6 col-sm sit-1-t">
-                                        <a data-modl="sit-1-t">Tristeza</a>
+                                    <div class="row">
+                                        <div class="col-6 col-sm sit-1-t">
+                                            <a data-modl="sit-1-t">Tristeza</a>
+                                        </div>
+                                        <div class="col-6 col-sm sit-1-e">
+                                            <a data-modl="sit-1-e">Enojo</a>
+                                        </div>
+                                        <div class="col-6 col-sm sit-1-i">
+                                            <a data-modl="sit-1-i">Indiferencia</a>
+                                        </div>
+                                        <div class="col-6 col-sm sit-1-m">
+                                            <a data-modl="sit-1-m">Miedo</a>
+                                        </div>
+                                        <div class="col-6 col-sm sit-1-d">
+                                            <a data-modl="sit-1-d">Disgusto</a>
+                                        </div>
                                     </div>
-                                    <div class="col-6 col-sm sit-1-e">
-                                        <a data-modl="sit-1-e">Enojo</a>
-                                    </div>
-                                    <div class="col-6 col-sm sit-1-i">
-                                        <a data-modl="sit-1-i">Indiferencia</a>
-                                    </div>
-                                    <div class="col-6 col-sm sit-1-m">
-                                        <a data-modl="sit-1-m">Miedo</a>
-                                    </div>
-                                    <div class="col-6 col-sm sit-1-d">
-                                        <a data-modl="sit-1-d">Disgusto</a>
-                                    </div>
-                                </div>
+                                    
                                 
-                            
-                            <div class="row">
-                            <button class="gotoModulePage baki " data-page="1">Atrás</button>
-                            <button class="gotoModulePage conti " data-page="3">Continuar</button>
+                                <div class="d-block d-sm-none">
+                                <div class="row ">
+                                <button class="gotoModulePage baki " data-page="1">Atrás</button>
+                                <button class="gotoModulePage conti " data-page="3">Continuar</button>
+                                </div>
+                                </div>
+                               
+                                <button class="gotoModulePage baki d-none d-sm-block" data-page="1">Atrás</button>
+                                <button class="gotoModulePage conti d-none d-sm-block" data-page="3">Continuar</button>
+                               
+                                
+                            </div>
+                            <!-- fin slide2 -->
+
+                            <div id="act_01p3" class="d-none mod">
+                                    <div class="row align-items-center justify-content-center">
+                                    <div class="col-6 " >
+                                    <h3>Aparece  en redes sociales un mensaje en el que una persona se burla de usted.
+                                    </h3>     
+                                    </div> 
+                                    <div class="col-3">
+                                        <img src="../img/mod2/2-06_act-situacion2.png" class="img-fluid">
+                                    </div>
+                                    
+                                    </div>
+                                    <div class="row align-items-center justify-content-center">
+                                    <div class="col-9">
+                                        <p>Escoja la emoción que lo hace sentir esta situación.</p>
+                                    </div>
+                                    </div>
+
+                                    <div class="row">
+                                        <div class="col-6 col-sm sit-2-t">
+                                            <a data-modl="sit-2-t">Tristeza</a>
+                                        </div>
+                                        <div class="col-6 col-sm sit-2-e">
+                                            <a data-modl="sit-2-e">Enojo</a>
+                                        </div>
+                                        <div class="col-6 col-sm sit-2-i">
+                                            <a data-modl="sit-2-i">Indiferencia</a>
+                                        </div>
+                                        <div class="col-6 col-sm sit-2-m">
+                                            <a data-modl="sit-2-m">Miedo</a>
+                                        </div>
+                                        <div class="col-6 col-sm sit-2-d">
+                                            <a data-modl="sit-2-d">Disgusto</a>
+                                        </div>
+                                    </div>
+                                <div class="d-block d-sm-none">
+                                <div class="row ">
+                                <button class="gotoModulePage baki " data-page="2">Atrás</button>
+                                <button class="gotoModulePage conti " data-page="4">Continuar</button>
+                                </div>
+                                </div>
+                               
+                                <button class="gotoModulePage baki d-none d-sm-block" data-page="2">Atrás</button>
+                                <button class="gotoModulePage conti d-none d-sm-block" data-page="4">Continuar</button>
                             </div>
                             
-                        </div>
-                        <!-- fin slide2 -->
+                            <div id="act_01p4" class="d-none mod ">
+                               <div class="row align-items-center justify-content-center">
+                                    <div class="col-6 " >
+                                    <h3>Una persona le pide dinero a cambio de no revelar un secreto suyo en redes sociales. 
+                                    </h3>     
+                                    </div> 
+                                    <div class="col-3">
+                                        <img src="../img/mod2/2-06_act-situacion3.png" class="img-fluid">
+                                    </div>
+                                    
+                                    </div>
+                                    <div class="row align-items-center justify-content-center">
+                                    <div class="col-9">
+                                        <p>Escoja la emoción que lo hace sentir esta situación.</p>
+                                    </div>
+                                    </div>
 
-                        <div id="act_01p3" class="d-none mod">
-                                <div class="row align-items-center justify-content-center">
-                                <div class="col-6 " >
-                                <h3>Aparece  en redes sociales un mensaje en el que una persona se burla de usted.
-                                </h3>     
-                                </div> 
-                                <div class="col-3">
-                                    <img src="../img/mod2/2-06_act-situacion2.png" class="img-fluid">
+                                    <div class="row">
+                                        <div class="col-6 col-sm sit-3-t">
+                                            <a data-modl="sit-3-t">Tristeza</a>
+                                        </div>
+                                        <div class="col-6 col-sm sit-3-e">
+                                            <a data-modl="sit-3-e">Enojo</a>
+                                        </div>
+                                        <div class="col-6 col-sm sit-3-i">
+                                            <a data-modl="sit-3-i">Indiferencia</a>
+                                        </div>
+                                        <div class="col-6 col-sm sit-3-m">
+                                            <a data-modl="sit-3-m">Miedo</a>
+                                        </div>
+                                        <div class="col-6 col-sm sit-3-d">
+                                            <a data-modl="sit-3-d">Disgusto</a>
+                                        </div>
+                                    </div>
+
+                                    <div class="d-block d-sm-none">
+                                <div class="row ">
+                                <button class="gotoModulePage baki " data-page="3">Atrás</button>
+                                <button class="gotoModulePage conti " data-page="5">Continuar</button>
                                 </div>
+                                </div>
+                               
+                                <button class="gotoModulePage baki d-none d-sm-block" data-page="3">Atrás</button>
+                                <button class="gotoModulePage conti d-none d-sm-block" data-page="5">Continuar</button>
+                                    
+
+
+                            </div>
+                            <div id="act_01p5" class="d-none mod ">
+                               <div class="row align-items-center justify-content-center">
+                                    <div class="col-6 " >
+                                    <h3>Una persona le pide que le envíe fotos íntimas.
+                                    </h3>     
+                                    </div> 
+                                    <div class="col-3">
+                                        <img src="../img/mod2/2-06_act-situacion4.png" class="img-fluid">
+                                    </div>
+                                    
+                                    </div>
+                                    <div class="row align-items-center justify-content-center">
+                                    <div class="col-9">
+                                        <p>Escoja la emoción que lo hace sentir esta situación.</p>
+                                    </div>
+                                    </div>
+
+                                    <div class="row">
+                                        <div class="col-6 col-sm sit-4-t">
+                                            <a data-modl="sit-4-t">Tristeza</a>
+                                        </div>
+                                        <div class="col-6 col-sm sit-4-e">
+                                            <a data-modl="sit-4-e">Enojo</a>
+                                        </div>
+                                        <div class="col-6 col-sm sit-4-i">
+                                            <a data-modl="sit-4-i">Indiferencia</a>
+                                        </div>
+                                        <div class="col-6 col-sm sit-4-m">
+                                            <a data-modl="sit-4-m">Miedo</a>
+                                        </div>
+                                        <div class="col-6 col-sm sit-4-d">
+                                            <a data-modl="sit-4-d">Disgusto</a>
+                                        </div>
+                                    </div>
                                 
+                                    <div class="d-block d-sm-none">
+                                <div class="row ">
+                                <button class="gotoModulePage baki " data-page="4">Atrás</button>
+                                <button class="gotoModulePage conti " data-page="6">Continuar</button>
                                 </div>
-                                <div class="row align-items-center justify-content-center">
-                                <div class="col-9">
-                                    <p>Escoja la emoción que lo hace sentir esta situación.</p>
                                 </div>
-                                </div>
+                               
+                                <button class="gotoModulePage baki d-none d-sm-block" data-page="4">Atrás</button>
+                                <button class="gotoModulePage conti d-none d-sm-block" data-page="6">Continuar</button>
 
-                                <div class="row">
-                                    <div class="col-6 col-sm sit-2-t">
-                                        <a data-modl="sit-2-t">Tristeza</a>
-                                    </div>
-                                    <div class="col-6 col-sm sit-2-e">
-                                        <a data-modl="sit-2-e">Enojo</a>
-                                    </div>
-                                    <div class="col-6 col-sm sit-2-i">
-                                        <a data-modl="sit-2-i">Indiferencia</a>
-                                    </div>
-                                    <div class="col-6 col-sm sit-2-m">
-                                        <a data-modl="sit-2-m">Miedo</a>
-                                    </div>
-                                    <div class="col-6 col-sm sit-2-d">
-                                        <a data-modl="sit-2-d">Disgusto</a>
-                                    </div>
-                                </div>
-                            <div class="row">
-                            <button class="gotoModulePage baki " data-page="1">Atrás</button>
-                            <button class="gotoModulePage conti " data-page="4">Continuar</button>
                             </div>
                         </div>
-                        
-                        <div id="act_01p4" class="d-none mod ">
-                           <div class="row align-items-center justify-content-center">
-                                <div class="col-6 " >
-                                <h3>Una persona le pide dinero a cambio de no revelar un secreto suyo en redes sociales. 
-                                </h3>     
-                                </div> 
-                                <div class="col-3">
-                                    <img src="../img/mod2/2-06_act-situacion3.png" class="img-fluid">
-                                </div>
-                                
-                                </div>
-                                <div class="row align-items-center justify-content-center">
-                                <div class="col-9">
-                                    <p>Escoja la emoción que lo hace sentir esta situación.</p>
-                                </div>
-                                </div>
-
-                                <div class="row">
-                                    <div class="col-6 col-sm sit-3-t">
-                                        <a data-modl="sit-3-t">Tristeza</a>
-                                    </div>
-                                    <div class="col-6 col-sm sit-3-e">
-                                        <a data-modl="sit-3-e">Enojo</a>
-                                    </div>
-                                    <div class="col-6 col-sm sit-3-i">
-                                        <a data-modl="sit-3-i">Indiferencia</a>
-                                    </div>
-                                    <div class="col-6 col-sm sit-3-m">
-                                        <a data-modl="sit-3-m">Miedo</a>
-                                    </div>
-                                    <div class="col-6 col-sm sit-3-d">
-                                        <a data-modl="sit-3-d">Disgusto</a>
-                                    </div>
-                                </div>
-                                <div class="row">
-                            <button class="gotoModulePage baki " data-page="3">Atrás</button>
-                            <button class="gotoModulePage conti " data-page="5">Continuar</button>
-                            </div>
-                        </div>
-                        <div id="act_01p5" class="d-none mod ">
-                           <div class="row align-items-center justify-content-center">
-                                <div class="col-6 " >
-                                <h3>Una persona le pide que le envíe fotos íntimas.
-                                </h3>     
-                                </div> 
-                                <div class="col-3">
-                                    <img src="../img/mod2/2-06_act-situacion4.png" class="img-fluid">
-                                </div>
-                                
-                                </div>
-                                <div class="row align-items-center justify-content-center">
-                                <div class="col-9">
-                                    <p>Escoja la emoción que lo hace sentir esta situación.</p>
-                                </div>
-                                </div>
-
-                                <div class="row">
-                                    <div class="col-6 col-sm sit-4-t">
-                                        <a data-modl="sit-4-t">Tristeza</a>
-                                    </div>
-                                    <div class="col-6 col-sm sit-4-e">
-                                        <a data-modl="sit-4-e">Enojo</a>
-                                    </div>
-                                    <div class="col-6 col-sm sit-4-i">
-                                        <a data-modl="sit-4-i">Indiferencia</a>
-                                    </div>
-                                    <div class="col-6 col-sm sit-4-m">
-                                        <a data-modl="sit-4-m">Miedo</a>
-                                    </div>
-                                    <div class="col-6 col-sm sit-4-d">
-                                        <a data-modl="sit-4-d">Disgusto</a>
-                                    </div>
-                                </div>
-                            <div class="row">
-                            <button class="gotoModulePage baki " data-page="4">Atrás</button>
-                            <button class="gotoModulePage conti " data-page="6">Continuar</button>
-                            </div>
                         </div>
                         <!-- 6 -->
                         <div id="act_01p6" class="d-none mod ">

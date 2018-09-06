@@ -442,7 +442,7 @@ p{
     background-repeat: no-repeat;
     background-size: 100%;
     display: block;
-    margin: auto;
+        margin: 1% auto 2% auto;
     overflow: hidden;
     clear: both;
 }

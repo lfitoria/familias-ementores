@@ -167,14 +167,14 @@
             });
 
 
-            $('#modal_1-04_act').on('shown.bs.modal', function (e) {
-                console.log(slider);
-                $('.slider' + slider).bxSlider({
-                    pager: false,
-                    infiniteLoop: true,
-                    auto: false
-                });
-            });
+            // $('#modal_1-04_act').on('shown.bs.modal', function (e) {
+            //     console.log(slider);
+            //     $('.slider' + slider).bxSlider({
+            //         pager: false,
+            //         infiniteLoop: true,
+            //         auto: false
+            //     });
+            // });
 
             $('#modal_1-04_act').on('hidden.bs.modal', function (e) {
 

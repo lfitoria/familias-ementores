@@ -190,3 +190,20 @@ span.title-b {
     font-size: 1.3em;
     color: #696969;
 }
+.btn-j-center .mod{
+    position: relative;
+}
+.btn-j-center button.baki {
+    position: absolute;
+    left: -10%;
+    margin: 0;
+    top: 50%;
+}
+
+.btn-j-center button.conti {
+    position: absolute;
+    right: -10%;
+    margin: 0;
+    top: 50%;
+    left: auto;
+}
