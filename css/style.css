@@ -19,9 +19,16 @@ h4{
     color: grey;
 }
 
-.back-stars{
-    background-image: url(../img/internas/fondo-header1.png);
+p.intro-label{
+    font-size: 1.2em;
+    width: 100%;
+    max-width: 600px;
+    margin: 10px auto;
+    display: block;
 }
+.text-blue{ color: #3B6593; }
+
+.back-stars{ background-image: url(../img/internas/fondo-header1.png); }
 
 .btn-start {
     background-image: url(../img/botones/btn_iniciar.png);
@@ -45,12 +52,13 @@ h4{
 .btn-start:hover { background-position: -130px 0px; }
 .conti {
     background-image: url(../img/mod1/flecha-siguiente_activa.png);
+    background-size: 100%;
     position: relative;
     right: -7%;
     border: none;
     text-indent: -999999999;
-    width: 78px;
-    height: 78px;
+    width: 65px;
+    height: 65px;
     cursor: pointer;
     top: 35%;
 }
@@ -60,12 +68,13 @@ h4{
 }
 .baki {
     background-image: url(../img/mod1/flecha-anterior_activa.png);
+    background-size: 100%;
     position: relative;
     left: -7%;
     border: none;
     text-indent: -999999999;
-    width: 78px;
-    height: 78px;
+    width: 65px;
+    height: 65px;
     cursor: pointer;
     top: 35%;
 }
@@ -178,7 +187,6 @@ a.nav-iniciar:before{
 
 }
 .modal-body {
-
     padding: 0rem 2rem;
 }
 .bx-wrapper .bx-prev {
@@ -327,7 +335,13 @@ img[usemap]{
     width: 100%;
 }
 .modal-header {
-    border:none;
+    border: none;
+    padding: 8px 15px;
+}
+
+.modal-header .close{
+    padding: 0px;
+    margin-top: -13px;
 }
 .modal-content {
 
@@ -336,7 +350,6 @@ img[usemap]{
     border: none;
     border-radius: 0px;
     padding: 15px;
-
 }
 .bg-light{
     background-color: #ffffff !important;
