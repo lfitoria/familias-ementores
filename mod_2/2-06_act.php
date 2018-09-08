@@ -20,7 +20,7 @@
 
             <!-- Page Content -->
 
-            <div id="content">
+            <div id="content" class="bck-lightblue">
                 <nav class="navbar navbar-expand-lg navbar-light bg-light d-block">
                     <div class="container-fluid">
 
@@ -44,30 +44,18 @@
                     <div class="main">
                         <div id="act_01p1" class="mod">
                             <div class="row align-items-center justify-content-md-center">
-                                <div class="col-12 col-sm-7">
-                                    <h3 class="text-center">
-                                        ¿Cómo me hace sentir esta situación?
+                                <div class="col-12 col-sm-10">
+                                    <div class="intro_2-06">
+                                        <p>Una forma de protección consiste en identificar las señales que nos dan nuestras emociones cuando navegamos e interactuamos con otras personas en Internet.</p>
 
-
-                                    </h3>
-                                    <br>
-                                    <p>
-                                        Para protegernos al usar las TIC, debemos aprender a identificar las señales que nos dan nuestras emociones cuando navegamos en Internet e interactuamos con otras personas. 
-
-                                    </p><p>
-                                        Realice esta actividad para reflexionar sobre las emociones que nos pueden provocar diferentes situaciones… Puede incluso realizarla con sus hijos, hijas o personas menores de edad a su cargo, y usarla para conversar con ellos.
-
-
-
-
-                                    </p>
-                                    <br>
+                                        <p>Realice esta actividad para reflexionar sobre las emociones que nos pueden provocar diferentes situaciones… Puede incluso realizarla con sus hijos, hijas o personas menores de edad a su cargo, y usarla para conversar con ellos.</p>
+                                        <button class="gotoModulePage btn-start" data-page="2"><span>Iniciar</button>
+                                    </div>
                                 </div>
                                 <!-- <div class="col-12 col-sm-7">
                                     <img src="../img/mod2/2-02a_sli-familias.png" class="img-fluid img-md">
                                 </div> -->
                             </div>
-                            <button class="gotoModulePage conti conti-ini" data-page="2">Continuar</button>
                         </div>
                         <!-- slide2 -->
                         <div class="row justify-content-center btn-j-center">
@@ -75,8 +63,8 @@
                                 <div id="act_01p2" class="d-none mod">
 
                                     <div class="row align-items-center justify-content-center">
-                                        <div class="col-12 col-md-6" >
-                                            <h3>Usted comparte una foto íntima con una persona, y luego se la encuentra en Internet.</h3>     
+                                        <div class="col-12 col-md-8" >
+                                            <p class="explication-label">Usted comparte una foto íntima con una persona, y luego se la encuentra en Internet.</p>     
                                         </div> 
                                         <div class="d-none d-md-block col-md-4">
                                             <img src="../img/mod2/2-06_act-situacion1.png" class="img-fluid">
@@ -84,26 +72,26 @@
 
                                     </div>
                                     <div class="row align-items-center justify-content-center">
-                                        <div class="col-9">
-                                            <p>Escoja la emoción que lo hace sentir esta situación.</p>
+                                        <div class="col-12">
+                                            <p class="instruction-label">Escoja la emoción que lo hace sentir esta situación.</p>
                                         </div>
                                     </div>
 
                                     <div class="row">
-                                        <div class="col-6 col-sm sit-1-t">
-                                            <a data-modl="sit-1-t">Tristeza</a>
+                                        <div class="col-6 situation col-sm sit-1-t">
+                                            <a data-modl="sit-1-t"><span>Tristeza</span></a>
                                         </div>
-                                        <div class="col-6 col-sm sit-1-e">
-                                            <a data-modl="sit-1-e">Enojo</a>
+                                        <div class="col-6 situation col-sm sit-1-e">
+                                            <a data-modl="sit-1-e"><span>Enojo</span></a>
                                         </div>
-                                        <div class="col-6 col-sm sit-1-i">
-                                            <a data-modl="sit-1-i">Indiferencia</a>
+                                        <div class="col-6 situation col-sm sit-1-i">
+                                            <a data-modl="sit-1-i"><span>Indiferencia</span></a>
                                         </div>
-                                        <div class="col-6 col-sm sit-1-m">
-                                            <a data-modl="sit-1-m">Miedo</a>
+                                        <div class="col-6 situation col-sm sit-1-m">
+                                            <a data-modl="sit-1-m"><span>Miedo</span></a>
                                         </div>
-                                        <div class="col-6 col-sm sit-1-d">
-                                            <a data-modl="sit-1-d">Disgusto</a>
+                                        <div class="col-6 situation col-sm sit-1-d">
+                                            <a data-modl="sit-1-d"><span>Disgusto</span></a>
                                         </div>
                                     </div>
 
@@ -124,9 +112,8 @@
 
                                 <div id="act_01p3" class="d-none mod">
                                     <div class="row align-items-center justify-content-center">
-                                        <div class="col-12 col-md-6 " >
-                                            <h3>Aparece  en redes sociales un mensaje en el que una persona se burla de usted.
-                                            </h3>     
+                                        <div class="col-12 col-md-8" >
+                                            <p class="explication-label">Aparece  en redes sociales un mensaje en el que una persona se burla de usted.</p>     
                                         </div> 
                                         <div class="d-none d-md-block col-md-4">
                                             <img src="../img/mod2/2-06_act-situacion2.png" class="img-fluid">
@@ -134,26 +121,26 @@
 
                                     </div>
                                     <div class="row align-items-center justify-content-center">
-                                        <div class="col-9">
-                                            <p>Escoja la emoción que lo hace sentir esta situación.</p>
+                                        <div class="col-12">
+                                            <p class="instruction-label">Escoja la emoción que lo hace sentir esta situación.</p>
                                         </div>
                                     </div>
 
                                     <div class="row">
-                                        <div class="col-6 col-sm sit-2-t">
-                                            <a data-modl="sit-2-t">Tristeza</a>
+                                        <div class="col-6 situation col-sm sit-2-t">
+                                            <a data-modl="sit-2-t"><span>Tristeza</span></a>
                                         </div>
-                                        <div class="col-6 col-sm sit-2-e">
-                                            <a data-modl="sit-2-e">Enojo</a>
+                                        <div class="col-6 situation col-sm sit-2-e">
+                                            <a data-modl="sit-2-e"><span>Enojo</span></a>
                                         </div>
-                                        <div class="col-6 col-sm sit-2-i">
-                                            <a data-modl="sit-2-i">Indiferencia</a>
+                                        <div class="col-6 situation col-sm sit-2-i">
+                                            <a data-modl="sit-2-i"><span>Indiferencia</span></a>
                                         </div>
-                                        <div class="col-6 col-sm sit-2-m">
-                                            <a data-modl="sit-2-m">Miedo</a>
+                                        <div class="col-6 situation col-sm sit-2-m">
+                                            <a data-modl="sit-2-m"><span>Miedo</span></a>
                                         </div>
-                                        <div class="col-6 col-sm sit-2-d">
-                                            <a data-modl="sit-2-d">Disgusto</a>
+                                        <div class="col-6 situation col-sm sit-2-d">
+                                            <a data-modl="sit-2-d"><span>Disgusto</span></a>
                                         </div>
                                     </div>
                                     <div class="d-block d-sm-none">
@@ -169,9 +156,9 @@
 
                                 <div id="act_01p4" class="d-none mod ">
                                     <div class="row align-items-center justify-content-center">
-                                        <div class="col-12 col-md-6" >
-                                            <h3>Una persona le pide dinero a cambio de no revelar un secreto suyo en redes sociales. 
-                                            </h3>     
+                                        <div class="col-12 col-md-8" >
+                                            <p class="explication-label">Una persona le pide dinero a cambio de no revelar un secreto suyo en redes sociales. 
+                                            </p>     
                                         </div> 
                                         <div class="d-none d-md-block col-md-4">
                                             <img src="../img/mod2/2-06_act-situacion3.png" class="img-fluid">
@@ -179,26 +166,26 @@
 
                                     </div>
                                     <div class="row align-items-center justify-content-center">
-                                        <div class="col-12 col-md-9">
-                                            <p>Escoja la emoción que lo hace sentir esta situación.</p>
+                                        <div class="col-12">
+                                            <p class="instruction-label">Escoja la emoción que lo hace sentir esta situación.</p>
                                         </div>
                                     </div>
 
                                     <div class="row">
-                                        <div class="col-6 col-sm sit-3-t">
-                                            <a data-modl="sit-3-t">Tristeza</a>
+                                        <div class="col-6 situation col-sm sit-3-t">
+                                            <a data-modl="sit-3-t"><span>Tristeza</span></a>
                                         </div>
-                                        <div class="col-6 col-sm sit-3-e">
-                                            <a data-modl="sit-3-e">Enojo</a>
+                                        <div class="col-6 situation col-sm sit-3-e">
+                                            <a data-modl="sit-3-e"><span>Enojo</span></a>
                                         </div>
-                                        <div class="col-6 col-sm sit-3-i">
-                                            <a data-modl="sit-3-i">Indiferencia</a>
+                                        <div class="col-6 situation col-sm sit-3-i">
+                                            <a data-modl="sit-3-i"><span>Indiferencia</span></a>
                                         </div>
-                                        <div class="col-6 col-sm sit-3-m">
-                                            <a data-modl="sit-3-m">Miedo</a>
+                                        <div class="col-6 situation col-sm sit-3-m">
+                                            <a data-modl="sit-3-m"><span>Miedo</span></a>
                                         </div>
-                                        <div class="col-6 col-sm sit-3-d">
-                                            <a data-modl="sit-3-d">Disgusto</a>
+                                        <div class="col-6 situation col-sm sit-3-d">
+                                            <a data-modl="sit-3-d"><span>Disgusto</span></a>
                                         </div>
                                     </div>
 
@@ -217,9 +204,9 @@
                                 </div>
                                 <div id="act_01p5" class="d-none mod ">
                                     <div class="row align-items-center justify-content-center">
-                                        <div class="col-12 col-md-6 " >
-                                            <h3>Una persona le pide que le envíe fotos íntimas.
-                                            </h3>     
+                                        <div class="col-12 col-md-8" >
+                                            <p class="explication-label">Una persona le pide que le envíe fotos íntimas.
+                                            </p>     
                                         </div> 
                                         <div class="d-none d-md-block col-md-4">
                                             <img src="../img/mod2/2-06_act-situacion4.png" class="img-fluid">
@@ -227,26 +214,26 @@
 
                                     </div>
                                     <div class="row align-items-center justify-content-center">
-                                        <div class="col-12 col-md-9">
-                                            <p>Escoja la emoción que lo hace sentir esta situación.</p>
+                                        <div class="col-12">
+                                            <p class="instruction-label">Escoja la emoción que lo hace sentir esta situación.</p>
                                         </div>
                                     </div>
 
                                     <div class="row">
-                                        <div class="col-6 col-sm sit-4-t">
-                                            <a data-modl="sit-4-t">Tristeza</a>
+                                        <div class="col-6 situation col-sm sit-4-t">
+                                            <a data-modl="sit-4-t"><span>Tristeza</span></a>
                                         </div>
-                                        <div class="col-6 col-sm sit-4-e">
-                                            <a data-modl="sit-4-e">Enojo</a>
+                                        <div class="col-6 situation col-sm sit-4-e">
+                                            <a data-modl="sit-4-e"><span>Enojo</span></a>
                                         </div>
-                                        <div class="col-6 col-sm sit-4-i">
-                                            <a data-modl="sit-4-i">Indiferencia</a>
+                                        <div class="col-6 situation col-sm sit-4-i">
+                                            <a data-modl="sit-4-i"><span>Indiferencia</span></a>
                                         </div>
-                                        <div class="col-6 col-sm sit-4-m">
-                                            <a data-modl="sit-4-m">Miedo</a>
+                                        <div class="col-6 situation col-sm sit-4-m">
+                                            <a data-modl="sit-4-m"><span>Miedo</span></a>
                                         </div>
-                                        <div class="col-6 col-sm sit-4-d">
-                                            <a data-modl="sit-4-d">Disgusto</a>
+                                        <div class="col-6 situation col-sm sit-4-d">
+                                            <a data-modl="sit-4-d"><span>Disgusto</span></a>
                                         </div>
                                     </div>
                                     <div class="d-block d-sm-none">
@@ -265,30 +252,15 @@
                         <div id="act_01p6" class="d-none mod ">
 
                             <div class="col text-center" >
-                                <h3>¡Preste atención a sus emociones! 
-                                </h3>     
+                                <p class="explication-label">¡Preste atención a sus emociones! 
+                                </p>     
                             </div> 
-
-
                             <div class="row">
-                                <div class="col-6 col-sm sit-4-t">
-                                    <a data-modl="sit-4-t">Tristeza</a>
-                                </div>
-                                <div class="col-6 col-sm sit-4-e">
-                                    <a data-modl="sit-4-e">Enojo</a>
-                                </div>
-                                <div class="col-6 col-sm sit-4-i">
-                                    <a data-modl="sit-4-i">Indiferencia</a>
-                                </div>
-                                <div class="col-6 col-sm sit-4-m">
-                                    <a data-modl="sit-4-m">Miedo</a>
-                                </div>
-                                <div class="col-6 col-sm sit-4-d">
-                                    <a data-modl="sit-4-d">Disgusto</a>
+                                <div class="col-12">
+                                     <img src="../img/mod2/2-06_act-cierre.png" class="img-fluid m-auto d-block">
                                 </div>
                             </div>
-                            <p>Las emociones de miedo, tristeza, enojo y disgusto son avisos de que algo no está bien y que hay que buscar ayuda, mantener la calma y evitar la violencia. Al usar Internet y redes sociales es importante mantener el respeto en todo momento, cuidarse y cuidar a los demás.</p>
-                            <p></p>
+                            <p class="explication-label">Las emociones de miedo, tristeza, enojo y disgusto son avisos de que algo no está bien y que hay que buscar ayuda, mantener la calma y evitar la violencia. Al usar Internet y redes sociales es importante mantener el respeto en todo momento, cuidarse y cuidar a los demás.</p>
                             <button class="gotoModulePage btn btn-dark baki conti-baki" data-page="5">Atrás</button>
                         </div>
                         <!-- fin 6 -->
@@ -660,13 +632,13 @@
                     </div>
                 </div>
                 <!-- fin modal -->
-                <a href="../0-03_menu.php" class="back_to_menu">Volver</a>
+                <a href="../0-03_menu.php" class="back_to_menu">Volver al menú</a>
                 </section>
                 <?php require '../footer.php'; ?>
             </div>
             <nav id="sidebar" class="">
                 <div class="sidebar-header">
-                    <h3>Menu</h3>
+                    <p class="explication-label">Menu</p>
                 </div>
 
                 <ul class="list-unstyled components">
@@ -692,7 +664,7 @@
                         <a href="http://crianzatecnologica.org/" target="_blank" class="nav-recursos">Recursos relacionados</a>
                     </li>
                     <li>
-                        <a href="../0-04_intro.php" class="nav-iniciar">Iniciar sesión</a>
+                        <a href="../0-04_intro.php" class="nav-iniciar"><span>Iniciar sesión</a>
                     </li>
                 </ul>
 

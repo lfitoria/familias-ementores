@@ -156,8 +156,11 @@
                                 </div>
                                 <div class="col-10">
                                     <h4>¿Qué hacer?</h4>
-                                    <p>Explorar alternativas para hacer un uso responsable, productivo y participativo de las TIC.
-                                    </p>
+                                    <ul>
+                                        <li>Usar las TIC juntos, explorando en familia cómo funcionan.</li>
+                                        <li>Crear espacios para conversar sin miedo y sin vergüenza, por ejemplo, mientras cenamos o desayunamos.</li>
+                                        <li>Dar un buen ejemplo de uso de las TIC, haciendo nosotros mismos un uso responsable y seguro.</li>
+                                    </ul>
                                 </div>
                             </div>
                             <div class="row">
@@ -299,7 +302,7 @@
                 $(".module-page").addClass("d-none");
                 $("#act_01p" + $(this).data("page")).removeClass("d-none");
             });
-
+            
             $("area").click(function (e) {
                 e.preventDefault();
                 console.log($(this).data("nbr"));
