@@ -220,7 +220,7 @@
                                         </div>
                                     </div>
                                 </div>
-                                <div class="tab-pane fade" id="sociales" role="tabpanel" aria-labelledby="sociales-tab">
+                                <div class="card tab-pane fade" id="sociales" role="tabpanel" aria-labelledby="sociales-tab">
                                     <div class="card-header" role="tab" id="heading-B">
                                         <h5 class="mb-0">
                                             <a class="collapsed" data-toggle="collapse" href="#collapse-5" data-parent="#content" aria-expanded="false" aria-controls="collapse-B">

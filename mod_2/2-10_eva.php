@@ -112,7 +112,7 @@
 
                                     <div class="col-12 col-sm-7 text-center">
 
-                                        <p class="instruction text-left"><span>2</span> La crianza tecnológica es...</p><h3>Elija la opción que completa la frase correctamente.</h3>
+                                        <p class="instruction text-left"><span>1</span> La crianza tecnológica es...</p><h3>Elija la opción que completa la frase correctamente.</h3>
 
                                     </div>
 
@@ -216,7 +216,7 @@
 
                                 <div class="col-12 text-center">
 
-                                    <h3 class=""><span>3</span> ¿Cuál de estas imágenes representa un ejemplo de crianza tecnológica respetuosa?</h3>
+                                    <h3 class=""><span>3</span> ¿Cuál de estas imágenes representa un ejemplo de crianza tecnológica?</h3>
 
                                 </div>
 
@@ -394,7 +394,7 @@
 
                                     <p class="instruction text-left"><span>7</span> Lea el siguiente testimonio:</p>
 
-                                    <p class="text-help purple">“Yo tengo derecho a tomar todas las fotos que yo quiera de mis hijos y a compartirlas por Internet con mi familia y amigos”.</p>
+                                    <p class="text-help purple">“Yo tengo derecho a tomar todas las fotos que yo quiera de mis hijos e hijas y a compartirlas por Internet con mi familia y amigos”.</p>
 
                                     <h3 class="">¿Cierto o falso?</h3>
 

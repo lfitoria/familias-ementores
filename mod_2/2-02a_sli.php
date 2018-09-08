@@ -46,6 +46,8 @@
                             <div class="row align-items-center justify-content-md-center">
                                 <div class="col-12 col-sm-10">
                                     <p class="text-center intro-label"><strong>¿Cómo promover el uso seguro y responsable de las TIC en nuestras hijas e hijos a través del diálogo y el acompañamiento?</strong></p>
+                                    <p class="text-center intro-label"><strong>Vamos a descubrir cómo aplicar una crianza respetuosa, con disciplina positiva</strong></p>
+                            
                                 </div>
                                 <div class="col-12 col-sm-10">
                                     <img src="../img/mod2/2-02a_sli-img-intro.png" class="img-fluid ">
