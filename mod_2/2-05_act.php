@@ -171,19 +171,17 @@
             <div class="sidebar-header">
                 <h3>Menu</h3>
             </div>
-
-            <ul class="list-unstyled components">
-                <li>
-                    <a href="#" class="nav-sobre">Sobre el proyecto</a>
-                </li>
-                <li>
-                    <a href="#" class="nav-recursos">Recursos relacionados</a>
-                </li>
-                <li>
-                    <a href="../0-04_intro.php" class="nav-iniciar">Iniciar sesión</a>
-                </li>
-            </ul>
-
+                <ul class="list-unstyled components">
+                    <li>
+                        <a href="#" class="nav-sobre">Sobre el proyecto</a>
+                    </li>
+                    <li>
+                        <a href="http://crianzatecnologica.org/" target="_blank" class="nav-recursos">Recursos relacionados</a>
+                    </li>
+                    <li>
+                        <a href="../0-04_intro.php" class="nav-iniciar">Iniciar sesión</a>
+                    </li>
+                </ul>
         </nav>
         <!-- modals -->
         <div class="modal" id="modal_1-04_act" tabindex="-1" role="dialog" data-backdrop="static" data-keyboard="false">
