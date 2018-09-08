@@ -72,7 +72,7 @@
                                     <a class="btn-gestores mx-auto" href="https://e-mentores.moodle.school/login/index.php" target="_blank">e-mentores para gestores</a>
                                 </div>
                                 <div class="col-12 col-sm-12 col-md-6 col-lg-6 col-xl-6">
-                                    <a class="btn-apps mx-auto" href="#" id="btn-chxs">apps para chicxs</a>
+                                    <a class="btn-apps mx-auto" href="/juego" id="btn-chxs">apps para chicxs</a>
 
                                 </div>
                             </div>
@@ -172,7 +172,7 @@
                         <a href="#" class="nav-sobre">Sobre el proyecto</a>
                     </li>
                     <li>
-                        <a href="#" class="nav-recursos">Recursos relacionados</a>
+                        <a href="http://crianzatecnologica.org/" target="_blank" class="nav-recursos">Recursos relacionados</a>
                     </li>
                     <li>
                         <a href="0-04_intro.php" class="nav-iniciar">Iniciar sesión</a>

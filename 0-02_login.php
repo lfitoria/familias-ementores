@@ -145,7 +145,7 @@
 
                     <li>
 
-                        <a href="#" class="nav-recursos">Recursos relacionados</a>
+                        <a href="http://crianzatecnologica.org/" target="_blank" class="nav-recursos">Recursos relacionados</a>
 
                     </li>
 

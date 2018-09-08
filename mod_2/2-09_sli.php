@@ -36,7 +36,7 @@
                     </div>
                 </div>
             </nav>
-            <p class="intro-header blue">Estretegías de prevención</p>
+            <p class="intro-header blue">Estrategías de prevención</p>
             <section class="container">
                 <div class="main">
                     <div class="cont row justify-content-center">
@@ -304,7 +304,7 @@
                     <a href="#" class="nav-sobre">Sobre el proyecto</a>
                 </li>
                 <li>
-                    <a href="#" class="nav-recursos">Recursos relacionados</a>
+                    <a href="http://crianzatecnologica.org/" target="_blank" class="nav-recursos">Recursos relacionados</a>
                 </li>
                 <li>
                     <a href="../0-04_intro.php" class="nav-iniciar">Iniciar sesión</a>
