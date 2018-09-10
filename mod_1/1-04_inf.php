@@ -231,7 +231,8 @@
                 $('.slider' + slider).bxSlider({
                     pager: false,
                     infiniteLoop: true,
-                    auto: false
+                    auto: true,
+                    pause: 10000
                 });
             });
 

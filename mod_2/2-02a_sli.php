@@ -58,7 +58,7 @@
                         <!-- slide2 -->
                         <div id="act_01p2" class="d-none module_page">
                             <h3 class="text-center">Crianza Respetuosa</h3>
-                            <p class="text-center intro-label"><strong>Es educar sin violencia, mediante una disciplina positiva. Está basada en:</strong></p>
+                            <p class="text-center intro-label"><strong>Es educar sin violencia, mediante una disciplina positiva. <br>Está basada en:</strong></p>
                             <div class="row justify-content-md-center">
                                 <div class="col-12 col-sm-10">
                                     <img src="../img/mod2/2-02a_sli-img1.png" alt="" class="img-fluid m-auto d-block"/>
@@ -203,8 +203,8 @@
                         <div id="act_01p4" class="d-none  module_page ">
                             <div class="row align-items-center justify-content-md-center">
                                 <div class="col-12 col-sm-4">
-                                    <p class="intro-label">Recuerde que la Crianza respetuosa no es permisiva, ni carece de límites.</p>
-                                    <p class="intro-label">Promueve que estos límites se construyan en conjunto y negociando para resolver conflictos de manera afectuosa y comprensiva.</p>
+                                    <p class="intro-label">Recuerde que la Crianza respetuosa no es permisiva, y tiene sus límites.</p>
+                                    <p class="intro-label">En cambio, promueve construir reglas en familia y solucionar problemas con afecto y comprensión.</p>
                                 </div>
                                 <div class="col-12 col-sm-4">
                                     <img src="../img/mod2/2-02a_sli-grafico.png" class="img-fluid img-md">

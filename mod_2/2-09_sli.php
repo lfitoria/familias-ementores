@@ -325,7 +325,9 @@
         $('.slider1').bxSlider({
             pager: false,
             infiniteLoop: false,
-            auto: false
+            auto: false,
+            pause: 10000,
+            hideControlOnEnd:true 
         });
 
         $('a[data-toggle="tab"]').on('shown.bs.tab', function (e) {
@@ -337,28 +339,37 @@
                     $('.slider2').bxSlider({
                         pager: false,
                         infiniteLoop: false,
-                        auto: false
+                        auto: false,
+                        pause: 10000,
+                        pause: 10000,
+                        hideControlOnEnd:true 
                     });
                     break;
                 case "#grooming":
                     $('.slider3').bxSlider({
                         pager: false,
                         infiniteLoop: false,
-                        auto: false
+                        auto: false,
+                        pause: 10000,
+                        hideControlOnEnd:true 
                     });
                     break;
                 case "#ciberbullying":
                     $('.slider4').bxSlider({
                         pager: false,
                         infiniteLoop: false,
-                        auto: false
+                        auto: false,
+                        pause: 10000,
+                        hideControlOnEnd:true 
                     });
                     break;
                 case "#sociales":
                     $('.slider5').bxSlider({
                         pager: false,
                         infiniteLoop: false,
-                        auto: false
+                        auto: false,
+                        pause: 10000,
+                        hideControlOnEnd:true 
                     });
                     break;
             }
@@ -373,28 +384,36 @@
                     $('.slider2').bxSlider({
                         pager: false,
                         infiniteLoop: false,
-                        auto: false
+                        auto: false,
+                        pause: 10000,
+                        hideControlOnEnd:true 
                     });
                     break;
                 case "#collapse-3":
                     $('.slider3').bxSlider({
                         pager: false,
                         infiniteLoop: false,
-                        auto: false
+                        auto: false,
+                        pause: 10000,
+                        hideControlOnEnd:true 
                     });
                     break;
                 case "#collapse-4":
                     $('.slider4').bxSlider({
                         pager: false,
                         infiniteLoop: false,
-                        auto: false
+                        auto: false,
+                        pause: 10000,
+                        hideControlOnEnd:true 
                     });
                     break;
                 case "#collapse-5":
                     $('.slider5').bxSlider({
                         pager: false,
                         infiniteLoop: false,
-                        auto: false
+                        auto: false,
+                        pause: 10000,
+                        hideControlOnEnd:true 
                     });
                     break;
             }

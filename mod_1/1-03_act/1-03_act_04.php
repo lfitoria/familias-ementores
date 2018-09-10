@@ -140,7 +140,8 @@
             var slider = $('.slider').bxSlider({
                 pager: false,
                 infiniteLoop: true,
-                auto: true
+                auto: true,
+                pause: 10000
             });
 
             $('a[href="#oportunidades"]').on('shown.bs.tab', function (e) {
@@ -148,7 +149,8 @@
                     slider2 = $('.slider2').bxSlider({
                         pager: false,
                         infiniteLoop: true,
-                        auto: false
+                        auto: false,
+                        pause: 10000
                     });
                 }
 

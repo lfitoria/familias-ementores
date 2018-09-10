@@ -46,14 +46,6 @@
                                 <div id="map_container">
                                     <img usemap="#1-02-inf" src="../img/mod1/1-02_inf.png" class="img-fluid">
                                     <map name='1-02-inf'>
-                                        <!-- <area data-nbr="1"  shape='rect' coords='202, 400, 363, 558' href='#' />
-                                        <area data-nbr="2"  shape='rect' coords='438, 406, 601, 567' href='#' />
-                                        <area data-nbr="3"  shape='rect' coords='670, 409, 822, 562' href='#' />
-                                        <area data-nbr="4"  shape='rect' coords='912, 399, 1066, 558' href='#' />
-                                        <area data-nbr="5"  shape='rect' coords='898, 625, 1069, 793' href='#' />
-                                        <area data-nbr="6"  shape='rect' coords='664, 630, 817, 787' href='#' />
-                                        <area data-nbr="7"  shape='rect' coords='438, 636, 597, 792' href='#' />
-                                        <area data-nbr="8"  shape='rect' coords='202, 633, 355, 784' href='#' /> -->
                                         <area data-nbr="1" shape='rect' coords='363, 400, 237, 532' href='#' />
                                         <area data-nbr="2" shape='rect' coords='601, 405, 465, 540' href='#' />
                                         <area data-nbr="3" shape='rect' coords='831, 409, 705, 537' href='#' />
@@ -76,7 +68,6 @@
                                     <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
                                 </div>
                                 <div class="modal-body">
-                                    <!-- <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button> -->
                                     <div class="row d-none act-04-mdl act01" >
                                         <div class="col-12">
                                             <a href="http://www.facebook.com">facebook.com</a><br>

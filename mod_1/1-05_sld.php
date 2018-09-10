@@ -227,7 +227,7 @@
                                         </div>
                                         <div>Formas en que se da: 
                                             <ul>
-                                                <li>Cuando una persona pública este tipo de contenidos en redes sociales o sitios de Internet, donde otras personas los descargan.</li>
+                                                <li>Cuando una persona publica este tipo de contenidos en redes sociales o sitios de Internet, donde otras personas los descargan.</li>
                                                 <li>Cuando una persona envía mensajes, fotos, audios o videos íntimos a otra, dentro de una relación de confianza, y luego esta los envía a otras o los utiliza para chantajear.</li>
                                             </ul>
                                         </div>
@@ -341,7 +341,8 @@
                 $('.slider' + slider).bxSlider({
                     pager: false,
                     infiniteLoop: true,
-                    auto: false
+                    auto: true,
+                    pause: 10000
                 });
             });
 

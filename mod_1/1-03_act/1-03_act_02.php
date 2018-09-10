@@ -73,7 +73,7 @@
                                                 <div class="col-sm-7">
                                                     <div class="slider2">
                                                         <div>Cuando yo no sé algo que me dicen mis amigas o cuando en el cole no entendí algo que explicaron, lo primero que hago al llegar a la casa es usar la Tablet para buscarlo.</div>
-                                                        <div>Me gusta poder encontrar respuestas a todos lo que quiero saber. ¡Internet lo sabe todo!</div>
+                                                        <div>Me gusta poder encontrar respuestas a todo lo que quiero saber. ¡Internet lo sabe todo!</div>
 
                                                     </div>
                                                 </div>
@@ -142,7 +142,8 @@
             var slider = $('.slider').bxSlider({
                 pager: false,
                 infiniteLoop: true,
-                auto: true
+                auto: true,
+                pause: 10000
             });
 
             $('a[href="#oportunidades"]').on('shown.bs.tab', function (e) {
@@ -150,7 +151,8 @@
                     slider2 = $('.slider2').bxSlider({
                         pager: false,
                         infiniteLoop: true,
-                        auto: false
+                        auto: true,
+                        pause: 10000
                     });
                 }
 
