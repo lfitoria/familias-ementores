@@ -10,6 +10,7 @@
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/bxslider/4.2.12/jquery.bxslider.css">
     <link href="../css/style.css" rel="stylesheet" type="text/css"/>
     <link href="../css/index.css" rel="stylesheet" type="text/css"/>
+    <link href="../css/mod1.css" rel="stylesheet" type="text/css"/>
 
 </head>
 <body>
@@ -49,6 +50,9 @@
                         </div>
                         <button class="gotoModulePage conti conti-ini" data-page="2">Continuar</button>
                     </div>
+
+                    <div class="row justify-content-center btn-j-center">
+                            <div class="col-12 col-sm-10">
 
                     <div id="act_01p2" class="d-none mod">
                         <p>Haga clic en los botones para descubrir cuáles son las consecuencias
@@ -109,8 +113,20 @@
 
                                 </div>
                             </div>
-                            <button class="gotoModulePage baki" data-page="1">Atrás</button>
-                            <button class="gotoModulePage conti" data-page="3">Continuar</button>
+                            <!-- <button class="gotoModulePage baki" data-page="1">Atrás</button>
+                            <button class="gotoModulePage conti" data-page="3">Continuar</button> -->
+
+                            <div class="d-block d-sm-none">
+                                        <div class="row ">
+                                            <button class="gotoModulePage baki " data-page="1">Atrás</button>
+                                            <button class="gotoModulePage conti " data-page="3">Continuar</button>
+                                        </div>
+                                    </div>
+
+                                    <button class="gotoModulePage baki d-none d-sm-block" data-page="1">Atrás</button>
+                                    <button class="gotoModulePage conti d-none d-sm-block" data-page="3">Continuar</button>
+
+
                         </div>
                     </div>
                     <div id="act_01p3" class="d-none mod ">
@@ -127,6 +143,9 @@
                             <button class="gotoModulePage conti" data-page="4">Continuar</button>
                         </div>
                     </div>
+
+                </div>
+            </div>
                     <div id="act_01p4" class="d-none mod ">
                         <div class="row">
                             <div class="col-12 col-md-6">
@@ -220,7 +239,7 @@
 
                 </div>
             </div>
-            <a href="../0-03_menu.php" class="back_to_menu">Volver</a>
+            <a href="../0-03_menu.php" class="back_to_menu">Volver al menú</a>
             </section>
             <?php require '../footer.php'; ?>
         </div>
