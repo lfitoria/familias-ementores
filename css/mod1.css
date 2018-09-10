@@ -378,7 +378,29 @@ a.v3-act-7:before{
 } /*fin*/
 
 
-@media (min-width: 768px) {  }/*fin*/
+@media (min-width: 768px) {  
+    .btn-j-center .mod{
+        position: relative;
+    }
+    .btn-j-center button.baki {
+        position: absolute;
+        left: -10%;
+        margin: 0;
+        top: 50%;
+    }
+
+    .btn-j-center button.conti {
+        position: absolute;
+        right: -10%;
+        margin: 0;
+        top: 50%;
+        left: auto;
+    }
+
+
+
+
+}/*fin*/
 
 
 
