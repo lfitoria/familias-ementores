@@ -306,7 +306,6 @@
             },
             dataType: "html"
         });
-
     </script>
 </body>
 </html>

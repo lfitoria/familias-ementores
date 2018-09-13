@@ -47,10 +47,11 @@
                                 <div id="map_container">
                                     <img usemap="#1-07-inf" id="img-map" src="../img/mod2/2-07_inf.png" class="img-fluid">
                                     <map name="1-07-inf">
-                                        <area data-nbr="1" shape='rect' coords='542, 832, 763, 904' href='#' />
-                                        <area data-nbr="2" shape='rect' coords='539, 1332, 761, 1252' href='#' />
-                                        <area data-nbr="3" shape='rect' coords='541, 1713, 761, 1788' href='#' />
-                                        <area data-nbr="4" shape='rect' coords='541, 2143, 761, 2218' href='#' />
+                                        <area data-nbr="1" shape='rect' coords='542, 832, 758, 904' href='#' />
+                                        <area data-nbr="2" shape='rect' coords='539, 1332, 758, 1252' href='#' />
+                                        <area data-nbr="3" shape='rect' coords='541, 1713, 758, 1788' href='#' />
+                                        <area data-nbr="4" shape='rect' coords='541, 2133, 758, 2200' href='#' />
+                                        <area data-nbr="5" shape='rect' coords='542, 2589, 758, 2659' href='#' />
                                     </map>
                                 </div>
                             </div>
@@ -116,6 +117,13 @@
                                 </div>
                             </div>
                         </div>
+                        <div class="row d-none act-04-mdl act05" >
+                            <div class="col-12">
+                                <div class="slider5">
+                                    <div>Aunque es buena idea apoyarse en las herramientas de control, un acompañamiento práctico es esencial para garantizar un uso seguro y responsable de las TIC.</div>
+                                </div>
+                            </div>
+                        </div>
 
                     </div>
                     <!-- <div class="modal-footer">
@@ -162,16 +170,6 @@
                 },
                 dataType: "html"
             });
-
-
-            // $('#modal_1-04_act').on('shown.bs.modal', function (e) {
-            //     console.log(slider);
-            //     $('.slider' + slider).bxSlider({
-            //         pager: false,
-            //         infiniteLoop: true,
-            //         auto: false
-            //     });
-            // });
 
             $('#modal_1-04_act').on('hidden.bs.modal', function (e) {
 

@@ -265,52 +265,44 @@
                                                 <div class="col-12 col-sm-6 col-md-4 col-lg-3">
                                                     <div class="item-module <?php if ($values3[0]["is_completed"] == 1) : ?>active<?php endif ?>">
                                                         <!-- <img src="img/icon.png" alt=""/> -->
-                                                        <a href="#1" class="v3-act-1">VIDEO ANIMADO 01</a><!--<p class=dots-mod>. . .</p>-->
-                                                    </div>
-                                                </div>
-                                                <div class="col-12 col-sm-6 col-md-4 col-lg-3">
-                                                    <div class="item-module <?php if ($values3[1]["is_completed"] == 1) : ?>active<?php endif ?>">
-                                                        <!-- <img src="img/icon.png" alt=""/> -->
-                                                        <a href="#2" class="v3-act-2">SLIDESHOW 01</a><!--<p class=dots-mod>. . .</p>-->
+                                                        <a href="mod_3/3-01_vid.php" class="v3-act-1">VIDEO ANIMADO 01</a><!--<p class=dots-mod>. . .</p>-->
                                                     </div>
                                                 </div>
                                                 <div class="col-12 col-sm-6 col-md-4 col-lg-3">
                                                     <div class="item-module <?php if ($values3[2]["is_completed"] == 1) : ?>active<?php endif ?>">
                                                         <!-- <img src="img/icon.png" alt=""/> -->
-                                                        <a href="#3" class="v3-act-3">ACTIVIDAD 01</a><!--<p class=dots-mod>. . .</p>-->
+                                                        <a href="mod_3/3-03_act.php"" class="v3-act-3">ACTIVIDAD 01</a><!--<p class=dots-mod>. . .</p>-->
                                                     </div>
                                                 </div>
                                                 <div class="col-12 col-sm-6 col-md-4 col-lg-3">
                                                     <div class="item-module <?php if ($values3[3]["is_completed"] == 1) : ?>active<?php endif ?>">
-                                                        <!-- <img src="img/icon.png" alt=""/> -->
-                                                        <a href="#4" class="v3-act-4">INFOGRÁFICO 01</a><!--<p class=dots-mod>. . .</p>-->
+                                                        <a href="mod_3/3-04_inf.php"" class="v3-act-4">INFOGRÁFICO 01</a><!--<p class=dots-mod>. . .</p>-->
                                                     </div>
                                                 </div>
-
 
                                                 <div class="col-12 col-sm-6 col-md-4 col-lg-3">
                                                     <div class="item-module <?php if ($values3[4]["is_completed"] == 1) : ?>active<?php endif ?>">
                                                         <!-- <img src="img/icon.png" alt=""/> -->
-                                                        <a href="#5" class="v3-act-5">VIDEO ANIMADO 02</a><!--<p class=dots-mod>. . .</p>-->
-                                                    </div>
-                                                </div>
-                                                <div class="col-12 col-sm-6 col-md-4 col-lg-3">
-                                                    <div class="item-module <?php if ($values3[5]["is_completed"] == 1) : ?>active<?php endif ?>">
-                                                        <!-- <img src="img/icon.png" alt=""/> -->
-                                                        <a href="#6" class="v3-act-6">INFOGRÁFICO 02</a><!--<p class=dots-mod>. . .</p>-->
+                                                        <a href="mod_3/3-05_vid.php" class="v3-act-5">VIDEO ANIMADO 02</a><!--<p class=dots-mod>. . .</p>-->
                                                     </div>
                                                 </div>
                                                 <div class="col-12 col-sm-6 col-md-4 col-lg-3">
                                                     <div class="item-module <?php if ($values3[6]["is_completed"] == 1) : ?>active<?php endif ?>">
                                                         <!-- <img src="img/icon.png" alt=""/> -->
-                                                        <a href="#7" class="v3-act-7">INFOGRÁFICO 03</a><!--<p class=dots-mod>. . .</p>-->
+                                                        <a href="mod_3/3-07_inf.php"" class="v3-act-7">INFOGRÁFICO 03</a><!--<p class=dots-mod>. . .</p>-->
+                                                    </div>
+                                                </div>
+                                                <div class="col-12 col-sm-6 col-md-4 col-lg-3">
+                                                    <div class="item-module <?php if ($values3[6]["is_completed"] == 1) : ?>active<?php endif ?>">
+                                                        <!-- <img src="img/icon.png" alt=""/> -->
+                                                        <a href="mod_3/3-08_vid.php" class="v3-act-7">VIDEO ANIMADO 03</a><!--<p class=dots-mod>. . .</p>-->
                                                     </div>
                                                 </div>
                                             </div>
                                         </div>
                                         <div class="row">
                                             <div class="col-12 item-module-final">
-                                                <?php if ($row_cnt3 == 0): ?><a href="#7">ACTIVIDAD FINAL</a><?php endif; ?>
+                                               <a href="mod_3/3-09_eva.php">ACTIVIDAD FINAL</a>
                                             </div>
                                         </div>
                                     </div>
