@@ -40,12 +40,9 @@
                 <section class="container">
                     <div class="main">
                         <div id="act_01" class="">
-                            <div class="cont row">
-                                <div class="col-12">
-                                    <video width="100%" height="auto" id="video" controls>
-                                        <source src="../videos/2-01_vid.mp4" type="video/mp4">
-                                    </video>
-                                    <a href="../0-03_menu.php" class="back_to_menu">Volver al menú</a>
+                            <div class="row justify-content-sm-center">
+                                <div class="col-12 col-sm-8">
+                                    <img src="../img/mod3/3-07_inf.png" alt="" class="img-fluid"/>
                                 </div>
                             </div>
                         </div>
@@ -83,8 +80,8 @@
                 url: "../db/user/update_module.php",
                 method: "POST",
                 data: {
-                    step: 1,
-                    module: 2
+                    step: 7,
+                    module: 3
                 },
                 dataType: "html"
             });

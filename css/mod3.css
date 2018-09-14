@@ -1,0 +1,18 @@
+#page-3-03 .audio_3-03{
+    background-color: #ccc;
+    border-radius: 20px;
+    padding: 10px 20px;
+    margin-bottom: 20px;
+}
+
+#page-3-03 .btn-modal{
+    background-color: #000;
+    border: none;
+    color: #fff;
+    font-size: 1.2em;
+    padding: 15px 25px;
+    margin: auto;
+    display: block;
+    font-family: 'Nunito', sans-serif; 
+    font-weight: bold;
+}

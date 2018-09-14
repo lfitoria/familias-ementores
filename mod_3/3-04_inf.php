@@ -41,11 +41,14 @@
                     <div class="main">
                         <div id="act_01" class="">
                             <div class="cont row">
-                                <div class="col-12">
-                                    <video width="100%" height="auto" id="video" controls>
-                                        <source src="../videos/2-01_vid.mp4" type="video/mp4">
-                                    </video>
-                                    <a href="../0-03_menu.php" class="back_to_menu">Volver al menú</a>
+                                <div id="map_container">
+                                    <img usemap="#3-04-inf" id="img-map" src="../img/mod3/3-04_inf.png" class="img-fluid">
+                                    <map name="3-04-inf">
+                                        <area data-nbr="1" shape='rect' coords='101, 426, 266, 494' href='#' />
+                                        <area data-nbr="2" shape='rect' coords='1053, 538, 1219, 607' href='#' />
+                                        <area data-nbr="3" shape='rect' coords='1176, 1144, 1012, 1075' href='#' />
+                                        <area data-nbr="4" shape='rect' coords='101, 969, 266, 1038' href='#' />
+                                    </map>
                                 </div>
                             </div>
                         </div>
@@ -72,19 +75,87 @@
 
             </nav>
         </div>
+        <div class="modal" id="modal_3-04_inf" tabindex="-1" role="dialog">
+            <div class="modal-dialog" role="document">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
 
+                    </div>
+                    <div class="modal-body">
+                        <div class="row d-none act-04-mdl act01" >
+                            <div class="col-12">
+                                <div class="slider1">
+                                    <div>Deja de hacer cosas que antes le gustaban y empieza a comportarse de manera diferente. Por ejemplo, empieza a orinar los pantalones cuando ya había dejado los pañales o se mete en la cama de mamá y papá en la noche porque no puede dormir.</div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="row d-none act-04-mdl act02" >
+                            <div class="col-12">
+                                <div class="slider2">
+                                    <div>Durante el juego, repiten comportamientos sexuales. Por ejemplo, reproducir movimientos o formas de tocar sexuales con muñecas o juegan de actividades sexuales con otros compañeritos o compañeritas. </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="row d-none act-04-mdl act03" >
+                            <div class="col-12">
+                                <div class="slider3">
+                                    <div>Empiezan a sufrir dolores de cabeza, dolor de estómago, náuseas, vómito, fiebre y cuando se les lleva al médico no hay ningún problema físico porque es una forma de expresar ansiedad y miedo.</div>
+
+                                </div>
+                            </div>
+                        </div>
+                        <div class="row d-none act-04-mdl act04" >
+                            <div class="col-12">
+                                <div class="slider4">
+                                    <div>Aunque antes disfrutaba ir al colegio, de pronto rechaza el tener que salir, no quiere despertarse en la mañana, no quiere ver a sus amigos…</div>
+                                </div>
+                            </div>
+                        </div>
+
+                    </div>
+                    <!-- <div class="modal-footer">
+                        <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                    </div> -->
+                </div>
+            </div>
+        </div>
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
         <script src="../js/bootstrap.bundle.js" type="text/javascript"></script>
         <script src="../js/bootstrap.js" type="text/javascript"></script>
         <script src="https://cdn.jsdelivr.net/bxslider/4.2.12/jquery.bxslider.min.js"></script>
 
+        <script type="text/javascript" src="../js/map/jquery.imagemapster.js"></script>
+        <script type="text/javascript" src="../js/map/when.js"></script>
+        <script type="text/javascript" src="../js/map/core.js"></script>
+        <script type="text/javascript" src="../js/map/graphics.js"></script>
+        <script type="text/javascript" src="../js/map/mapimage.js"></script>
+        <script type="text/javascript" src="../js/map/mapdata.js"></script>
+        <script type="text/javascript" src="../js/map/areadata.js"></script>
+        <script type="text/javascript" src="../js/map/areacorners.js"></script>
+        <script type="text/javascript" src="../js/map/scale.js"></script>
+        <script type="text/javascript" src="../js/map/tooltip.js"></script>
+        <script type="text/javascript" src="../js/map/jquery.rwdImageMaps.js"></script>
+        <script type="text/javascript" src="../js/map/init.js" ></script>
+
         <script>
+            init();
+
+            $("area").click(function (e) {
+                e.preventDefault();
+                console.log($(this).data("nbr"));
+                $(".act-04-mdl").addClass("d-none");
+                $(".act-04-mdl.act0" + $(this).data("nbr")).removeClass("d-none");
+                $("#modal_3-04_inf").modal("show");
+
+            });
+
             $.ajax({
                 url: "../db/user/update_module.php",
                 method: "POST",
                 data: {
-                    step: 1,
-                    module: 2
+                    step: 4,
+                    module: 3
                 },
                 dataType: "html"
             });

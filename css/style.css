@@ -7,17 +7,9 @@ and open the template in the editor.
     Created on : Jul 27, 2018, 3:46:53 PM
     Author     : Luis
 */
-audio{cursor: pointer}
-
-h3{
-    color: #77A449;
-    font-family: 'Nunito', sans-serif;
-    font-weight: bold;
-    line-height: 1.2em;
-}
-h4{
-    color: grey;
-}
+audio{ cursor: pointer; width: 100%; }
+h3{ color: #77A449; font-family: 'Nunito', sans-serif; font-weight: bold; line-height: 1.2em; }
+h4{ color: grey; }
 
 p.intro-label{
     font-size: 1.2em;
@@ -26,6 +18,7 @@ p.intro-label{
     margin: 10px auto;
     display: block;
 }
+
 .text-blue{ color: #3B6593; }
 
 .back-stars{ background-image: url(../img/internas/fondo-header1.png); }

@@ -1,4 +1,4 @@
-<html id="page-2-01">
+<html id="page-3-03">
     <head>
         <meta http-equiv="Cache-Control" content="no-cache" />
         <meta http-equiv="Pragma" content="no-cache" />
@@ -12,7 +12,7 @@
         <link href="../css/style.css" rel="stylesheet" type="text/css"/>
         <link href="../css/index.css" rel="stylesheet" type="text/css" />
         <link href="../css/mod2.css" rel="stylesheet" type="text/css" />
-
+        <link href="../css/mod3.css" rel="stylesheet" type="text/css" />
     </head>
     <body>
         <div class="wrapper">
@@ -36,16 +36,48 @@
                         </div>
                     </div>
                 </nav>
-                <p class="intro-header blue">El acompañamiento en las TIC</p>
+                <p class="intro-header blue">¿Están en lo correcto estas personas adultas?</p>
                 <section class="container">
                     <div class="main">
                         <div id="act_01" class="">
+
                             <div class="cont row">
                                 <div class="col-12">
-                                    <video width="100%" height="auto" id="video" controls>
-                                        <source src="../videos/2-01_vid.mp4" type="video/mp4">
-                                    </video>
-                                    <a href="../0-03_menu.php" class="back_to_menu">Volver al menú</a>
+                                    <p>Escuche a cada una de estas personas describir una conducta. Piense brevemente si esta conducta es adecuada o no. Luego, presione el icono para descubrirlo.</p>
+                                </div>
+                                <div class="col-6 col-md-4">
+                                    <div class="item item-thumb" data-slider="1" data-title="Abuso sexual en línea">
+                                        <a href="3-03_act_01.php"><img src="../img/mod3/3-01_act-thumb1.png" alt="" class="img-fluid"/></a>
+                                    </div>
+                                </div>
+                                <div class="col-6 col-md-4">
+                                    <div class="item item-thumb" data-slider="2" data-title="Explotación sexual en línea" >
+                                        <a href="3-03_act_02.php"><img src="../img/mod3/3-01_act-thumb2.png" alt="" class="img-fluid"/></a>
+                                    </div>
+                                </div>
+                                <div class="col-6 col-md-4">
+                                    <div class="item item-thumb" data-slider="2" data-title="Explotación sexual en línea" >
+                                        <a href="3-03_act_03.php"><img src="../img/mod3/3-01_act-thumb3.png" alt="" class="img-fluid"/></a>
+                                        
+                                    </div>
+                                </div>
+                                <div class="col-6 col-md-4">
+                                    <div class="item item-thumb" data-slider="2" data-title="Explotación sexual en línea" >
+                                        <a href="3-03_act_04.php"><img src="../img/mod3/3-01_act-thumb4.png" alt="" class="img-fluid"/></a>
+                                        
+                                    </div>
+                                </div>
+                                <div class="col-6 col-md-4">
+                                    <div class="item item-thumb" data-slider="2" data-title="Explotación sexual en línea" >
+                                        <a href="3-03_act_05.php"><img src="../img/mod3/3-01_act-thumb5.png" alt="" class="img-fluid"/></a>
+                                        
+                                    </div>
+                                </div>
+                                <div class="col-6 col-md-4">
+                                    <div class="item item-thumb" data-slider="2" data-title="Explotación sexual en línea" >
+                                        <a href="3-03_act_06.php"><img src="../img/mod3/3-01_act-thumb6.png" alt="" class="img-fluid"/></a>
+                                        
+                                    </div>
                                 </div>
                             </div>
                         </div>
@@ -83,8 +115,8 @@
                 url: "../db/user/update_module.php",
                 method: "POST",
                 data: {
-                    step: 1,
-                    module: 2
+                    step: 3,
+                    module: 3
                 },
                 dataType: "html"
             });

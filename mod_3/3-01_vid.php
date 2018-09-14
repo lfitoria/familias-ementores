@@ -43,7 +43,7 @@
                             <div class="cont row">
                                 <div class="col-12">
                                     <video width="100%" height="auto" id="video" controls>
-                                        <source src="../videos/2-01_vid.mp4" type="video/mp4">
+                                        <source src="../videos/3-01_vid.mp4" type="video/mp4">
                                     </video>
                                     <a href="../0-03_menu.php" class="back_to_menu">Volver al menú</a>
                                 </div>
@@ -84,7 +84,7 @@
                 method: "POST",
                 data: {
                     step: 1,
-                    module: 2
+                    module: 3
                 },
                 dataType: "html"
             });

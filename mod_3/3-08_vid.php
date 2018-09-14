@@ -83,8 +83,8 @@
                 url: "../db/user/update_module.php",
                 method: "POST",
                 data: {
-                    step: 1,
-                    module: 2
+                    step: 8,
+                    module: 3
                 },
                 dataType: "html"
             });

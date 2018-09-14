@@ -271,7 +271,7 @@
                                                 <div class="col-12 col-sm-6 col-md-4 col-lg-3">
                                                     <div class="item-module <?php if ($values3[2]["is_completed"] == 1) : ?>active<?php endif ?>">
                                                         <!-- <img src="img/icon.png" alt=""/> -->
-                                                        <a href="mod_3/3-03_act.php"" class="v3-act-3">ACTIVIDAD 01</a><!--<p class=dots-mod>. . .</p>-->
+                                                        <a href="mod_3/3-03_act.php"" class="v3-act-3">¿Están en lo correcto estas personas adultas?</a><!--<p class=dots-mod>. . .</p>-->
                                                     </div>
                                                 </div>
                                                 <div class="col-12 col-sm-6 col-md-4 col-lg-3">

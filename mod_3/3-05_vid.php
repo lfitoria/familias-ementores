@@ -1,3 +1,4 @@
+
 <html id="page-2-01">
     <head>
         <meta http-equiv="Cache-Control" content="no-cache" />
@@ -15,6 +16,7 @@
 
     </head>
     <body>
+        
         <div class="wrapper">
             <!-- Page Content -->
             <div id="content"> 
@@ -43,9 +45,34 @@
                             <div class="cont row">
                                 <div class="col-12">
                                     <video width="100%" height="auto" id="video" controls>
-                                        <source src="../videos/2-01_vid.mp4" type="video/mp4">
+                                        <source src="/familias-ementores/videos/2-01_vid.mp4" type="video/mp4">
                                     </video>
                                     <a href="../0-03_menu.php" class="back_to_menu">Volver al menú</a>
+                                </div>
+                                <div class="modal" id="modal_3-05_vid" tabindex="-1" role="dialog" data-backdrop="static" data-keyboard="false">
+                                    <div class="modal-dialog modal-lg" role="document">
+                                        <div class="modal-content">
+                                            <div class="modal-header"></div>
+                                            <div class="modal-body">
+                                                <div class="row" >
+                                                    <div class="col-12">
+                                                        <p>Sofía no le ha enviado nada pero su mamá, preocupada, le pide ver los mensajes. Ella no quiere porque le da vergüenza.</p>
+                                                        <p>¿Qué debería hacer su mamá?</p>
+                                                        <div class="row" >
+                                                            <div class="col-6">
+                                                                <button class="btn btn-info" onclick="playVideo()">Llamar a la persona y enfrentarla</button>
+                                                            </div>
+                                                            <div class="col-6">
+                                                                <button class="btn btn-info" onclick="playVideo()">Sacar pantallazos de los mensajes para que sirvan de prueba en una denuncia.</button>
+                                                            </div>
+                                                        </div>
+                                                        
+                                                        
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
                                 </div>
                             </div>
                         </div>
@@ -79,14 +106,34 @@
         <script src="https://cdn.jsdelivr.net/bxslider/4.2.12/jquery.bxslider.min.js"></script>
 
         <script>
+
+            
+
             $.ajax({
                 url: "../db/user/update_module.php",
                 method: "POST",
                 data: {
-                    step: 1,
-                    module: 2
+                    step: 5,
+                    module: 3
                 },
                 dataType: "html"
+            });
+
+
+            let video = document.getElementById("video");
+
+            function playVideo(){
+                $("#modal_3-05_vid").modal("hide");
+                video.currentTime = 6;
+                video.play();
+            }
+
+            $("#video").on("timeupdate", function(){
+                console.log(parseInt(this.currentTime));
+                if(parseInt(this.currentTime) == 5){
+                    this.pause();
+                    $("#modal_3-05_vid").modal("show");
+                }
             });
         </script>
     </body>
