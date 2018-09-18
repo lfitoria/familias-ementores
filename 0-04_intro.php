@@ -52,7 +52,7 @@ unset($_SESSION['duplicated_user']);
                         <section class="container">
                             <div class="row justify-content-md-center">
                                 <div class="col-sm-10 main-block back-girl">
-                                    <h2 class="text-center"><img src="img/icon-conectados.png"></h2>
+                                    <h2 class="text-center"><img src="img/icon-login.png"></h2>
                                     <div class="row">
                                         <div class="col-12">
                                             <p class="text-center label">¿Cuenta con ya con un usuario?</p>

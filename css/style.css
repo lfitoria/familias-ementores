@@ -93,10 +93,7 @@ p.intro-label{
     border: navajowhite;
     color: #000;
 }
-#content{
-    width: 100%;
-    overflow: hidden;
-}
+
 #map_container{
     width: 100%;
 }

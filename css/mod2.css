@@ -269,16 +269,16 @@ a[class*='sit']:before{
     .btn-j-center .mod{
         position: relative;
     }
-    .btn-j-center button.baki {
+    .btn-j-center .baki {
         position: absolute;
-        left: -10%;
+        left: -35px;
         margin: 0;
         top: 50%;
     }
 
-    .btn-j-center button.conti {
+    .btn-j-center .conti {
         position: absolute;
-        right: -10%;
+        right: -35px;
         margin: 0;
         top: 50%;
         left: auto;

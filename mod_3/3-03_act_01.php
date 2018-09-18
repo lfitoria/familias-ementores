@@ -20,15 +20,10 @@
             <div id="content"> 
                 <nav class="navbar navbar-expand-lg navbar-light bg-light d-block">
                     <div class="container-fluid">
-
-                        <div class="nav justify-content-start">
-
-                        </div>
-
+                        <div class="nav justify-content-start"></div>
                         <div class="nav justify-content-center">
                             <h1><a class="mx-auto" href="../index.php"><img src="../img/logo-ementores.png" alt="E-mentores"></a></h1>
                         </div>
-
                         <div class="nav justify-content-end">
                             <button type="button" id="sidebarCollapse" class="btn" >
                                 <span class="navbar-toggler-icon"></span>
@@ -39,21 +34,31 @@
                 <p class="intro-header blue">¿Están en lo correcto estas personas adultas?</p>
                 <section class="container">
                     <div class="main">
-                        <div id="act_01" class="">
-                            <div class="cont row">
-                                <div class="col-5">
-                                    <img src="../img/mod3/3-01_act-personaje1.png" alt="" class="img-fluid"/>
-                                </div>
-                                <div class="col-7">
-                                    <div class="audio_3-03">
-                                        <p class="text-center intro-label">Pienso que hay que tener cuidado al hacer una denuncia de abuso sexual en línea, ya que, como esta conducta se da en Internet, no se pueden aportar pruebas. Si yo denuncio a alguien, ¡me pueden acusar de difamación!</p>
-                                        <audio height="auto" id="video" controls>
-                                            <source src="../audios/mod3/3-03_act-situacion1.mp3" type="audio/mp3">
-                                        </audio>
+                        <div id="act_01" class="btn-j-center">
+                            <div class="mod">
+                                <div class="row">
+                                    <div class="col-5">
+                                        <img src="../img/mod3/3-01_act-personaje1.png" alt="" class="img-fluid"/>
                                     </div>
-                                    <button class="btn-modal">Respuesta</button>
+                                    <div class="col-7">
+                                        <div class="audio_3-03">
+                                            <p class="text-center intro-label">Pienso que hay que tener cuidado al hacer una denuncia de abuso sexual en línea, ya que, como esta conducta se da en Internet, no se pueden aportar pruebas. Si yo denuncio a alguien, ¡me pueden acusar de difamación!</p>
+                                            <audio height="auto" id="video" controls>
+                                                <source src="../audios/mod3/3-03_act-situacion1.mp3" type="audio/mp3">
+                                            </audio>
+                                        </div>
+                                        <button class="btn-modal">Respuesta</button>
+                                    </div>
                                 </div>
+                                <div class="d-block d-sm-none">
+                                    <div class="row ">
+                                        <a class="gotoModulePage conti" href="3-03_act_02.php">Continuar</a>
+                                    </div>
+                                </div>
+
+                                <a class="gotoModulePage conti d-none d-sm-block" href="3-03_act_02.php">Continuar</a>
                                 <a href="3-03_act.php" class="back_to_menu">Volver</a>
+                                
                             </div>
                         </div>
                     </div>

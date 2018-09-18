@@ -39,10 +39,10 @@
                 <p class="intro-header blue">¿Están en lo correcto estas personas adultas?</p>
                 <section class="container">
                     <div class="main">
-                        <div id="act_01" class="">
-                            <div class="cont row">
+                        <div id="act_01" class="btn-j-center">
+                            <div class="cont row mod">
                                 <div class="col-5">
-                                    <img src="../img/mod3/3-01_act-personaje2.png" alt="" class="img-fluid"/>
+                                    <img src="../img/mod3/3-01_act-personaje2.png" alt="personaje 2" class="img-fluid"/>
                                 </div>
                                 <div class="col-7">
                                     <div class="audio_3-03">
@@ -53,6 +53,15 @@
                                     </div>
                                     <button class="btn-modal">Respuesta</button>
                                 </div>
+                                <div class="d-block d-sm-none">
+                                    <div class="row ">
+                                        <a class="gotoModulePage baki" href="3-03_act_01.php">Atrás</a>
+                                        <a class="gotoModulePage conti" href="3-03_act_03.php">Continuar</a>
+                                    </div>
+                                </div>
+
+                                <a class="gotoModulePage baki d-none d-sm-block" href="3-03_act_01.php">Atrás</a>
+                                <a class="gotoModulePage conti d-none d-sm-block" href="3-03_act_03.php">Continuar</a>
                                 <a href="3-03_act.php" class="back_to_menu">Volver</a>
                             </div>
                         </div>
