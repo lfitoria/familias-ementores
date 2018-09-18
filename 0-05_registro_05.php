@@ -43,8 +43,19 @@
                             <div class="row justify-content-md-center">
                                 <div class="col-sm-10 main-block">
                                     <h2 class="text-center"><img src="img/icon-question.png"></h2>
-                                    <p class="text-center label">¡Bienvenido! ya estamos listos para empezar</p>
-                                    <a href="0-03_menu.php" class="d-block m-auto btn-finish">Finalizar</a>
+                                    <form action="db/user/update_user.php" method="POST">
+                                        <div class="form-group">
+                                            <p class="text-center label">¿Su familia recibe algún beneficio del IMAS (Avancemos, Hogares Conectados, Puente al Desarrollo)?</p>
+                                            <div class="row">
+                                                <div class="col-6">
+                                                    <a class="btn btn-blue float-right" href="0-05_registro_06.php?t=1">Sí</a>
+                                                </div>
+                                                <div class="col-6">
+                                                    <a class="btn btn-green" href="0-05_registro_06.php?t=2">No</a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </form>
                                 </div>
                             </div>
 
@@ -52,7 +63,7 @@
 
                     </div>
                     <div class="barra-progress">
-                            <div class="barra-progress-img-5"></div>
+                            <div class="barra-progress-img-4"></div>
                         </div>
                 </section>
                 <?php require './footer.php'; ?>
@@ -65,10 +76,10 @@
                 <ul class="list-unstyled components">
 
                     <li>
-                        <a href="#" class="nav-sobre">Sobre el proyecto</a>
+                        <a href="/familias.php" class="nav-sobre">Sobre el proyecto</a>
                     </li>
                     <li>
-                        <a href="http://crianzatecnologica.org/" target="_blank" class="nav-recursos">Recursos relacionados</a>
+                        <a href="http://www.crianzatecnologica.org" target="_blank" class="nav-sobre">Recursos relacionados</a>
                     </li>
                     <li>
                         <a href="0-04_intro.php" class="nav-iniciar">Iniciar sesión</a>

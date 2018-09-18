@@ -58,7 +58,7 @@
     margin-top: 10px;
 }
 
-#eva .btn-finish-eva{
+.btn-finish-eva{
     background-image: url(../img/botones/btn_finalizar.png);
     background-color: transparent;
     background-size: 400px;
@@ -76,7 +76,7 @@
     border: none;
 }
 
-#eva .btn-see-eva{
+.btn-see-eva{
     background-image: url(../img/botones/btn_turquesa.png);
     background-color: transparent;
     background-size: 470px;
@@ -94,7 +94,7 @@
     border: none;
 }
 
-#eva .btn-retry-eva{
+.btn-retry-eva{
     background-image: url(../img/botones/btn_azul.png);
     background-color: transparent;
     background-size: 470px;
@@ -112,9 +112,10 @@
     border: none;
 }
 
-#eva .btn-see-eva:hover, #eva .btn-retry-eva:hover{
+.btn-see-eva:hover, .btn-retry-eva:hover, .btn-finish-eva:hover{
     background-position: -235px 0;
     text-decoration: none;
+    color: #fff;
 }
 
 #eva .min-height-110 p{

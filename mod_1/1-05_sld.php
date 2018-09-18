@@ -39,7 +39,7 @@
                         </div>
                     </div>
                 </nav>
-                <p class="intro-header blue">Síntesis de los principales riesgos</p>
+                <p class="intro-header blue">Síntesis de los principales desafíos </p>
                 <section class="container">
                     <div class="main">
                         <div id="act_01">
@@ -94,7 +94,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <a href="../0-03_menu.php" class="back_to_menu">Volver al menú</a>
+                            <a href="../0-03_menu.php#mod1" class="back_to_menu">Volver al menú</a>
                         </div>
                     </div>
                 </section>
@@ -122,10 +122,10 @@
                         </ul>
                     </li> -->
                     <li>
-                        <a href="#" class="nav-sobre">Sobre el proyecto</a>
+                        <a href="/familias.php" class="nav-sobre">Sobre el proyecto</a>
                     </li>
                     <li>
-                        <a href="http://crianzatecnologica.org/" target="_blank" class="nav-recursos">Recursos relacionados</a>
+                        <a href="http://www.crianzatecnologica.org" target="_blank" class="nav-sobre">Recursos relacionados</a>
                     </li>
                     <li>
                         <a href="../0-04_intro.php" class="nav-iniciar">Iniciar sesión</a>

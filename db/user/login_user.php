@@ -4,19 +4,14 @@ include '../connection/conexion.php';
 
 mysqli_set_charset($mysqli, "utf8");
 
-$email = $_POST["email"];
+$data = $_POST["data"];
 $type = $_POST["type"];
-$id = ($_POST["id"]!="")?$_POST["id"]:"null";
-$id_r = ($_POST["id_r"]!="")?$_POST["id_r"]:"null";
 
 if ($type == 1) {
-    $query = "SELECT * 
-    FROM user 
-    WHERE id_number = $id OR id_number = $id_r ";
+    $query = "SELECT *  FROM user  WHERE id_number = $data ";
 } else {
-    $query = "SELECT * FROM user WHERE email = '" . $email . "'";
+    $query = "SELECT * FROM user WHERE email = '" . $data . "'";
 }
-
 
 
 $result = $mysqli->query($query);

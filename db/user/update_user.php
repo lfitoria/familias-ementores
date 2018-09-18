@@ -6,6 +6,7 @@ mysqli_set_charset($mysqli, "utf8");
 
 $data = $_POST["data"];
 $step = $_POST["step"];
+
 $last_id = $_SESSION['last_id'];
 
 switch ($step) {
@@ -22,6 +23,22 @@ switch ($step) {
         $field = "age";
 
         $url = "0-05_registro_05.php";
+
+        break;
+    case 5:
+        $type = $_POST["type"];
+        
+        $field = $type == "1"? "id_number":"email";
+
+        if($type == "1"){
+            $query2 = "UPDATE user set role = 'ROLE_ADMIN' where id = $last_id";
+        }else{
+            $query2 = "UPDATE user set role = 'ROLE_USER' where id = $last_id";
+        }
+        $data = "'" . $data . "'";
+        $mysqli->query($query2);
+
+        $url = "0-05_registro_07.php";
         
         $query1 = "SELECT * FROM user WHERE id = $last_id";
         

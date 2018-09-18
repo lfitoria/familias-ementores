@@ -43,15 +43,12 @@
                             <div class="row justify-content-md-center">
                                 <div class="col-sm-10 main-block">
                                     <h2 class="text-center"><img src="img/icon-question.png"></h2>
-                                    <form action="db/user/update_user.php" method="POST">
+                                    <form action="db/user/insert_user.php" method="POST">
                                         <div class="form-group">
                                             <p class="text-center label">¿Cúal es su nombre?</p>
                                             <p class="text-center label-small">Hola, mi nombre es:</p>
-                                            <input type="text" class="form-control" name="data" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Nombre" required>
+                                            <input type="text" class="form-control" name="name" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Nombre" required>
                                             <input type="hidden" name="step" value="2">
-                                            <input type="hidden" name="user" value="<?php session_start();
-print $_SESSION["last_id"];
-?>">
                                         </div>
 
                                         <button type="submit" class="d-block m-auto btn-continue">Continuar</button>
@@ -76,10 +73,10 @@ print $_SESSION["last_id"];
                 <ul class="list-unstyled components">
 
                     <li>
-                        <a href="#" class="nav-sobre">Sobre el proyecto</a>
+                        <a href="/familias.php" class="nav-sobre">Sobre el proyecto</a>
                     </li>
                     <li>
-                        <a href="http://crianzatecnologica.org/" target="_blank" class="nav-recursos">Recursos relacionados</a>
+                        <a href="http://www.crianzatecnologica.org" target="_blank" class="nav-sobre">Recursos relacionados</a>
                     </li>
                     <li>
                         <a href="0-04_intro.php" class="nav-iniciar">Iniciar sesión</a>

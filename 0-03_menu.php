@@ -71,7 +71,7 @@
                                         $values1[] = $row;
                                     }
                                     ?>
-                                    <h3 class="text-center menu-title">Me informo: oportunidades y desafíos en la web.</h3>
+                                    <h3 class="text-center menu-title" id="mod1">Me informo: oportunidades y desafíos en la web.</h3>
                                     <div class="menu-mod-cont col-12">
                                         <div class="row">
                                             <div class="intro-menu col-12">
@@ -109,7 +109,7 @@
                                             <div class="col-12 col-sm-6 col-md-4 col-lg-3">
                                                 <div class="item-module <?php if ($values1[4]["is_completed"] == 1) : ?>active<?php endif ?>">
                                                     <!-- <img src="img/icon.png" alt=""/> -->
-                                                    <a href="mod_1/1-05_sld.php" class="v-act-5">Síntesis de los principales riesgos</a>
+                                                    <a href="mod_1/1-05_sld.php" class="v-act-5">Síntesis de los principales desafíos</a>
                                                     <!--<p class=dots-mod>. . .</p>-->
                                                 </div>
                                             </div>
@@ -161,7 +161,7 @@
                                     $activity1 = mysqli_fetch_assoc($resultAct1);
                                     ?>
                                     <div class="module <?php if ($activity1["is_approved"] == 0) : ?>disabled<?php endif ?>">
-                                        <h3 class="text-center menu-title">Prevengo: acompaño en línea.</h3>
+                                        <h3 class="text-center menu-title" id="mod2">Prevengo: acompaño en línea.</h3>
                                         <div class="menu-mod-cont col-12">
                                             <div class="row">
                                                 <div class="col-12 col-sm-6 col-md-4 col-lg-3">
@@ -259,7 +259,7 @@
                                     // var_dump($activity2);
                                     ?>
                                     <div class="module <?php if ($activity2["is_approved"] == 0) : ?>disabled<?php endif ?>">
-                                        <h3 class="text-center menu-title">Protejo: reacciono ante situaciones.</h3>
+                                        <h3 class="text-center menu-title" id="mod3">Protejo: reacciono ante situaciones.</h3>
                                         <div class="menu-mod-cont col-12">
                                             <div class="row">
                                                 <div class="col-12 col-sm-6 col-md-4 col-lg-3">
@@ -335,10 +335,10 @@
                         </ul>
                     </li> -->
                     <li>
-                        <a href="#" class="nav-sobre">Sobre el proyecto</a>
+                        <a href="/familias.php" class="nav-sobre">Sobre el proyecto</a>
                     </li>
                     <li>
-                        <a href="http://crianzatecnologica.org/" target="_blank" class="nav-recursos">Recursos relacionados</a>
+                        <a href="http://www.crianzatecnologica.org" target="_blank" class="nav-sobre">Recursos relacionados</a>
                     </li>
                     <li>
                         <a href="0-04_intro.php" class="nav-iniciar">Iniciar sesión</a>
@@ -359,6 +359,12 @@
 
             $(".module.disabled a").click(function (e) {
                 e.preventDefault();
+            });
+
+            $(window).load(function(){
+                var type = window.location.hash.substr(1);
+
+                $("html, body").animate({ scrollTop: $('#'+ type).offset().top }, 500);
             });
         </script>
     </body>

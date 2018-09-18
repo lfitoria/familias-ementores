@@ -21,6 +21,7 @@ unset($_SESSION['duplicated_user']);
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/malihu-custom-scrollbar-plugin/3.1.5/jquery.mCustomScrollbar.min.css">
         <link href="css/style.css" rel="stylesheet" type="text/css" />
         <link href="css/index.css" rel="stylesheet" type="text/css" />
+        <link href="css/mod1.css" rel="stylesheet" type="text/css" />
     </head>
 
     <body>
@@ -54,19 +55,19 @@ unset($_SESSION['duplicated_user']);
                                     <h2 class="text-center"><img src="img/icon-conectados.png"></h2>
                                     <div class="row">
                                         <div class="col-12">
-                                            <p class="text-center label">¿Forma parte del programa Hogares Conectados?</p>
+                                            <p class="text-center label">¿Cuenta con ya con un usuario?</p>
                                         </div>
                                     </div>
                                     <div class="row">
                                         <div class="col-6">
-                                            <a class="btn btn-blue float-right" href="0-02_login.php?t=1">Sí</a>
+                                            <a class="btn-see-eva float-right" href="0-04_prelogin.php">Ya tengo cuenta</a>
                                         </div>
                                         <div class="col-6">
-                                            <a class="btn btn-green" href="0-02_login.php?t=2">No</a>
+                                            <a class="btn-retry-eva" href="0-05_registro_01.php">Soy nuevo</a>
                                         </div>
                                     </div>
                                 </div>
-                            </div>
+                            </daiv>
 
                         </section>
 
@@ -96,10 +97,10 @@ unset($_SESSION['duplicated_user']);
                         </ul>
                     </li> -->
                     <li>
-                        <a href="#" class="nav-sobre">Sobre el proyecto</a>
+                        <a href="/familias.php" class="nav-sobre">Sobre el proyecto</a>
                     </li>
                     <li>
-                        <a href="http://crianzatecnologica.org/" target="_blank" class="nav-recursos">Recursos relacionados</a>
+                        <a href="http://www.crianzatecnologica.org" target="_blank" class="nav-sobre">Recursos relacionados</a>
                     </li>
                     <li>
                         <a href="0-04_intro.php" class="nav-iniciar">Iniciar sesión</a>

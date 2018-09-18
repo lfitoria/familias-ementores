@@ -215,7 +215,7 @@
                         </div>
                     </div>
                 </section>
-                <a href="../0-03_menu.php" class="back_to_menu">Volver al menú</a>
+                <a href="../0-03_menu.php#mod2" class="back_to_menu">Volver al menú</a>
                 </section>
                 <?php require '../footer.php'; ?>
             </div>
@@ -241,10 +241,10 @@
                         </ul>
                     </li> -->
                     <li>
-                        <a href="#" class="nav-sobre">Sobre el proyecto</a>
+                        <a href="/familias.php" class="nav-sobre">Sobre el proyecto</a>
                     </li>
                     <li>
-                        <a href="http://crianzatecnologica.org/" target="_blank" class="nav-recursos">Recursos relacionados</a>
+                        <a href="http://www.crianzatecnologica.org" target="_blank" class="nav-sobre">Recursos relacionados</a>
                     </li>
                     <li>
                         <a href="../0-04_intro.php" class="nav-iniciar">Iniciar sesión</a>

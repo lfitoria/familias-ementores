@@ -59,7 +59,7 @@
                                 </div>
                             </div>
                         </div>
-                        <a href="../0-03_menu.php" class="back_to_menu">Volver al menú</a>
+                        <a href="../0-03_menu.php#mod1" class="back_to_menu">Volver al menú</a>
                     </div>
                     <div class="modal" id="modal_1-04_act" tabindex="-1" role="dialog">
                         <div class="modal-dialog" role="document">
@@ -149,10 +149,10 @@
                         </ul>
                     </li> -->
                     <li>
-                        <a href="#" class="nav-sobre">Sobre el proyecto</a>
+                        <a href="/familias.php" class="nav-sobre">Sobre el proyecto</a>
                     </li>
                     <li>
-                        <a href="http://crianzatecnologica.org/" target="_blank" class="nav-recursos">Recursos relacionados</a>
+                        <a href="http://www.crianzatecnologica.org" target="_blank" class="nav-sobre">Recursos relacionados</a>
                     </li>
                     <li>
                         <a href="../0-04_intro.php" class="nav-iniciar">Iniciar sesión</a>

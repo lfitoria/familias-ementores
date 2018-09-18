@@ -45,6 +45,7 @@
                                     <img src="../img/mod3/3-07_inf.png" alt="" class="img-fluid"/>
                                 </div>
                             </div>
+                            <a href="../0-03_menu.php#mod3" class="back_to_menu">Volver al menú</a>
                         </div>
                     </div>
                 </section>
@@ -57,10 +58,10 @@
 
                 <ul class="list-unstyled components">
                     <li>
-                        <a href="#" class="nav-sobre">Sobre el proyecto</a>
+                        <a href="/familias.php" class="nav-sobre">Sobre el proyecto</a>
                     </li>
                     <li>
-                        <a href="http://crianzatecnologica.org/" target="_blank" class="nav-recursos">Recursos relacionados</a>
+                        <a href="http://www.crianzatecnologica.org" target="_blank" class="nav-sobre">Recursos relacionados</a>
                     </li>
                     <li>
                         <a href="../0-04_intro.php" class="nav-iniciar">Iniciar sesión</a>

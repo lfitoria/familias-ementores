@@ -45,9 +45,9 @@
                             <div class="cont row">
                                 <div class="col-12">
                                     <video width="100%" height="auto" id="video" controls>
-                                        <source src="/familias-ementores/videos/2-01_vid.mp4" type="video/mp4">
+                                        <source src="../videos/2-01_vid.mp4" type="video/mp4">
                                     </video>
-                                    <a href="../0-03_menu.php" class="back_to_menu">Volver al menú</a>
+                                    <a href="../0-03_menu.php#mod3" class="back_to_menu">Volver al menú</a>
                                 </div>
                                 <div class="modal" id="modal_3-05_vid" tabindex="-1" role="dialog" data-backdrop="static" data-keyboard="false">
                                     <div class="modal-dialog modal-lg" role="document">
@@ -60,10 +60,10 @@
                                                         <p>¿Qué debería hacer su mamá?</p>
                                                         <div class="row" >
                                                             <div class="col-6">
-                                                                <button class="btn btn-info" onclick="playVideo()">Llamar a la persona y enfrentarla</button>
+                                                                <button class="btn btn-info" style="display: block; width: 100%; white-space: normal;" onclick="playVideo()">Llamar a la persona y enfrentarla</button>
                                                             </div>
                                                             <div class="col-6">
-                                                                <button class="btn btn-info" onclick="playVideo()">Sacar pantallazos de los mensajes para que sirvan de prueba en una denuncia.</button>
+                                                                <button class="btn btn-info" style="display: block; width: 100%; white-space: normal;" onclick="playVideo()">Sacar pantallazos de los mensajes para que sirvan de prueba en una denuncia.</button>
                                                             </div>
                                                         </div>
                                                         
@@ -87,10 +87,10 @@
 
                 <ul class="list-unstyled components">
                     <li>
-                        <a href="#" class="nav-sobre">Sobre el proyecto</a>
+                        <a href="/familias.php" class="nav-sobre">Sobre el proyecto</a>
                     </li>
                     <li>
-                        <a href="http://crianzatecnologica.org/" target="_blank" class="nav-recursos">Recursos relacionados</a>
+                        <a href="http://www.crianzatecnologica.org" target="_blank" class="nav-sobre">Recursos relacionados</a>
                     </li>
                     <li>
                         <a href="../0-04_intro.php" class="nav-iniciar">Iniciar sesión</a>
@@ -130,7 +130,7 @@
 
             $("#video").on("timeupdate", function(){
                 console.log(parseInt(this.currentTime));
-                if(parseInt(this.currentTime) == 5){
+                if(parseInt(this.currentTime) == 8){
                     this.pause();
                     $("#modal_3-05_vid").modal("show");
                 }

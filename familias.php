@@ -52,10 +52,10 @@
                         <section class="container">
                             <div class="content-familias row justify-content-md-center">
                                 <div class="col-sm-10 main-block back-girl">
-                                    <h3 class="">Titular de familas y acerca del proyecto</h3>
-                                    <p>La mecánica cuántica es, cronológicamente hablando, la última de las grandes ramas de la física. Se formuló a principios del siglo xx, casi al mismo tiempo que la teoría de la relatividad, aunque el grueso de la mecánica cuántica se desarrolló a partir de 1920 (siendo la teoría de la relatividad especial de 1905 y la teoría general de la relatividad de 1915).</p>
-                                    <h4>Subtítulos</h4>
-                                    <p>Además al advenimiento de la mecánica cuántica existían diversos problemas no resueltos en la electrodinámica clásica. El primero de estos problemas era la emisión de radiación de cualquier objeto en equilibrio, llamada radiación térmica, que es la que proviene de la vibración microscópica de las partículas que lo componen. Usando las ecuaciones de la electrodinámica clásica, la energía que emitía esta radiación térmica tendía al infinito, si se suman todas las frecuencias que emitía el objeto, con ilógico resultado para los físicos. También la estabilidad de los átomos no podía ser explicada por el electromagnetismo clásico, y la noción de que el electrón fuera o bien una partícula clásica puntual o bien una cáscara esférica de dimensiones finitas resultaban igualmente problemáticas para esto.</p>
+                                    <h3 class="">Acerca del proyecto</h3>
+                                    <p>El reto e-mentores forma parte de las iniciativas del proyecto Costa Rica dice No a la Explotación y Abuso Sexual en Línea de Niñas, Niños y Adolescentes, conocida como CR NESXT, financiada por “The Global Parthership”, a través de su fondo asociado “The End of Violence Against Children Fund”. CR Nesxt surge como una alternativa para garantizar la protección de la niñez y la adolescencia frente a la explotación y abuso sexual en línea. Ante la disposición y apertura por parte de entidades estatales, el proyecto busca desarrollar capacidades para que actores clave se conviertan en facilitadores activos en la prevención y respuesta de los peligros en línea a los que están expuestas las personas menores de edad.</p>
+                   
+                                    <p>CR-NEXST se fundamenta en tres estrategias. La primera propone el fortalecimiento del Programa Hogares Conectados (PHC), en alianza estratégica con el IMAS. Como segundo pilar, se encuentra el fortalecimiento del Sistema Nacional 9-1-1, en alianza con UNICEF Costa Rica, y el PANI. La tercera propone el desarrollo de un modelo nacional para la prevención y respuesta de la explotación y abuso sexual en línea de NNA; con el apoyo del Viceministerio de Telecomunicaciones, contrapartes nacionales y otros actores clave hacia el diseño, aprobación y puesta en marcha de una estrategia de articulación intersectorial, a partir del conocimiento del estado actual del país y teniendo como insumo buenas prácticas internacional.</p>
                                 </div>
                             </div>
                         </section>
@@ -64,63 +64,7 @@
                         <img src="img/footer/footer-familia.png" class="familia-imagen-decoracion mx-auto" alt="Familia">
                     </section>
                 </section>
-                <section id="prefooter" class="container-full padding-top-bottom">
-                    <div class="container d-none d-sm-block d-md-block d-lg-block">
-                        <div class="row">
-                            <div class="col-8 col-sm-8 col-md-7 col-lg-7 col-xl-7 mx-auto">
-                                <div class="row">
-                                    <div class="col">
-                                        <p>Con el apyo de:</p>
-                                        <img src="img/footer/footer-logo-endViolence.jpg" alt="End Violence Against Children" class="img-fluid prefooter-logos">
-                                    </div>
-                                    <div class="col">
-                                        <p>Respaldo institucional de:</p>
-                                        <img src="img/logo-imas.png" alt="End Violence Against Children" class="img-fluid prefooter-logos">
-                                    </div>
-                                    <div class="col">
-                                        <p>Una iniciativa de:</p>
-                                        <img src="img/footer/footer-logo-paniamor.png" alt="Paniamor" class="img-fluid prefooter-logos">
-                                    </div>
-                                    <div class="col"></div>
-                                </div>
-
-
-                            </div>
-                            <div class="col-8 col-sm-8 col-md-5  col-lg-5 col-xl-5 text-opensans mx-auto">
-                                <p id="prefooter-place">Barrio La California, de la Universidad UAM 75 M. Este. Ave. Central, Calles 29 y 33, San José, Costa Rica</p>
-                                <p id="prefooter-phone">(506) 2234-2993</p>
-                                <p id="prefooter-mail">info@paniamor.org</p>
-                            </div>
-                        </div>
-                    </div>
-                    <!-- small -->
-                    <div class="container d-block d-sm-none d-md-none d-lg-none">
-                        <div class="container">
-                            <div class="row small-f">
-                                <div class="col">
-                                    <p>Con el apyo de:</p>
-                                    <img src="img/footer/footer-logo-endViolence.jpg" alt="End Violence Against Children" class="img-fluid prefooter-logos">
-                                </div>
-                                <div class="col">
-                                    <p>Respaldo institucional de:</p>
-                                    <img src="img/logo-imas.png" alt="End Violence Against Children" class="img-fluid prefooter-logos logo-imas">
-                                </div>
-                                <div class="col">
-                                    <p>Una iniciativa de:</p>
-                                    <img src="img/footer/footer-logo-paniamor.png" alt="Paniamor" class="img-fluid prefooter-logos">
-                                </div>
-
-
-
-                            </div>
-                            <div class="container text-opensans">
-                                <p id="prefooter-place">Barrio La California, de la Universidad UAM 75 M. Este. Ave. Central, Calles 29 y 33, San José, Costa Rica</p>
-                                <p id="prefooter-phone">(506) 2234-2993</p>
-                                <p id="prefooter-mail">info@paniamor.org</p>
-                            </div>
-                        </div>
-                    </div>
-                </section>
+               
                 <?php require './footer.php'; ?>
             </div>
             <nav id="sidebar" class="">
@@ -145,10 +89,10 @@
                         </ul>
                     </li> -->
                     <li>
-                        <a href="#" class="nav-sobre">Sobre el proyecto</a>
+                        <a href="/familias.php" class="nav-sobre">Sobre el proyecto</a>
                     </li>
                     <li>
-                        <a href="http://crianzatecnologica.org/" target="_blank" class="nav-recursos">Recursos relacionados</a>
+                        <a href="http://www.crianzatecnologica.org" target="_blank" class="nav-sobre">Recursos relacionados</a>
                     </li>
                     <li>
                         <a href="0-04_intro.php" class="nav-iniciar">Iniciar sesión</a>
