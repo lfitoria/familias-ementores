@@ -44,10 +44,10 @@
                                 <div id="map_container">
                                     <img usemap="#3-04-inf" id="img-map" src="../img/mod3/3-04_inf.png" class="img-fluid">
                                     <map name="3-04-inf">
-                                        <area data-nbr="1" shape='rect' coords='101, 426, 266, 494' href='#' />
-                                        <area data-nbr="2" shape='rect' coords='1053, 538, 1219, 607' href='#' />
-                                        <area data-nbr="3" shape='rect' coords='1176, 1144, 1012, 1075' href='#' />
-                                        <area data-nbr="4" shape='rect' coords='101, 969, 266, 1038' href='#' />
+                                        <area data-nbr="1" shape='rect' coords='129, 402, 285, 467' href='#' />
+                                        <area data-nbr="2" shape='rect' coords='1044, 490, 1201, 554' href='#' />
+                                        <area data-nbr="3" shape='rect' coords='1034, 1069, 1190, 1133' href='#' />
+                                        <area data-nbr="4" shape='rect' coords='129, 996, 286, 1064' href='#' />
                                     </map>
                                 </div>
                             </div>

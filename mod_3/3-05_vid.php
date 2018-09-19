@@ -43,31 +43,104 @@
                     <div class="main">
                         <div id="act_01" class="">
                             <div class="cont row">
+                                
                                 <div class="col-12">
-                                    <video width="100%" height="auto" id="video" controls>
-                                        <source src="../videos/2-01_vid.mp4" type="video/mp4">
-                                    </video>
-                                    <a href="../0-03_menu.php#mod3" class="back_to_menu">Volver al menú</a>
-                                </div>
-                                <div class="modal" id="modal_3-05_vid" tabindex="-1" role="dialog" data-backdrop="static" data-keyboard="false">
-                                    <div class="modal-dialog modal-lg" role="document">
-                                        <div class="modal-content">
-                                            <div class="modal-header"></div>
-                                            <div class="modal-body">
-                                                <div class="row" >
-                                                    <div class="col-12">
-                                                        <p>Sofía no le ha enviado nada pero su mamá, preocupada, le pide ver los mensajes. Ella no quiere porque le da vergüenza.</p>
-                                                        <p>¿Qué debería hacer su mamá?</p>
-                                                        <div class="row" >
-                                                            <div class="col-6">
-                                                                <button class="btn btn-info" style="display: block; width: 100%; white-space: normal;" onclick="playVideo()">Llamar a la persona y enfrentarla</button>
+                                    <div class="video-item">
+                                        <video width="100%" height="auto" id="video1" controls>
+                                            <source src="../videos/3-01_vid-1sofia.mp4" type="video/mp4">
+                                        </video>
+                                    </div>
+                                    <div class="modal" id="modal_3-05_vid" tabindex="-1" role="dialog" data-backdrop="static" data-keyboard="false">
+                                        <div class="modal-dialog modal-lg" role="document">
+                                            <div class="modal-content">
+                                                <div class="modal-header"></div>
+                                                <div class="modal-body">
+                                                    <div class="row" >
+                                                        <div class="col-12">
+                                                            <p>Sofía no le ha enviado nada pero su mamá, preocupada, le pide ver los mensajes. Ella no quiere porque le da vergüenza.</p>
+                                                            <p>¿Qué debería hacer su mamá?</p>
+                                                            <div class="row" >
+                                                                <div class="col-6">
+                                                                    <button class="btn btn-info" style="display: block; width: 100%; white-space: normal;" onclick="playVideo()">Llamar a la persona y enfrentarla.</button>
+                                                                </div>
+                                                                <div class="col-6">
+                                                                    <button class="btn btn-info" style="display: block; width: 100%; white-space: normal;" onclick="playVideo()">Sacar pantallazos de los mensajes para que sirvan de prueba en una denuncia.</button>
+                                                                </div>
                                                             </div>
-                                                            <div class="col-6">
-                                                                <button class="btn btn-info" style="display: block; width: 100%; white-space: normal;" onclick="playVideo()">Sacar pantallazos de los mensajes para que sirvan de prueba en una denuncia.</button>
-                                                            </div>
+                                                            
+                                                            
                                                         </div>
-                                                        
-                                                        
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <br>
+                            <div class="cont row">
+                                <div class="col-12">
+                                    <div class="video-item">
+                                        <video width="100%" height="auto" id="video2" controls>
+                                            <source src="../videos/3-01_vid-2betoycata.mp4" type="video/mp4">
+                                        </video>
+                                    </div>
+                                    <div class="modal" id="modal_3-05_vid" tabindex="-1" role="dialog" data-backdrop="static" data-keyboard="false">
+                                        <div class="modal-dialog modal-lg" role="document">
+                                            <div class="modal-content">
+                                                <div class="modal-header"></div>
+                                                <div class="modal-body">
+                                                    <div class="row" >
+                                                        <div class="col-12">
+                                                            <p>Cuando Alberto y Catalina eran novios se mandaron fotos íntimas. Seis meses después, reciben un mensaje de alguien que no conocen, pidiéndoles más fotos o dinero a cambio de no publicarlas en Facebook.  Alberto empieza a sacarse malas notas. Catalina deja de comer y llora todo el día. Un día se ponen de acuerdo y deciden que es momento de contarle a sus padres.</p>
+                                                            <p>¿Qué hacen sus papás?</p>
+                                                            <div class="row" >
+                                                                <div class="col-6">
+                                                                    <button class="btn btn-info" style="display: block; width: 100%; white-space: normal;" onclick="playVideo()">Sus papás deciden darles dinero para que les den las fotos.</button>
+                                                                </div>
+                                                                <div class="col-6">
+                                                                    <button class="btn btn-info" style="display: block; width: 100%; white-space: normal;" onclick="playVideo()">Llaman a las autoridades para denunciar la situación de sextorsión que sufren sus hijos.</button>
+                                                                </div>
+                                                            </div>
+                                                            
+                                                            
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <br>
+                            <div class="cont row">
+                                <div class="col-12">
+                                    <div class="video-item">                                
+                                        <video width="100%" height="auto" id="video3" controls>
+                                            <source src="../videos/3-01_vid-3erick.mp4" type="video/mp4">
+                                        </video>
+                                        <a href="../0-03_menu.php#mod3" class="back_to_menu">Volver al menú</a>
+                                    </div>
+                                    <div class="modal" id="modal_3-05_vid" tabindex="-1" role="dialog" data-backdrop="static" data-keyboard="false">
+                                        <div class="modal-dialog modal-lg" role="document">
+                                            <div class="modal-content">
+                                                <div class="modal-header"></div>
+                                                <div class="modal-body">
+                                                    <div class="row" >
+                                                        <div class="col-12">
+                                                            <p>Eric es un chico de 15 años que conoció a Mario en redes sociales. <br>Un día su papá le pregunta con quién pasa hablando todo el día y Eric le responde que es sólo un amigo llamado Mario. "¿Del colegio?", pregunta su papá. "No", responde Eric, "lo conocí en Facebook". Unos días después, su papá busca el perfil de Mario en Facebook y descubre es un adulto de 34 años. Preocupado, revisa el celular de Eric y encuentra conversaciones sexuales entre ambos. Cuando le pide a Eric alejarse Mario, éste se enoja y le dice que no hablen más del tema, él ya es grande y puede escoger a sus amigos. </p>
+                                                            <p>¿Qué debe hacer el padre?</p>
+                                                            <div class="row" >
+                                                                <div class="col-6">
+                                                                    <button class="btn btn-info" style="display: block; width: 100%; white-space: normal;" onclick="playVideo()">Respetar los deseos de Erick, pero vigilar de cerca su relación con Mario.</button>
+                                                                </div>
+                                                                <div class="col-6">
+                                                                    <button class="btn btn-info" style="display: block; width: 100%; white-space: normal;" onclick="playVideo()">Tomar capturas de pantalla de las conversaciones. Bloquear Mario en las redes sociales de Erick y poner la denuncia ante las autoridades.</button>
+                                                                </div>
+                                                            </div>
+                                                            
+                                                            
+                                                        </div>
                                                     </div>
                                                 </div>
                                             </div>
@@ -119,20 +192,60 @@
                 dataType: "html"
             });
 
-
-            let video = document.getElementById("video");
+            let video = null;
+            let time = null;
+            let modal = null;
+            
 
             function playVideo(){
-                $("#modal_3-05_vid").modal("hide");
-                video.currentTime = 6;
+                modal.modal("hide");
+                video.currentTime = time;
                 video.play();
             }
 
-            $("#video").on("timeupdate", function(){
+            $('video').on('play', function (e) {
+                $("video").removeClass("active");
+                $(this).addClass("active");
+                $('video').not($("video.active"))   .each(function() {
+                    $(this).get(0).currentTime = 0;
+                    $(this).get(0).pause();
+                });    
+
+            });
+
+            $("#video1").on("timeupdate", function(){
                 console.log(parseInt(this.currentTime));
-                if(parseInt(this.currentTime) == 8){
+                if(parseInt(this.currentTime) == 22){
                     this.pause();
-                    $("#modal_3-05_vid").modal("show");
+                    
+                    time = 23;
+                    video = document.getElementById("video1");
+                    modal = $(this).parent().parent().find(".modal")
+                    modal.modal("show");
+                }
+            });
+
+            $("#video2").on("timeupdate", function(){
+                console.log(parseInt(this.currentTime));
+                if(parseInt(this.currentTime) == 24){
+                    this.pause();
+                    time = 25;
+                    video = document.getElementById("video2");
+                    modal = $(this).parent().parent().find(".modal")
+                    modal.modal("show");
+                    
+                }
+            });
+
+            $("#video3").on("timeupdate", function(){
+                console.log(parseInt(this.currentTime));
+                if(parseInt(this.currentTime) == 40){
+                    this.pause();
+                    
+                    time = 41;
+                    video = document.getElementById("video3");
+                    modal = $(this).parent().parent().find(".modal")
+                    modal.modal("show");
                 }
             });
         </script>

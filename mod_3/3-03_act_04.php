@@ -41,10 +41,10 @@
                     <div class="main">
                         <div id="act_01" class="btn-j-center">
                             <div class="cont row mod">
-                                <div class="col-5">
+                                <div class="col-12 col-md-5">
                                     <img src="../img/mod3/3-01_act-personaje4.png" alt="" class="img-fluid"/>
                                 </div>
-                                <div class="col-7">
+                                <div class="col-12 col-md-7">
                                     <div class="audio_3-03">
                                         <p class="text-center intro-label">A mí me gusta escribir y de vez en cuando, hasta dibujar historias eróticas. A veces son sobre adolescentes, pero son sólo fantasías para poner en mi blog o para mandarlos por WhatsApp a mis primos, que esos con 15 años ya han visto cosas peores.</p>
                                         <audio height="auto" id="video" controls>

@@ -41,10 +41,10 @@
                     <div class="main">
                         <div id="act_01" class="">
                             <div class="cont row">
-                                <div class="col-5">
+                                <div class="col-12 col-md-5">
                                     <img src="../img/mod3/3-01_act-personaje6.png" alt="" class="img-fluid"/>
                                 </div>
-                                <div class="col-7">
+                                <div class="col-12 col-md-7">
                                     <div class="audio_3-03">
                                         <p class="text-center intro-label">Yo, obviamente no grabo personas menores de edad en situaciones íntimas. A veces navegando en Internet me he encontrado videos y para vacilar los he mandado al grupo de amigos de la U que tenemos en WhatsApp. Es algo privado y además nadie me paga por eso.</p>
                                         <audio height="auto" id="video" controls>

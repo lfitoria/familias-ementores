@@ -37,10 +37,10 @@
                         <div id="act_01" class="btn-j-center">
                             <div class="mod">
                                 <div class="row">
-                                    <div class="col-5">
+                                    <div class="col-12 col-md-5">
                                         <img src="../img/mod3/3-01_act-personaje1.png" alt="" class="img-fluid"/>
                                     </div>
-                                    <div class="col-7">
+                                    <div class="col-12 col-md-7">
                                         <div class="audio_3-03">
                                             <p class="text-center intro-label">Pienso que hay que tener cuidado al hacer una denuncia de abuso sexual en línea, ya que, como esta conducta se da en Internet, no se pueden aportar pruebas. Si yo denuncio a alguien, ¡me pueden acusar de difamación!</p>
                                             <audio height="auto" id="video" controls>
@@ -55,13 +55,15 @@
                                         <a class="gotoModulePage conti" href="3-03_act_02.php">Continuar</a>
                                     </div>
                                 </div>
-
-                                <a class="gotoModulePage conti d-none d-sm-block" href="3-03_act_02.php">Continuar</a>
+                                <a class="gotoModulePage conti" href="3-03_act_02.php">Continuar</a>
+                                
                                 <a href="3-03_act.php" class="back_to_menu">Volver</a>
                                 
                             </div>
                         </div>
+
                     </div>
+                    
                     <div class="modal" id="modal_3-03_act" tabindex="-1" role="dialog">
                         <div class="modal-dialog" role="document">
                             <div class="modal-content">

@@ -41,10 +41,10 @@
                     <div class="main">
                         <div id="act_01" class="btn-j-center">
                             <div class="cont row mod">
-                                <div class="col-5">
+                                <div class="col-12 col-md-5">
                                     <img src="../img/mod3/3-01_act-personaje2.png" alt="personaje 2" class="img-fluid"/>
                                 </div>
-                                <div class="col-7">
+                                <div class="col-12 col-md-7">
                                     <div class="audio_3-03">
                                         <p class="text-center intro-label">Yo estaba en un chat para personas adultas y una persona con la que estaba conversando me empezó a mandar mensajes y hasta fotos íntimas. Creí que no había problema porque en ese sitio sólo pueden entrar mayores de 18, pero me di cuenta de que la persona era menor, y aunque no haya sido mi idea y pareciera tener consentimiento, le dije que no podía estar ahí, cerré el chat y eliminé las fotos.</p>
                                         <audio height="auto" id="video" controls>

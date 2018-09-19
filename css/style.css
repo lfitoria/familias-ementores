@@ -11,6 +11,7 @@ audio{ cursor: pointer; width: 100%; }
 h3{ color: #77A449; font-family: 'Nunito', sans-serif; font-weight: bold; line-height: 1.2em; }
 h4{ color: grey; }
 
+#content{width: 100%}
 p.intro-label{
     font-size: 1.2em;
     width: 100%;
@@ -49,7 +50,7 @@ p.intro-label{
     position: relative;
     right: -7%;
     border: none;
-    text-indent: -999999999;
+    color: transparent;
     width: 65px;
     height: 65px;
     cursor: pointer;
@@ -58,6 +59,7 @@ p.intro-label{
 .conti:hover {
     background-image: url(../img/mod1/flecha-siguiente_hover.png);
     background-color: transparent;
+    color: transparent;
 }
 .baki {
     background-image: url(../img/mod1/flecha-anterior_activa.png);
@@ -65,7 +67,7 @@ p.intro-label{
     position: relative;
     left: -7%;
     border: none;
-    text-indent: -999999999;
+    color: transparent;
     width: 65px;
     height: 65px;
     cursor: pointer;
@@ -74,19 +76,7 @@ p.intro-label{
 .baki:hover {
     background-image: url(../img/mod1/flecha-anterior_hover.png);
     background-color: transparent;
-}
-.baki,.conti {
-    background-color: transparent;
-    border: none;
-    color: #000;
-    background-repeat: no-repeat;
-}
-.baki,.conti {
-    background-color: transparent;
-    border: none;
-    color: #000;
-    right: 0;
-    left: 0;
+    color: transparent;
 }
 .ejem {
     background-color: #FCD65A;

@@ -41,10 +41,10 @@
                     <div class="main">
                         <div id="act_01" class="">
                             <div class="cont row">
-                                <div class="col-5">
+                                <div class="col-12 col-md-5">
                                     <img src="../img/mod3/3-01_act-personaje5.png" alt="" class="img-fluid"/>
                                 </div>
-                                <div class="col-7">
+                                <div class="col-12 col-md-7">
                                     <div class="audio_3-03">
                                         <p class="text-center intro-label">Yo tengo 20 y mi novio tiene 17. Él quiere que compartamos fotos íntimas. A pesar de que somos novios desde hace bastante tiempo y sea algo sólo entre nosotros, sé que al enviarlas por internet algo podría salir mal y rechazo su propuesta.</p>
                                         <audio height="auto" id="video" controls>
