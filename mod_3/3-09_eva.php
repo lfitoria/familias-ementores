@@ -100,17 +100,17 @@
 
                             </div>
                             <div class="answers row" data-page="5">
-                                <div class="col-12 col-sm-3 answer img-answer" data-value="1">
-                                    <p>Mamá llorando, sentada en el piso, con mucho kleenex alrededor. El hijo o hija están avergonzados.</p>
+                                <div class="col-12 col-sm-3 answer answer img-answer" data-value="1">
+                                    <p><img src="../img/mod3/3-09_eva-3a.png" alt="" class="d-block m-auto w-100"/></p>
                                 </div>
                                 <div class="col-12 col-sm-3 answer img-answer" data-value="2">
-                                    <p>Mamá acalorada, diciendo: “¡Qué vergüenza! ¡No hay que contarle a nadie!”</p>
+                                    <p><img src="../img/mod3/3-09_eva-3b.png" alt="" class="d-block m-auto w-100"/></p>
                                 </div>
                                 <div class="col-12 col-sm-3 answer img-answer" data-value="3">
-                                    <p>Papá abrazando a hijo/hija diciéndole: “Yo te creo y voy a ayudarte. Vamos a enfrentarlo juntos.”</p>
+                                    <p><img src="../img/mod3/3-09_eva-3c.png" alt="" class="d-block m-auto w-100"/></p>
                                 </div>
                                 <div class="col-12 col-sm-3 answer img-answer" data-value="4">
-                                    <p>Papá gritándole a hijo/hija: “¡Seguro es tu culpa! ¡No te quiero ver más!”.</p>
+                                    <p><img src="../img/mod3/3-09_eva-3d.png" alt="" class="d-block m-auto w-100"/></p>
                                 </div>
                             </div>
                         </div>
@@ -118,7 +118,7 @@
                             <div class="question row">
                                 <div class="col-12 text-center">
                                     <p class="instruction text-left"><span>4</span> Lea el siguiente testimonio:</p>
-                                    <p class="text-help green">“Kevin tiene 13 años y está en sétimo año.  Desde hace varios días pasa pegado a la tablet o la compu. No quiere hacer cosas que antes le gustaban, como jugar videojuegos o salir a jugar fútbol. ¿Qué pueden hacer sus papás?”</p>
+                                    <p class="text-help green">“Kevin tiene 13 años y está en sétimo año.  Desde hace varios días pasa pegado a la tableta o la compu. No quiere hacer cosas que antes le gustaban, como jugar videojuegos o salir a jugar fútbol. ¿Qué pueden hacer sus papás?”</p>
                                     <h3 class="">Elija una opción.</h3>
                                 </div>
 
@@ -149,7 +149,7 @@
 
 
                                 <div class="col-12 answer" data-value="1">
-                                    <p>Observarla para ver si hay otras señales de alerta y tratar de hablar con ella para descubrir qué pasa.</p>
+                                    <p>Observarla para ver si hay otras señales de alerta, como por ejemplo ansiedad o enfermedades sin causa física, y tratar de hablar con ella para descubrir qué pasa.</p>
                                 </div>
                                 <div class="col-12 answer" data-value="2">
                                     <p>Quitarle el celular durante unos días, para que deje de perder sueño.</p>
@@ -165,7 +165,7 @@
 
                                 <div class="col-12 text-center">
                                     <img src="../img/mod1/1-09_eva-img-no_aprobado.png" alt="" class="img-md"/>
-                                    <h3 class="intro-paragrah text-center">No ha logrado superar con éxito esta evaluación. Inténtelo de nuevo. Así podrá finalizar este módulo y formar parte de la familia de e-mentores.</h3>
+                                    <h3 class="intro-paragrah text-center">No ha logrado superar con éxito este reto. Inténtelo de nuevo. Así podrá finalizar este módulo y formar parte de la familia de e-mentores.</h3>
                                 </div>
                                 <div class="col-6 text-center">
                                     <a href="../0-03_menu.php" class="btn-see-eva">Repasar contenidos</a>

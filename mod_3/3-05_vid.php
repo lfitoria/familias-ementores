@@ -38,7 +38,7 @@
                         </div>
                     </div>
                 </nav>
-                <p class="intro-header blue">El acompañamiento en las TIC</p>
+                <p class="intro-header blue">¿Cómo actuar ante estas situaciones?</p>
                 <section class="container">
                     <div class="main">
                         <div id="act_01" class="">

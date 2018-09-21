@@ -36,7 +36,7 @@
                         </div>
                     </div>
                 </nav>
-                <p class="intro-header blue">El acompañamiento en las TIC</p>
+                <p class="intro-header blue">Plan de acción “en acción”</p>
                 <section class="container">
                     <div class="main">
                         <div id="act_01" class="">

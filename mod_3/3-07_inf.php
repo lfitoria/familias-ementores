@@ -36,7 +36,7 @@
                         </div>
                     </div>
                 </nav>
-                <p class="intro-header blue">El acompañamiento en las TIC</p>
+                <p class="intro-header blue">¿Qué hacer en caso de sexting, grooming y sextorsión?</p>
                 <section class="container">
                     <div class="main">
                         <div id="act_01" class="">
