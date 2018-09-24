@@ -5,7 +5,7 @@
         <meta http-equiv="Expires" content="0" />
         <link rel="icon" href="../favicon.ico" type="image/gif">
         <meta name="viewport" content="width=device-width, initial-scale=1">
-        <title>Prevengo: acompaño en línea | e-mentores</title>
+        <title>Protejo: reacciono ante situaciones. | e-mentores</title>
         <link  type="text/css"  href="../css/bootstrap.css" rel="stylesheet">
         <link  type="text/css"  href="../css/bootstrap-grid.css" rel="stylesheet">
         <link href="https://fonts.googleapis.com/css?family=Nunito:300,400,700" rel="stylesheet">
@@ -38,16 +38,16 @@
                             <div class="mod">
                                 <div class="row">
                                     <div class="col-12 col-md-5">
-                                        <img src="../img/mod3/3-01_act-personaje1.png" alt="" class="img-fluid"/>
+                                        <img src="../img/mod3/3-03_act-personaje1.png" alt="" class="img-fluid"/>
                                     </div>
                                     <div class="col-12 col-md-7">
-                                        <div class="audio_3-03">
-                                            <p class="text-center intro-label">Pienso que hay que tener cuidado al hacer una denuncia de abuso sexual en línea, ya que, como esta conducta se da en Internet, no se pueden aportar pruebas. Si yo denuncio a alguien, ¡me pueden acusar de difamación!</p>
+                                        <div class="audio_3-03 per1">
+                                            <p class="text-center intro-label">Pienso que hay que tener cuidado al hacer una denuncia de abuso sexual en línea. Cuando el abuso se da en Internet, es imposible aportar pruebas. Si yo denuncio un delito de este tipo, ¡no tengo cómo probarlo!</p>
                                             <audio height="auto" id="video" controls>
                                                 <source src="../audios/mod3/3-03_act-situacion1.mp3" type="audio/mp3">
                                             </audio>
                                         </div>
-                                        <button class="btn-modal">Respuesta</button>
+                                        <button class="btn-modal btn-modal-3-03">Respuesta</button>
                                     </div>
                                 </div>
                                 <div class="d-block d-sm-none">
@@ -73,7 +73,7 @@
                                 <div class="modal-body">
                                     <div class="row 3-03-act-mdl" >
                                         <div class="col-12">
-                                            <p>Falso.  Aunque un delito sexual tenga lugar en línea, es posible obtener pruebas.  Además la ley nos dice que estamos obligados a denunciar este tipo de delitos, sean físicos o a través de las TIC. ¡Es importante recordar que la persona que denuncia está protegida por la ley!</p>
+                                            <p>Falso. Aunque un delito sexual tenga lugar en línea, es posible obtener pruebas, ya sean fotos, audios, vídeos o capturas de los mensajes intercambiados.  Además la ley nos dice que estamos obligados a denunciar este tipo de delitos, sean físicos o a través de las TIC.</p>
                                         </div>
                                     </div>
                                 </div>

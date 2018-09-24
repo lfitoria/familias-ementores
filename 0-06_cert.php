@@ -40,68 +40,17 @@
                         <section class="container">
                             <div class="row justify-content-md-center">
                                 <div class="col-sm-10 main-block">
-                                    <?php
-                                    session_start();
-                                    
-                                    $incorrect_user = isset($_SESSION['incorrect_user'])? $_SESSION['incorrect_user'] : null;
-                                   
-                                    if ($incorrect_user) {?>
-                                    <div class="alert alert-warning" role="alert">
-                                        ¡Huummm! Al parecer este correo no ha sido registrado aún. Corrobórelo y vuelva a intentarlo.
-                                    </div>
-                                    <?php } ?>
-                                    
-                                    <?php
-                                    $duplicated_user = isset($_SESSION['duplicated_user'])? $_SESSION['duplicated_user'] : null;
-                                    
-                                    if ($duplicated_user) {?>
-                                    <div class="alert alert-warning" role="alert">
-                                        Oh oh, parece que este correo ya está registrado
-                                    </div>
-                                    <?php } ?>
-                                    
-                                    <div class="email-input">
-                                        <h2 class="text-center"><img src="img/icon-form.png" alt=""/></h2>
+                                    <p class="text-center label">¡Perfecto! Gracias por completar este reto.</p>
 
-                                    </div> 
-                                    <div class="id-input">
-                                        <h2 class="text-center"><img src="img/icon-login.png" alt=""/></h2>
-                                    </div> 
-                                    <p class="text-center label">¡Perfecto! empecemos.</p>
-
-                                    <form action="db/user/login_user.php" method="POST" >
+                                    <form action="output.php" method="POST" >
                                         <div class="form-group email-input">
-                                            <p class="text-center label-small quest-email">¿Cúal es su correo electrónico?</p>
-                                            <input type="email" name="data" class="form-control mr-auto" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="ejemplo@correo.com" required>
-                                            <small id="emailHelp" class="form-text text-muted">Coloque el correo electrónico que usó para su registro inicial.</small>
+                                            <p class="text-center label-small quest-email">Digite su nombre completo</p>
+                                            <input type="text" name="name" class="form-control mr-auto" placeholder="Nombre completo" required>
                                         </div> 
                                         
-
-                                        <div class="form-group id-input">
-                                            <div class="form-group cr-id">
-                                                <p class="text-center label-small">Escriba su número de cédula</p>
-                                                <input type="text" name="data" class="form-control text-number mr-auto" id="cr-id-input" aria-describedby="idHelp" minlength="9" maxlength="9" placeholder="X0XXX0XXX" required>
-                                                <small id="emailHelp" class="form-text text-muted">Escriba solamente números, sin espacios. <br>Por ejemplo: 101110111</small>
-                                            </div> 
-
-                                    <!-- residente -->
-
-                                            <div class="form-group resi-id d-none">
-                                                <p class="text-center label-small">Escriba su número de residencia</p>
-                                                <input type="text" name="" class="form-control text-number mr-auto" id="cr-id-input2" aria-describedby="idHelp" minlength="12" maxlength="12" placeholder="1NNN-CC...C-EE...Escriba ">
-                                                <small id="emailHelp" class="form-text text-muted">Escriba solamente números, sin espacios. <br>Por ejemplo: 117000112002</small>
-                                            </div> 
-
-                                            <div class="radio radio-ced">
-
-                                                <input type="radio" name="id-type" id="ced-1" value="1" checked>Número de cédula
-                                                <br>
-                                                <input type="radio" name="id-type" id="ced-2" value="2">Número de residencia
-                                            </div>
-                                        </div>
                                         <input type="hidden" name="type" value="1">
                                         <input type="hidden" name="step" value="1">
-                                        <button type="submit" class="d-block m-auto btn-continue">Siguiente</button>
+                                        <button type="submit" class="d-block m-auto btn-continue">Descargar</button>
                                     </form>
                                 </div>
                             </div>

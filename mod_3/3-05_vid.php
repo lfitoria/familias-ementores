@@ -6,7 +6,7 @@
         <meta http-equiv="Expires" content="0" />
         <link rel="icon" href="../favicon.ico" type="image/gif">
         <meta name="viewport" content="width=device-width, initial-scale=1">
-        <title>Prevengo: acompaño en línea | e-mentores</title>
+        <title>Protejo: reacciono ante situaciones. | e-mentores</title>
         <link  type="text/css"  href="../css/bootstrap.css" rel="stylesheet">
         <link  type="text/css"  href="../css/bootstrap-grid.css" rel="stylesheet">
         <link href="https://fonts.googleapis.com/css?family=Nunito:300,400,700" rel="stylesheet">
@@ -92,7 +92,7 @@
                                                 <div class="modal-body">
                                                     <div class="row" >
                                                         <div class="col-12">
-                                                            <p>Cuando Alberto y Catalina eran novios se mandaron fotos íntimas. Seis meses después, reciben un mensaje de alguien que no conocen, pidiéndoles más fotos o dinero a cambio de no publicarlas en Facebook.  Alberto empieza a sacarse malas notas. Catalina deja de comer y llora todo el día. Un día se ponen de acuerdo y deciden que es momento de contarle a sus padres.</p>
+                                                            <p>Cuando Steven y Valeria eran novios se mandaron fotos íntimas. Seis meses después, reciben un mensaje de alguien que no conocen, pidiéndoles más fotos o dinero a cambio de no publicarlas en Facebook.  Steven empieza a sacarse malas notas. Valeria deja de comer y llora todo el día. Un día se ponen de acuerdo y deciden que es momento de contarle a sus padres.</p>
                                                             <p>¿Qué hacen sus papás?</p>
                                                             <div class="row" >
                                                                 <div class="col-6">
@@ -128,14 +128,14 @@
                                                 <div class="modal-body">
                                                     <div class="row" >
                                                         <div class="col-12">
-                                                            <p>Eric es un chico de 15 años que conoció a Mario en redes sociales. <br>Un día su papá le pregunta con quién pasa hablando todo el día y Eric le responde que es sólo un amigo llamado Mario. "¿Del colegio?", pregunta su papá. "No", responde Eric, "lo conocí en Facebook". Unos días después, su papá busca el perfil de Mario en Facebook y descubre es un adulto de 34 años. Preocupado, revisa el celular de Eric y encuentra conversaciones sexuales entre ambos. Cuando le pide a Eric alejarse Mario, éste se enoja y le dice que no hablen más del tema, él ya es grande y puede escoger a sus amigos. </p>
+                                                            <p>Eric es un chico de 17 años que conoció a Mario en redes sociales. <br> Un día su papá le pregunta con quién pasa hablando todo el día y Eric le responde que es sólo un amigo llamado Mario. "¿Del colegio?", pregunta su papá. "No", responde Eric, "lo conocí en Facebook". Unos días después, su papá busca el perfil de Mario en Facebook y descubre es un adulto de 34 años. Preocupado, le pide a Eric alejarse Mario, éste se enoja y le dice que no hablen más del tema, él ya es grande y puede escoger con quien relacionarse. </p>
                                                             <p>¿Qué debe hacer el padre?</p>
                                                             <div class="row" >
                                                                 <div class="col-6">
-                                                                    <button class="btn btn-info" style="display: block; width: 100%; white-space: normal;" onclick="playVideo()">Respetar los deseos de Erick, pero vigilar de cerca su relación con Mario.</button>
+                                                                    <button class="btn btn-info" style="display: block; width: 100%; white-space: normal;" onclick="playVideo()">Hablar con su hijo sobre los riesgos a los que se expone, y le explicarle que podría caer en una situación de abuso. De ser necesario, buscar apoyo de profesionales en el colegio de EricK.</button>
                                                                 </div>
                                                                 <div class="col-6">
-                                                                    <button class="btn btn-info" style="display: block; width: 100%; white-space: normal;" onclick="playVideo()">Tomar capturas de pantalla de las conversaciones. Bloquear Mario en las redes sociales de Erick y poner la denuncia ante las autoridades.</button>
+                                                                    <button class="btn btn-info" style="display: block; width: 100%; white-space: normal;" onclick="playVideo()">Revisar el celular de Erick, para valorar el tono de sus conversaciones con Mario y reclamarle si encuentra cosas que no le parecen.</button>
                                                                 </div>
                                                             </div>
                                                             

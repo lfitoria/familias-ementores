@@ -116,7 +116,7 @@
                         <div id="eva_09p5" class="mod d-none">
                             <div class="question row">
                                 <div class="col-12 text-center">
-                                    <h3 class=""><span>4</span> Esta imagen representa una posible situación de grooming... Como persona adulta, ¿cuál debería ser su reacción?</h3>
+                                    <h3 class=""><span>4</span> Esta imagen representa una posible situación de grooming... Si la situación se presentara con su hijo o hija, ¿cuál debería ser su reacción como persona adulta?</h3>
                                     <p class="instruction">Elija la opción correcta.</p>
                                 </div>
 

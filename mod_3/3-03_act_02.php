@@ -5,7 +5,7 @@
         <meta http-equiv="Expires" content="0" />
         <link rel="icon" href="../favicon.ico" type="image/gif">
         <meta name="viewport" content="width=device-width, initial-scale=1">
-        <title>Prevengo: acompaño en línea | e-mentores</title>
+        <title>Protejo: reacciono ante situaciones. | e-mentores</title>
         <link  type="text/css"  href="../css/bootstrap.css" rel="stylesheet">
         <link  type="text/css"  href="../css/bootstrap-grid.css" rel="stylesheet">
         <link href="https://fonts.googleapis.com/css?family=Nunito:300,400,700" rel="stylesheet">
@@ -42,10 +42,10 @@
                         <div id="act_01" class="btn-j-center">
                             <div class="cont row mod">
                                 <div class="col-12 col-md-5">
-                                    <img src="../img/mod3/3-01_act-personaje2.png" alt="personaje 2" class="img-fluid"/>
+                                    <img src="../img/mod3/3-03_act-personaje2.png" alt="personaje 2" class="img-fluid"/>
                                 </div>
                                 <div class="col-12 col-md-7">
-                                    <div class="audio_3-03">
+                                    <div class="audio_3-03 per2">
                                         <p class="text-center intro-label">Yo estaba en un chat para personas adultas y una persona con la que estaba conversando me empezó a mandar mensajes y hasta fotos íntimas. Creí que no había problema porque en ese sitio sólo pueden entrar mayores de 18, pero me di cuenta de que la persona era menor, y aunque no haya sido mi idea y pareciera tener consentimiento, le dije que no podía estar ahí, cerré el chat y eliminé las fotos.</p>
                                         <audio height="auto" id="video" controls>
                                             <source src="../audios/mod3/3-03_act-situacion2.mp3" type="audio/mp3">

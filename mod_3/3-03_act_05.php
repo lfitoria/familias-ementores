@@ -5,7 +5,7 @@
         <meta http-equiv="Expires" content="0" />
         <link rel="icon" href="../favicon.ico" type="image/gif">
         <meta name="viewport" content="width=device-width, initial-scale=1">
-        <title>Prevengo: acompaño en línea | e-mentores</title>
+        <title>Protejo: reacciono ante situaciones. | e-mentores</title>
         <link  type="text/css"  href="../css/bootstrap.css" rel="stylesheet">
         <link  type="text/css"  href="../css/bootstrap-grid.css" rel="stylesheet">
         <link href="https://fonts.googleapis.com/css?family=Nunito:300,400,700" rel="stylesheet">
@@ -42,10 +42,10 @@
                         <div id="act_01" class="">
                             <div class="cont row">
                                 <div class="col-12 col-md-5">
-                                    <img src="../img/mod3/3-01_act-personaje5.png" alt="" class="img-fluid"/>
+                                    <img src="../img/mod3/3-03_act-personaje5.png" alt="" class="img-fluid"/>
                                 </div>
                                 <div class="col-12 col-md-7">
-                                    <div class="audio_3-03">
+                                    <div class="audio_3-03 per5">
                                         <p class="text-center intro-label">Yo tengo 20 y mi novio tiene 17. Él quiere que compartamos fotos íntimas. A pesar de que somos novios desde hace bastante tiempo y sea algo sólo entre nosotros, sé que al enviarlas por internet algo podría salir mal y rechazo su propuesta.</p>
                                         <audio height="auto" id="video" controls>
                                             <source src="../audios/mod3/3-03_act-situacion5.mp3" type="audio/mp3">
@@ -66,7 +66,7 @@
                                 <div class="modal-body">
                                     <div class="row 3-03-act-mdl" >
                                         <div class="col-12">
-                                            <p>No importa si las imágenes fueron obtenidas en una relación de confianza ni tampoco si fueron enviadas voluntariamente. Una persona adulta que tenga en su poder estas imágenes puede ser denunciada y procesada.</p>
+                                            <p>No importa si las imágenes fueron obtenidas en una relación de confianza ni tampoco si fueron enviadas voluntariamente. Una persona adulta que tenga en su poder estas imágenes puede ser denunciada y procesada. Recuerde, si una persona adulta mantiene una relación con una persona entre los 15 y los 18 años, y le lleva más de siete años, está cometiendo un delito.</p>
                                         </div>
                                     </div>
                                 </div>

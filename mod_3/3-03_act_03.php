@@ -5,7 +5,7 @@
         <meta http-equiv="Expires" content="0" />
         <link rel="icon" href="../favicon.ico" type="image/gif">
         <meta name="viewport" content="width=device-width, initial-scale=1">
-        <title>Prevengo: acompaño en línea | e-mentores</title>
+        <title>Protejo: reacciono ante situaciones. | e-mentores</title>
         <link  type="text/css"  href="../css/bootstrap.css" rel="stylesheet">
         <link  type="text/css"  href="../css/bootstrap-grid.css" rel="stylesheet">
         <link href="https://fonts.googleapis.com/css?family=Nunito:300,400,700" rel="stylesheet">
@@ -42,10 +42,10 @@
                         <div id="act_01" class="btn-j-center">
                             <div class="cont row mod">
                                 <div class="col-12 col-md-5">
-                                    <img src="../img/mod3/3-01_act-personaje3.png" alt="" class="img-fluid"/>
+                                    <img src="../img/mod3/3-03_act-personaje3.png" alt="" class="img-fluid"/>
                                 </div>
                                 <div class="col-12 col-md-7">
-                                    <div class="audio_3-03">
+                                    <div class="audio_3-03 per3">
                                         <p class="text-center intro-label">Yo conocí a una persona menor de edad por Internet. Siempre fui honesto y le dije que me gustaba mucho y que siempre sueño con verla sin ropa. Pero eso es todo. Yo nunca le he pedido fotos y menos que nos encontremos.</p>
                                         <audio height="auto" id="video" controls>
                                             <source src="../audios/mod3/3-03_act-situacion3.mp3" type="audio/mp3">

@@ -5,7 +5,7 @@
         <meta http-equiv="Expires" content="0" />
         <link rel="icon" href="../favicon.ico" type="image/gif">
         <meta name="viewport" content="width=device-width, initial-scale=1">
-        <title>Prevengo: acompaño en línea | e-mentores</title>
+        <title>Protejo: reacciono ante situaciones. | e-mentores</title>
         <link  type="text/css"  href="../css/bootstrap.css" rel="stylesheet">
         <link  type="text/css"  href="../css/bootstrap-grid.css" rel="stylesheet">
         <link href="https://fonts.googleapis.com/css?family=Nunito:300,400,700" rel="stylesheet">
@@ -42,10 +42,10 @@
                         <div id="act_01" class="">
                             <div class="cont row">
                                 <div class="col-12 col-md-5">
-                                    <img src="../img/mod3/3-01_act-personaje6.png" alt="" class="img-fluid"/>
+                                    <img src="../img/mod3/3-03_act-personaje6.png" alt="" class="img-fluid"/>
                                 </div>
                                 <div class="col-12 col-md-7">
-                                    <div class="audio_3-03">
+                                    <div class="audio_3-03 per6">
                                         <p class="text-center intro-label">Yo, obviamente no grabo personas menores de edad en situaciones íntimas. A veces navegando en Internet me he encontrado videos y para vacilar los he mandado al grupo de amigos de la U que tenemos en WhatsApp. Es algo privado y además nadie me paga por eso.</p>
                                         <audio height="auto" id="video" controls>
                                             <source src="../audios/mod3/3-03_act-situacion6.mp3" type="audio/mp3">
