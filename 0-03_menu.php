@@ -27,7 +27,7 @@
 
                     if (is_null($user)) {
 
-                        echo '<script>window.location="http://ementores.org/0-04_intro.php"</script>';
+                        echo '<script>window.location="http://ementores.org/0-04_prelogin.php"</script>';
 
                         die();
                     }
@@ -252,11 +252,14 @@
                                     while ($row = mysqli_fetch_array($result3)) {
                                         $values3[] = $row;
                                     }
-
+              
                                     $queryAct2 = "SELECT * FROM activity where user = $last_id and module = 2";
                                     $resultAct2 = $mysqli->query($queryAct2);
                                     $activity2 = mysqli_fetch_assoc($resultAct2);
                                     // var_dump($activity2);
+                                    echo "<pre>";
+                                    var_dump($values3);
+                                    echo "</pre>";    
                                     ?>
                                     <div class="module <?php if ($activity2["is_approved"] == 0) : ?>disabled<?php endif ?>">
                                         <h3 class="text-center menu-title" id="mod3">Protejo: reacciono ante situaciones.</h3>
@@ -265,46 +268,52 @@
                                                 <div class="col-12 col-sm-6 col-md-4 col-lg-3">
                                                     <div class="item-module <?php if ($values3[0]["is_completed"] == 1) : ?>active<?php endif ?>">
                                                         <!-- <img src="img/icon.png" alt=""/> -->
-                                                        <a href="mod_3/3-01_vid.php" class="v3-act-1">VIDEO ANIMADO 01</a><!--<p class=dots-mod>. . .</p>-->
+                                                        <a href="mod_3/3-01_vid.php" class="v3-act-1">¿Qué dicen las leyes?</a><!--<p class=dots-mod>. . .</p>-->
                                                     </div>
                                                 </div>
                                                 <div class="col-12 col-sm-6 col-md-4 col-lg-3">
-                                                    <div class="item-module <?php if ($values3[2]["is_completed"] == 1) : ?>active<?php endif ?>">
+                                                    <div class="item-module <?php if ($values3[1]["is_completed"] == 1) : ?>active<?php endif ?>">
                                                         <!-- <img src="img/icon.png" alt=""/> -->
                                                         <a href="mod_3/3-03_act.php"" class="v3-act-3">¿Están en lo correcto estas personas adultas?</a><!--<p class=dots-mod>. . .</p>-->
                                                     </div>
                                                 </div>
                                                 <div class="col-12 col-sm-6 col-md-4 col-lg-3">
-                                                    <div class="item-module <?php if ($values3[3]["is_completed"] == 1) : ?>active<?php endif ?>">
-                                                        <a href="mod_3/3-04_inf.php"" class="v3-act-4">INFOGRÁFICO 01</a><!--<p class=dots-mod>. . .</p>-->
+                                                    <div class="item-module <?php if ($values3[2]["is_completed"] == 1) : ?>active<?php endif ?>">
+                                                        <a href="mod_3/3-04_inf.php"" class="v3-act-4">Señales de alarma en una persona menor de edad abusada sexualmente</a><!--<p class=dots-mod>. . .</p>-->
                                                     </div>
                                                 </div>
 
                                                 <div class="col-12 col-sm-6 col-md-4 col-lg-3">
+                                                    <div class="item-module <?php if ($values3[3]["is_completed"] == 1) : ?>active<?php endif ?>">
+                                                        <!-- <img src="img/icon.png" alt=""/> -->
+                                                        <a href="mod_3/3-05_vid.php" class="v3-act-5">¿Cómo actuar ante estas situaciones?</a><!--<p class=dots-mod>. . .</p>-->
+                                                    </div>
+                                                </div>
+                                                <div class="col-12 col-sm-6 col-md-4 col-lg-3">
                                                     <div class="item-module <?php if ($values3[4]["is_completed"] == 1) : ?>active<?php endif ?>">
                                                         <!-- <img src="img/icon.png" alt=""/> -->
-                                                        <a href="mod_3/3-05_vid.php" class="v3-act-5">VIDEO ANIMADO 02</a><!--<p class=dots-mod>. . .</p>-->
+                                                        <a href="mod_3/3-07_inf.php"" class="v3-act-7">¿Qué hacer en caso de sexting, grooming y sextorsión?</a><!--<p class=dots-mod>. . .</p>-->
                                                     </div>
                                                 </div>
                                                 <div class="col-12 col-sm-6 col-md-4 col-lg-3">
-                                                    <div class="item-module <?php if ($values3[6]["is_completed"] == 1) : ?>active<?php endif ?>">
+                                                    <div class="item-module <?php if ($values3[5]["is_completed"] == 1) : ?>active<?php endif ?>">
                                                         <!-- <img src="img/icon.png" alt=""/> -->
-                                                        <a href="mod_3/3-07_inf.php"" class="v3-act-7">INFOGRÁFICO 03</a><!--<p class=dots-mod>. . .</p>-->
-                                                    </div>
-                                                </div>
-                                                <div class="col-12 col-sm-6 col-md-4 col-lg-3">
-                                                    <div class="item-module <?php if ($values3[6]["is_completed"] == 1) : ?>active<?php endif ?>">
-                                                        <!-- <img src="img/icon.png" alt=""/> -->
-                                                        <a href="mod_3/3-08_vid.php" class="v3-act-7">VIDEO ANIMADO 03</a><!--<p class=dots-mod>. . .</p>-->
+                                                        <a href="mod_3/3-08_vid.php" class="v3-act-7">Plan de acción “en acción”</a><!--<p class=dots-mod>. . .</p>-->
                                                     </div>
                                                 </div>
                                             </div>
-                                        </div>
-                                        <div class="row">
-                                            <div class="col-12 item-module-final">
-                                               <a href="mod_3/3-09_eva.php">ACTIVIDAD FINAL</a>
+                                            <div class="row">
+                                                <div class="col-12 item-module-final">
+                                                    <?php if ($row_cnt3 == 0): ?><a href="mod_3/3-09_eva.php">ACTIVIDAD FINAL</a><?php endif; ?>
+                                                   
+                                                </div>
                                             </div>
                                         </div>
+                                        <?php if ($activity1["is_approved"] == 1 && $activity1["is_approved"] == 1) : ?>
+                                            <div class="col-12 item-cert">
+                                                <a href="0-06_cert.php" class="btn-cert">Descargar certificado</a>
+                                            </div>
+                                        <?php endif ?>
                                     </div>
                                 </div>
                             </div>  

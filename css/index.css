@@ -489,6 +489,7 @@ img.logo-imas {
     /*margin-top: 0px !important;*/
     display: block;
     line-height: 50px;
+    cursor: pointer;
 }
 
 .btn-continue:hover, .btn-finish:hover{background-position: -135px 0px; text-decoration: none; color: #fff;}
@@ -543,6 +544,24 @@ img.logo-imas {
     color:#FFFFFF;
 }
 
+.btn-cert {
+    background: url(../img/botones/btn-certificado.png) no-repeat 0px 0px;
+    background-size: 550px;
+    display: block;
+    width: 275px;
+    height: 55px;
+    font-family: 'Nunito', sans-serif;
+    font-weight: bold;
+    color: #FFFFFF;
+    font-size: 1em;
+    text-transform: uppercase;
+    text-align: left;
+    padding: 15px 50px 5px 10px;
+    margin: auto;
+    margin-top: 15px;
+}
+
+.btn-cert:hover{ background-position: -275px 0; text-decoration: none; color: #fff}
 
 .btn-gestores {
     background: url(../img/botones/boton-gestores.png) no-repeat 0px 0px;

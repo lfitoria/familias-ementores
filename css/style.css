@@ -7,10 +7,39 @@ and open the template in the editor.
     Created on : Jul 27, 2018, 3:46:53 PM
     Author     : Luis
 */
+
+@font-face {
+  font-family: 'Nunito';
+  font-style: normal;
+  font-weight: 300;
+  src: local('Nunito Light'), local('Nunito-Light'), url(nunito-l.woff2) format('woff2');
+  unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+
+/* latin-ext */
+@font-face {
+  font-family: 'Nunito';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Nunito Regular'), local('Nunito-Regular'), url(nunito-r.woff2) format('woff2');
+  unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+
+/* latin-ext */
+@font-face {
+  font-family: 'Nunito';
+  font-style: normal;
+  font-weight: 700;
+  src: local('Nunito Bold'), local('Nunito-Bold'), url(nunito-b.woff2) format('woff2');
+  unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+
+
 audio{ cursor: pointer; width: 100%; }
 h3{ color: #77A449; font-family: 'Nunito', sans-serif; font-weight: bold; line-height: 1.2em; }
 h4{ color: grey; }
 
+#content{width: 100%}
 p.intro-label{
     font-size: 1.2em;
     width: 100%;
@@ -49,7 +78,7 @@ p.intro-label{
     position: relative;
     right: -7%;
     border: none;
-    text-indent: -999999999;
+    color: transparent;
     width: 65px;
     height: 65px;
     cursor: pointer;
@@ -58,6 +87,7 @@ p.intro-label{
 .conti:hover {
     background-image: url(../img/mod1/flecha-siguiente_hover.png);
     background-color: transparent;
+    color: transparent;
 }
 .baki {
     background-image: url(../img/mod1/flecha-anterior_activa.png);
@@ -65,7 +95,7 @@ p.intro-label{
     position: relative;
     left: -7%;
     border: none;
-    text-indent: -999999999;
+    color: transparent;
     width: 65px;
     height: 65px;
     cursor: pointer;
@@ -74,19 +104,7 @@ p.intro-label{
 .baki:hover {
     background-image: url(../img/mod1/flecha-anterior_hover.png);
     background-color: transparent;
-}
-.baki,.conti {
-    background-color: transparent;
-    border: none;
-    color: #000;
-    background-repeat: no-repeat;
-}
-.baki,.conti {
-    background-color: transparent;
-    border: none;
-    color: #000;
-    right: 0;
-    left: 0;
+    color: transparent;
 }
 .ejem {
     background-color: #FCD65A;
@@ -96,6 +114,8 @@ p.intro-label{
 
 #map_container{
     width: 100%;
+        max-width: 900px;
+    margin: auto;
 }
 
 .gotoModulePage{margin: auto; display: inherit; margin-top: 10px;}

@@ -36,7 +36,7 @@ unset($_SESSION['duplicated_user']);
                             </div>
 
                             <div class="nav justify-content-center">
-                                <h1><a class="mx-auto" href="/index.php"><img src="img/logo-imas.png" alt="E-mentores"></a></h1>
+                                <h1><a class="mx-auto" href="/index.php"><img src="img/logo-ementores.png" alt="E-mentores"></a></h1>
                             </div>
 
                             <div class="nav justify-content-end">
@@ -52,7 +52,7 @@ unset($_SESSION['duplicated_user']);
                             
                             <div class="row justify-content-md-center">
                                 <div class="col-sm-10 main-block back-girl">
-                                    <h2 class="text-center"><img src="img/icon-conectados.png"></h2>
+                                    <h2 class="text-center"><img src="img/logo-imas.png"></h2>
                                     <div class="row">
                                         <div class="col-12">
                                             <p class="text-center label">¿Su familia recibe algún beneficio del IMAS (Avancemos, Hogares Conectados, Puente al Desarrollo?</p>

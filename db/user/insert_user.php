@@ -18,7 +18,7 @@ $query1 = "INSERT INTO module (`step`, `module`, `user`, `is_completed`) VALUES 
 $mysqli->query($query1);
 $query2 = "INSERT INTO module (`step`, `module`, `user`, `is_completed`) VALUES (1, 2, $last_id, 0), (2, 2, $last_id, 0), (3, 2, $last_id, 0), (4, 2, $last_id, 0), (5, 2, $last_id, 0), (6, 2, $last_id, 0), (7, 2, $last_id, 0), (8, 2, $last_id, 0), (9, 2, $last_id, 0), (10, 2, $last_id, 0); ";
 $mysqli->query($query2);
-$query3 = "INSERT INTO module (`step`, `module`, `user`, `is_completed`) VALUES (1, 3, $last_id, 0), (2, 3, $last_id, 0), (3, 3, $last_id, 0), (4, 3, $last_id, 0), (5, 3, $last_id, 0), (6, 3, $last_id, 0), (7, 3, $last_id, 0); ";
+$query3 = "INSERT INTO module (`step`, `module`, `user`, `is_completed`) VALUES (1, 3, $last_id, 0), (3, 3, $last_id, 0), (4, 3, $last_id, 0), (5, 3, $last_id, 0), (7, 3, $last_id, 0), (8, 3, $last_id, 0); ";
 $mysqli->query($query3);
 
 $query1 = "INSERT INTO `activity`(`user`, `module`, `score`, `is_approved`) VALUES ($last_id, 1, 0, 0), ($last_id, 2, 0, 0), ($last_id, 3, 0, 0)";

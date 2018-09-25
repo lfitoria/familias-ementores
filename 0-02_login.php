@@ -73,7 +73,7 @@
                                         <div class="form-group email-input">
                                             <p class="text-center label-small quest-email">¿Cúal es su correo electrónico?</p>
                                             <input type="email" name="data" class="form-control mr-auto" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="ejemplo@correo.com" required>
-                                            <small id="emailHelp" class="form-text text-muted">Puede usar esta misma dirección de correo para volver a entrar más adelante.</small>
+                                            <small id="emailHelp" class="form-text text-muted">Coloque el correo electrónico que usó para su registro inicial.</small>
                                         </div> 
                                         
 

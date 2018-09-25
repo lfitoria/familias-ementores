@@ -5,7 +5,7 @@
         <meta http-equiv="Expires" content="0" />
         <link rel="icon" href="../favicon.ico" type="image/gif">
         <meta name="viewport" content="width=device-width, initial-scale=1">
-        <title>Prevengo: acompaño en línea | e-mentores</title>
+        <title>Protejo: reacciono ante situaciones. | e-mentores</title>
         <link  type="text/css"  href="../css/bootstrap.css" rel="stylesheet">
         <link  type="text/css"  href="../css/bootstrap-grid.css" rel="stylesheet">
         <link href="https://fonts.googleapis.com/css?family=Nunito:300,400,700" rel="stylesheet">
@@ -36,7 +36,7 @@
                         </div>
                     </div>
                 </nav>
-                <p class="intro-header blue">El acompañamiento en las TIC</p>
+                <p class="intro-header blue">Señales de alarma en una persona menor de edad abusada sexualmente</p>
                 <section class="container">
                     <div class="main">
                         <div id="act_01" class="">
@@ -44,10 +44,10 @@
                                 <div id="map_container">
                                     <img usemap="#3-04-inf" id="img-map" src="../img/mod3/3-04_inf.png" class="img-fluid">
                                     <map name="3-04-inf">
-                                        <area data-nbr="1" shape='rect' coords='101, 426, 266, 494' href='#' />
-                                        <area data-nbr="2" shape='rect' coords='1053, 538, 1219, 607' href='#' />
-                                        <area data-nbr="3" shape='rect' coords='1176, 1144, 1012, 1075' href='#' />
-                                        <area data-nbr="4" shape='rect' coords='101, 969, 266, 1038' href='#' />
+                                        <area data-nbr="1" shape='rect' coords='129, 402, 285, 467' href='#' />
+                                        <area data-nbr="2" shape='rect' coords='1044, 490, 1201, 554' href='#' />
+                                        <area data-nbr="3" shape='rect' coords='1034, 1069, 1190, 1133' href='#' />
+                                        <area data-nbr="4" shape='rect' coords='129, 996, 286, 1064' href='#' />
                                     </map>
                                 </div>
                             </div>
