@@ -306,7 +306,11 @@
                                                 </div>
                                             </div>
                                         </div>
-
+                                        <?php if ($activity1["is_approved"] == 1 && $activity1["is_approved"] == 1) : ?>
+                                            <div class="col-12 item-cert">
+                                                <a href="0-06_cert.php" class="btn-cert">Descargar certificado</a>
+                                            </div>
+                                        <?php endif ?>
                                     </div>
                                 </div>
                             </div>  

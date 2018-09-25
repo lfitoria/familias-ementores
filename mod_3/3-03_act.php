@@ -5,7 +5,7 @@
         <meta http-equiv="Expires" content="0" />
         <link rel="icon" href="../favicon.ico" type="image/gif">
         <meta name="viewport" content="width=device-width, initial-scale=1">
-        <title>Prevengo: acompaño en línea | e-mentores</title>
+        <title>Protejo: reacciono ante situaciones. | e-mentores</title>
         <link  type="text/css"  href="../css/bootstrap.css" rel="stylesheet">
         <link  type="text/css"  href="../css/bootstrap-grid.css" rel="stylesheet">
         <link href="https://fonts.googleapis.com/css?family=Nunito:300,400,700" rel="stylesheet">
@@ -47,35 +47,35 @@
                                 </div>
                                 <div class="col-6 col-md-4">
                                     <div class="item item-thumb" data-slider="1" data-title="Abuso sexual en línea">
-                                        <a href="3-03_act_01.php"><img src="../img/mod3/3-01_act-thumb1.png" alt="" class="img-fluid"/></a>
+                                        <a href="3-03_act_01.php"><img src="../img/mod3/3-03_act-thumb1.png" alt="" class="img-fluid"/></a>
                                     </div>
                                 </div>
                                 <div class="col-6 col-md-4">
                                     <div class="item item-thumb" data-slider="2" data-title="Explotación sexual en línea" >
-                                        <a href="3-03_act_02.php"><img src="../img/mod3/3-01_act-thumb2.png" alt="" class="img-fluid"/></a>
+                                        <a href="3-03_act_02.php"><img src="../img/mod3/3-03_act-thumb2.png" alt="" class="img-fluid"/></a>
                                     </div>
                                 </div>
                                 <div class="col-6 col-md-4">
                                     <div class="item item-thumb" data-slider="2" data-title="Explotación sexual en línea" >
-                                        <a href="3-03_act_03.php"><img src="../img/mod3/3-01_act-thumb3.png" alt="" class="img-fluid"/></a>
+                                        <a href="3-03_act_03.php"><img src="../img/mod3/3-03_act-thumb3.png" alt="" class="img-fluid"/></a>
                                         
                                     </div>
                                 </div>
                                 <div class="col-6 col-md-4">
                                     <div class="item item-thumb" data-slider="2" data-title="Explotación sexual en línea" >
-                                        <a href="3-03_act_04.php"><img src="../img/mod3/3-01_act-thumb4.png" alt="" class="img-fluid"/></a>
+                                        <a href="3-03_act_04.php"><img src="../img/mod3/3-03_act-thumb4.png" alt="" class="img-fluid"/></a>
                                         
                                     </div>
                                 </div>
                                 <div class="col-6 col-md-4">
                                     <div class="item item-thumb" data-slider="2" data-title="Explotación sexual en línea" >
-                                        <a href="3-03_act_05.php"><img src="../img/mod3/3-01_act-thumb5.png" alt="" class="img-fluid"/></a>
+                                        <a href="3-03_act_05.php"><img src="../img/mod3/3-03_act-thumb5.png" alt="" class="img-fluid"/></a>
                                         
                                     </div>
                                 </div>
                                 <div class="col-6 col-md-4">
                                     <div class="item item-thumb" data-slider="2" data-title="Explotación sexual en línea" >
-                                        <a href="3-03_act_06.php"><img src="../img/mod3/3-01_act-thumb6.png" alt="" class="img-fluid"/></a>
+                                        <a href="3-03_act_06.php"><img src="../img/mod3/3-03_act-thumb6.png" alt="" class="img-fluid"/></a>
                                         
                                     </div>
                                 </div>
