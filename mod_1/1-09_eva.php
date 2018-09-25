@@ -164,7 +164,7 @@
                                 </div>
 
                             </div>
-                            <div class="answers row" data-page="7">
+                            <div class="answers row final" data-page="7">
                                 <div class="col-12 answer" data-value="1">
                                     <p>Todas las situaciones representan posibles riesgos.</p>
                                 </div>
@@ -287,12 +287,12 @@
                     }
                     $("#score").val(score);
                     $(".mod").addClass("d-none");
-
+               
                     if (score >= 3) {
-                        $("#eva_09p13").removeClass("d-none");
+                        $("#eva_09p8").removeClass("d-none");
                         $("#is_approved").val(1);
                     } else {
-                        $("#eva_09p12").removeClass("d-none");
+                        $("#eva_09p7").removeClass("d-none");
                         $("#is_approved").val(0);
                     }
                     $("#form_eva").submit();

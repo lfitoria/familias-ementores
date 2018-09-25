@@ -27,7 +27,7 @@
 
                     if (is_null($user)) {
 
-                        echo '<script>window.location="http://ementores.org/0-04_intro.php"</script>';
+                        echo '<script>window.location="http://ementores.org/0-04_prelogin.php"</script>';
 
                         die();
                     }
@@ -252,7 +252,7 @@
                                     while ($row = mysqli_fetch_array($result3)) {
                                         $values3[] = $row;
                                     }
-
+              
                                     $queryAct2 = "SELECT * FROM activity where user = $last_id and module = 2";
                                     $resultAct2 = $mysqli->query($queryAct2);
                                     $activity2 = mysqli_fetch_assoc($resultAct2);
@@ -269,31 +269,31 @@
                                                     </div>
                                                 </div>
                                                 <div class="col-12 col-sm-6 col-md-4 col-lg-3">
-                                                    <div class="item-module <?php if ($values3[2]["is_completed"] == 1) : ?>active<?php endif ?>">
+                                                    <div class="item-module <?php if ($values3[1]["is_completed"] == 1) : ?>active<?php endif ?>">
                                                         <!-- <img src="img/icon.png" alt=""/> -->
                                                         <a href="mod_3/3-03_act.php"" class="v3-act-3">¿Están en lo correcto estas personas adultas?</a><!--<p class=dots-mod>. . .</p>-->
                                                     </div>
                                                 </div>
                                                 <div class="col-12 col-sm-6 col-md-4 col-lg-3">
-                                                    <div class="item-module <?php if ($values3[3]["is_completed"] == 1) : ?>active<?php endif ?>">
+                                                    <div class="item-module <?php if ($values3[2]["is_completed"] == 1) : ?>active<?php endif ?>">
                                                         <a href="mod_3/3-04_inf.php"" class="v3-act-4">Señales de alarma en una persona menor de edad abusada sexualmente</a><!--<p class=dots-mod>. . .</p>-->
                                                     </div>
                                                 </div>
 
                                                 <div class="col-12 col-sm-6 col-md-4 col-lg-3">
-                                                    <div class="item-module <?php if ($values3[4]["is_completed"] == 1) : ?>active<?php endif ?>">
+                                                    <div class="item-module <?php if ($values3[3]["is_completed"] == 1) : ?>active<?php endif ?>">
                                                         <!-- <img src="img/icon.png" alt=""/> -->
                                                         <a href="mod_3/3-05_vid.php" class="v3-act-5">¿Cómo actuar ante estas situaciones?</a><!--<p class=dots-mod>. . .</p>-->
                                                     </div>
                                                 </div>
                                                 <div class="col-12 col-sm-6 col-md-4 col-lg-3">
-                                                    <div class="item-module <?php if ($values3[6]["is_completed"] == 1) : ?>active<?php endif ?>">
+                                                    <div class="item-module <?php if ($values3[4]["is_completed"] == 1) : ?>active<?php endif ?>">
                                                         <!-- <img src="img/icon.png" alt=""/> -->
                                                         <a href="mod_3/3-07_inf.php"" class="v3-act-7">¿Qué hacer en caso de sexting, grooming y sextorsión?</a><!--<p class=dots-mod>. . .</p>-->
                                                     </div>
                                                 </div>
                                                 <div class="col-12 col-sm-6 col-md-4 col-lg-3">
-                                                    <div class="item-module <?php if ($values3[7]["is_completed"] == 1) : ?>active<?php endif ?>">
+                                                    <div class="item-module <?php if ($values3[5]["is_completed"] == 1) : ?>active<?php endif ?>">
                                                         <!-- <img src="img/icon.png" alt=""/> -->
                                                         <a href="mod_3/3-08_vid.php" class="v3-act-7">Plan de acción “en acción”</a><!--<p class=dots-mod>. . .</p>-->
                                                     </div>

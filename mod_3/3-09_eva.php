@@ -6,7 +6,7 @@
         <meta http-equiv="Expires" content="0" />
         <link rel="icon" href="../favicon.ico" type="image/gif">
         <meta name="viewport" content="width=device-width, initial-scale=1">
-        <title>Me informo: oportunidades y desafíos en la web | e-mentores</title>
+        <title>Prevengo: acompaño en línea | e-mentores</title>
         <link  type="text/css"  href="../css/bootstrap.css" rel="stylesheet">
         <link  type="text/css"  href="../css/bootstrap-grid.css" rel="stylesheet">
         <link rel="stylesheet" href="https://cdn.jsdelivr.net/bxslider/4.2.12/jquery.bxslider.css">
@@ -94,7 +94,7 @@
                         <div id="eva_09p4" class="mod d-none">
                             <div class="question row">
                                 <div class="col-12 text-center">
-                                    <h3 class=""><span>3</span> ¿Cómo debemos reaccionar si nuestro hijo o hija nos dicen que están siendo víctimas de un abuso?</h3>
+                                    <h3 class=""><span>3</span> ¿Cómo debemos reaccionar si nuestro hijo o hija nos dice que están siendo víctimas de un abuso?</h3>
                                 </div>
 
 
@@ -139,7 +139,7 @@
                             <div class="question row">
                                 <div class="col-12 text-center">
                                     <p class="instruction text-left"><span>5</span> Lea el siguiente testimonio:</p>
-                                    <p class="text-help green">“Nataly tiene 11 años y está en quinto grado. Desde hace algunos días le cuesta mucho levantarse para ir a la escuela.  Sus padres han notado usa el celular hasta muy tarde y luego no puede dormir. ¿Qué pueden hacer?”</p>
+                                    <p class="text-help green">“Nataly tiene 11 años y está en quinto grado. Desde hace algunos días le cuesta mucho levantarse para ir a la escuela.  Sus padres han notado que usa el celular hasta muy tarde y luego no puede dormir. ¿Qué pueden hacer?”</p>
                                     <h3 class="">Elija una opción.</h3>
                                 </div>
 
