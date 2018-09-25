@@ -257,6 +257,9 @@
                                     $resultAct2 = $mysqli->query($queryAct2);
                                     $activity2 = mysqli_fetch_assoc($resultAct2);
                                     // var_dump($activity2);
+                                    echo "<pre>";
+                                    var_dump($values3);
+                                    echo "</pre>";    
                                     ?>
                                     <div class="module <?php if ($activity2["is_approved"] == 0) : ?>disabled<?php endif ?>">
                                         <h3 class="text-center menu-title" id="mod3">Protejo: reacciono ante situaciones.</h3>

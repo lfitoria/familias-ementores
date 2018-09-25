@@ -489,6 +489,7 @@ img.logo-imas {
     /*margin-top: 0px !important;*/
     display: block;
     line-height: 50px;
+    cursor: pointer;
 }
 
 .btn-continue:hover, .btn-finish:hover{background-position: -135px 0px; text-decoration: none; color: #fff;}

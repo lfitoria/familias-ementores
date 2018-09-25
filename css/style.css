@@ -114,6 +114,8 @@ p.intro-label{
 
 #map_container{
     width: 100%;
+        max-width: 900px;
+    margin: auto;
 }
 
 .gotoModulePage{margin: auto; display: inherit; margin-top: 10px;}
