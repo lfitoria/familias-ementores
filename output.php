@@ -21,5 +21,5 @@
             //Escribimos el contenido en el PDF
             $html2pdf->writeHTML($html);
             //Generamos el PDF
-            $html2pdf->Output('PdfGeneradoPHP.pdf');
+            $html2pdf->Output('certificado-ementores.pdf');
         ?>
