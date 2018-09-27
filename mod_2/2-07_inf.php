@@ -47,11 +47,11 @@
                                 <div id="map_container">
                                     <img usemap="#1-07-inf" id="img-map" src="../img/mod2/2-07_inf.png" class="img-fluid">
                                     <map name="1-07-inf">
-                                        <area data-nbr="1" shape='rect' coords='542, 832, 758, 904' href='#' />
-                                        <area data-nbr="2" shape='rect' coords='539, 1332, 758, 1252' href='#' />
-                                        <area data-nbr="3" shape='rect' coords='541, 1713, 758, 1788' href='#' />
-                                        <area data-nbr="4" shape='rect' coords='541, 2133, 758, 2200' href='#' />
-                                        <area data-nbr="5" shape='rect' coords='542, 2589, 758, 2659' href='#' />
+                                        <area data-nbr="1" shape='rect' coords='541, 1126, 758, 1198' href='#' />
+                                        <area data-nbr="2" shape='rect' coords='540, 1836, 758, 1908' href='#' />
+                                        <area data-nbr="3" shape='rect' coords='540, 2532, 756, 2605' href='#' />
+                                        <area data-nbr="4" shape='rect' coords='540, 3238, 758, 3312' href='#' />
+                                        <area data-nbr="5" shape='rect' coords='538, 3933, 756, 4009' href='#' />
                                     </map>
                                 </div>
                             </div>
@@ -91,7 +91,7 @@
                         <div class="row d-none act-04-mdl act01" >
                             <div class="col-12">
                                 <div class="slider1">
-                                    <div>Como adultos, debemos orientar y motivar a las personas menores de edad para que hagan un uso positivo de las tecnologías.</div>
+                                    <div>Como personas adultas, debemos orientar y motivar a las personas menores de edad para que hagan un uso positivo de las tecnologías.</div>
                                 </div>
                             </div>
                         </div>

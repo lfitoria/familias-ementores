@@ -38,7 +38,7 @@
                         </div>
                     </div>
                 </nav>
-                <p class="intro-header blue">Oportunidades y desafíos</p>
+                <p class="intro-header blue">Oportunidades y riesgos</p>
                 <section class="container">
                     <div class="row justify-content-md-center">
                         <div class="col-sm-10">
@@ -46,7 +46,7 @@
                                 <div id="act_01" class="">
                                     <ul class="nav nav-tabs " id="myTab" role="tablist">
                                         <li class="nav-item">
-                                            <a class="nav-link active" id="home-tab" data-toggle="tab" href="#desafios" role="tab" aria-controls="home" aria-selected="true">Desafíos</a>
+                                            <a class="nav-link active" id="home-tab" data-toggle="tab" href="#desafios" role="tab" aria-controls="home" aria-selected="true">Riesgos</a>
                                         </li>
                                         <li class="nav-item">
                                             <a class="nav-link" id="contact-tab" data-toggle="tab" href="#oportunidades" role="tab" aria-controls="contact" aria-selected="false">Oportunidades</a>

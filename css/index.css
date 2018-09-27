@@ -175,7 +175,7 @@ a[data-toggle="collapse"] {
 
 .bck-intro .main-block{
     background: #fff;
-    padding: 45px 25%;
+    padding: 45px 20px;
     position: relative;
 }
 
@@ -680,6 +680,10 @@ img.logo-imas {
         font-family: 'Nunito';
         font-weight: 700;
         font-size: 3.4em;
+    }
+
+    .bck-intro .main-block{
+        padding: 45px 20%;
     }
 } /*fin 992*/
 

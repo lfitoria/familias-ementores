@@ -94,7 +94,7 @@
                         <div class="row d-none act-04-mdl act02" >
                             <div class="col-12">
                                 <div class="slider2">
-                                    <div>Durante el juego, repiten comportamientos sexuales. Por ejemplo, reproducir movimientos o formas de tocar sexuales con muñecas o juegan de actividades sexuales con otros compañeritos o compañeritas. </div>
+                                    <div>Durante el juego, repiten comportamientos sexuales. Por ejemplo, reproducir movimientos o formas sexuales de tocar con muñecas o juegan de actividades sexuales con otros compañeritos o compañeritas.</div>
                                 </div>
                             </div>
                         </div>
