@@ -86,7 +86,7 @@
                         <div class="row d-none act-07-mdl act01" >
                             <div class="col-12">
                                 <div class="slider1">
-                                    <div>Proceso en el que una persona adulta construye una relación de confianza o amistad con una niña, niño o adolescente, utilizando las redes sociales, chats, videojuegos u otros servicios de mensajería, con el fin de acosarles tanto en línea, como fuera de ella.</div>
+                                    <div>Se da cuando una persona adulta se gana la confianza o amistad con una niña, niño o adolescente, utilizando las redes sociales, chats, videojuegos u otros servicios de mensajería, con el fin de acosarles tanto en línea, como fuera de ella.</div>
                                 </div>
                             </div>
                         </div>

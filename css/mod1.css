@@ -62,7 +62,7 @@
     background-image: url(../img/botones/btn_finalizar.png);
     background-color: transparent;
     background-size: 400px;
-    display: inline-block;
+    display: block;
     width: 200px;
     height: 57px;
     background-position: -200px 0;
@@ -70,46 +70,49 @@
     font-family: 'Nunito', sans-serif;
     font-weight: 700;
     color: #FFFFFF;
-    font-size: 1.3em;
+    font-size: 1.2em;
     text-align: center;
-    line-height: 40px;
+    line-height: 38px;
     border: none;
+    margin: auto;
 }
 
 .btn-see-eva{
     background-image: url(../img/botones/btn_turquesa.png);
     background-color: transparent;
-    background-size: 470px;
-    display: inline-block;
-    width: 235px;
+    background-size: 400px;
+    display: block;
+    width: 200px;
     height: 57px;
-    background-position: -235px 0;
+    background-position: -200px 0;
     background-repeat: no-repeat;
     font-family: 'Nunito', sans-serif;
     font-weight: 700;
     color: #FFFFFF;
-    font-size: 1.3em;
+    font-size: 1.2em;
     text-align: center;
-    line-height: 40px;
+    line-height: 38px;
     border: none;
+    margin: auto;
 }
 
 .btn-retry-eva{
     background-image: url(../img/botones/btn_azul.png);
     background-color: transparent;
-    background-size: 470px;
-    display: inline-block;
-    width: 235px;
+    background-size: 400px;
+    display: block;
+    width: 200px;
     height: 57px;
-    background-position: -235px 0;
+    background-position: -200px 0;
     background-repeat: no-repeat;
     font-family: 'Nunito', sans-serif;
     font-weight: 700;
     color: #FFFFFF;
-    font-size: 1.3em;
+    font-size: 1.2em;
     text-align: center;
-    line-height: 40px;
+    line-height: 38px;
     border: none;
+    margin: auto;
 }
 
 .btn-see-eva:hover, .btn-retry-eva:hover, .btn-finish-eva:hover{
@@ -341,10 +344,18 @@ a.v3-act-5:before{
     background-image: url(../img/mod1/modulo3-act5.png);
 }
 a.v3-act-8:before{
+<<<<<<< HEAD
     background-image: url(../img/mod1/modulo3-act6.png);
 }
 a.v3-act-7:before{
     background-image: url(../img/mod1/modulo3-act7.png);
+=======
+    background-image: url(../img/mod1/modulo3-act7.png);
+    height: 121px;
+}
+a.v3-act-7:before{
+    background-image: url(../img/mod1/modulo3-act6.png);
+>>>>>>> 56aaa70fab2aad7fda85d139d1b0dcb4b519e727
 }
 #act_01p2 .col-4:nth-child(1) {
 
@@ -416,6 +427,30 @@ a.v3-act-7:before{
         position: absolute;
         top: -5px;
         left: -45px;
+    }
+
+    .btn-finish-eva{
+        background-size: 470px;
+        width: 235px;
+        background-position: -235px 0;
+        font-size: 1.3em;
+        line-height: 40px;
+    }
+
+    .btn-see-eva{
+        background-size: 470px;
+        width: 235px;
+        background-position: -235px 0;
+        font-size: 1.3em;
+        line-height: 40px;
+    }
+
+    .btn-retry-eva{
+        background-size: 470px;
+        width: 235px;
+        background-position: -235px 0;
+        font-size: 1.3em;
+        line-height: 40px;
     }
 } /*fin*/
 

@@ -59,10 +59,10 @@ unset($_SESSION['duplicated_user']);
                                         </div>
                                     </div>
                                     <div class="row">
-                                        <div class="col-6">
-                                            <a class="btn-see-eva float-right" href="0-04_prelogin.php">Ya tengo cuenta</a>
+                                        <div class="col-12 col-md-6">
+                                            <a class="btn-see-eva" href="0-04_prelogin.php">Ya tengo cuenta</a>
                                         </div>
-                                        <div class="col-6">
+                                        <div class="col-12 col-md-6">
                                             <a class="btn-retry-eva" href="0-05_registro_01.php">Soy nuevo</a>
                                         </div>
                                     </div>

@@ -91,7 +91,7 @@
                         <div class="row d-none act-04-mdl act01" >
                             <div class="col-12">
                                 <div class="slider1">
-                                    <div>Como adultos, debemos orientar y motivar a las personas menores de edad para que hagan un uso positivo de las tecnologías.</div>
+                                    <div>Como personas adultas, debemos orientar y motivar a las personas menores de edad para que hagan un uso positivo de las tecnologías.</div>
                                 </div>
                             </div>
                         </div>

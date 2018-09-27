@@ -148,7 +148,7 @@
 
                                         <div class="col-12">
 
-                                            <p>No importa si las imágenes se comparten en un sitio solo para adultos, ni que sean enviadas solo a personas adultas.  Tampoco es necesario que exista intercambio de dinero.  Si en las imágenes hay personas menores de 18 años, se trata de un delito.</p>
+                                            <p>No importa si las imágenes se comparten en un sitio sólo para adultos, ni que sean enviadas sólo a personas adultas. Tampoco es necesario que exista intercambio de dinero. Si en las imágenes hay personas menores de 18 años, se trata de un delito.</p>
 
                                         </div>
 
