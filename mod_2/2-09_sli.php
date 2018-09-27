@@ -198,7 +198,7 @@
                                                 <div class="slide">
                                                     <div class="row justify-content-start">
                                                         <div class="col-12">
-                                                            <p>Además, las personas menores de edad deben saber que cuando el matonismo se da en redes sociales, no podemos saber cuántas personas verán los mensajes, qué nuevos comentarios hirientes se agregarán, cuánto tiempo circularán o en qué páginas terminará esa información.  El ciberbullying llega a muchas personas, las cuales podrían sumarse a los ataques, o propagarlos al compartirlos con otras.</p>
+                                                            <p>Además, las personas menores de edad deben saber que cuando el bullying se da en redes sociales, no podemos saber cuántas personas verán los mensajes, qué nuevos comentarios hirientes se agregarán, cuánto tiempo circularán o en qué páginas terminará esa información.  El ciberbullying llega a muchas personas, las cuales podrían sumarse a los ataques, o propagarlos al compartirlos con otras.</p>
                                                         </div>
                                                         <div class="col-12">
                                                             <img src="../img/mod2/2-09_sli-diapositiva-10.png" alt="Slide1">

@@ -232,7 +232,7 @@
                     pager: false,
                     infiniteLoop: true,
                     auto: true,
-                    pause: 10000
+                    pause: 15000
                 });
             });
 

@@ -270,7 +270,7 @@
                             <div class="row">
                                 <div class="col-12 col-md-8">
                                     <div class="slider7">
-                                        <div>Descripción: Palabra en inglés formada por “cyber” que significa “en la red”y “bullying” que significa “matonismo”. <br>Se da cuando una persona menor de edad es agredida por otras personas de su edad de forma repetida.  Las agresiones pueden ser físicas, pero también emocionales, a través de burlas y humillaciones.</div>
+                                        <div>Descripción: Palabra en inglés formada por “cyber” que significa “en la red” y “bullying” que significa “matonismo”. <br>Se da cuando una persona menor de edad es agredida por otras personas de su edad de forma repetida.  Las agresiones pueden ser físicas, pero también emocionales, a través de burlas y humillaciones.</div>
                                         <div>Manifestación en línea: Esta agresión se da por medio de mensajes de texto, redes sociales u otras aplicaciones.</div>
                                     </div>
                                 </div>

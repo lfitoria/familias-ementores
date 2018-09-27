@@ -40,7 +40,7 @@
                             <div class="cont row">
                                 <div class="col-12 text-center ">
 
-                                    <h3 class="intro-paragrah text-center">¡Es momento de realizar la evaluación final de <br><strong>Prevengo: acompaño en línea!</strong></h3>
+                                    <h3 class="intro-paragrah text-center">¡Es momento de realizar el reto final de <br><strong>Prevengo: acompaño en línea!</strong></h3>
                                     <img src="../img/mod1/1-09_eva-intro.png" alt="" class="img-md"/>
                                     <p class="label-info text-center">A continuación usted encontrará una serie de preguntas de diferentes tipos.<br>Lea cada una de ellas y escoja la respuesta correcta.</p>
                                 </div>
@@ -164,7 +164,7 @@
 
                                 <div class="col-12 text-center">
                                     <img src="../img/mod1/1-09_eva-img-no_aprobado.png" alt="" class="img-md"/>
-                                    <h3 class="intro-paragrah text-center">No ha logrado superar con éxito esta evaluación. Inténtelo de nuevo. <br>Así podrá avanzar al siguiente capítulo, en el cual aprenderá sobre el tema de la prevención.</h3>
+                                    <h3 class="intro-paragrah text-center">No ha logrado superar con éxito este reto. Inténtelo de nuevo. <br>Así podrá avanzar al siguiente capítulo, en el cual aprenderá sobre el tema de la prevención.</h3>
                                 </div>
                                 <div class="col-6 text-center">
                                     <a href="../0-03_menu.php" class="btn-see-eva">Repasar contenidos</a>
@@ -178,7 +178,7 @@
                             <div class="result row justify-content-center">
                                 <div class="col-10 text-center">
                                     <img src="../img/mod1/1-09_eva-img-aprobado.png" alt="" class="img-md"/>
-                                    <h3 class="intro-paragrah text-center">¡Muy bien! Usted ha logrado superar con éxito esta evaluación. Puede pasar al siguiente capítulo, en el cual aprenderá sobre el tema de la prevención. ¡Siga adelante!</h3>
+                                    <h3 class="intro-paragrah text-center">¡Muy bien! Usted ha logrado superar con éxito este reto. Puede pasar al siguiente capítulo, en el cual aprenderá sobre el tema de la prevención. ¡Siga adelante!</h3>
                                 </div>
                                 <div class="col-12 text-center">
                                     <a href="../0-03_menu.php" class="btn-finish-eva">Finalizar</a>

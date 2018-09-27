@@ -123,7 +123,7 @@
                                         <div class="flipper flip-3">
                                             <div class="front ">
                                                 <img src="../img/mod2/2-02b_sli-icn3.png" alt="" class="d-block m-auto"/>
-                                                <p class="text-center">Al brindarle un celular a una persona menor de edad, vimos videos sobre los riesgos de las TIC y en conjunto definimos un plan de acción en caso de que encuentre una situación complicada.
+                                                <p class="text-center">Al brindarle un celular a una persona menor de edad, vimos videos sobre los riesgos de las TIC y en conjunto definimos un plan de acción en caso de que se encuentre una situación complicada.
                                                 </p>
                                             </div>
                                             <div class="back b-3">

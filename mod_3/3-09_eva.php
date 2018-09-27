@@ -90,7 +90,7 @@
 
                                     <!-- <h3 class="intro-paragrah">¡Es momento de realizar la evaluación final del Módulo 01<br> - Oportunidades y desafíos de las TIC!</h3> -->
 
-                                    <h3 class="intro-paragrah text-center">¡Es momento de realizar la evaluación final de <br><strong>Protejo: reacciono ante situaciones!</strong></h3>
+                                    <h3 class="intro-paragrah text-center">¡Es momento de realizar el reto final de <br><strong>Protejo: reacciono ante situaciones!</strong></h3>
 
                                     <img src="../img/mod1/1-09_eva-intro.png" alt="" class="img-md"/>
 
