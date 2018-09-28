@@ -80,7 +80,7 @@
                             <p class="text-center intro-label"><strong>Descubra si estas acciones corresponden o no a crianza respetuosa.</strong></p>
                             <div class="cont row">
                                 <div class="col-12 col-md-4">
-                                    <div class="flip-container" ontouchstart="this.classList.toggle('hover');">
+                                    <div class="flip-container">
                                         <div class="flipper flip-1">
                                             <div class="front ">
                                                 <img src="../img/mod2/2-02b_sli-icn1.png" alt="" class="d-block m-auto"/>
@@ -99,7 +99,7 @@
                                 </div>
                                 <!-- 2 -->
                                 <div class="col-12 col-md-4">
-                                    <div class="flip-container" ontouchstart="this.classList.toggle('hover');">
+                                    <div class="flip-container">
                                         <div class="flipper flip-2">
                                             <div class="front ">
                                                 <img src="../img/mod2/2-02b_sli-icn2.png" alt="" class="d-block m-auto"/>
@@ -119,7 +119,7 @@
                                 </div>
                                 <!-- 3 -->
                                 <div class="col-12 col-md-4">
-                                    <div class="flip-container" ontouchstart="this.classList.toggle('hover');">
+                                    <div class="flip-container">
                                         <div class="flipper flip-3">
                                             <div class="front ">
                                                 <img src="../img/mod2/2-02b_sli-icn3.png" alt="" class="d-block m-auto"/>
@@ -138,7 +138,7 @@
                                 </div>
                                 <!-- 4 -->
                                 <div class="col-12 col-md-4">
-                                    <div class="flip-container" ontouchstart="this.classList.toggle('hover');">
+                                    <div class="flip-container">
                                         <div class="flipper flip-4">
                                             <div class="front ">
                                                 <img src="../img/mod2/2-02b_sli-icn4.png" alt="" class="d-block m-auto"/>
@@ -157,7 +157,7 @@
                                 </div>
                                 <!-- 5 -->
                                 <div class="col-12 col-md-4">
-                                    <div class="flip-container" ontouchstart="this.classList.toggle('hover');">
+                                    <div class="flip-container">
                                         <div class="flipper flip-5">
                                             <div class="front ">
                                                 <img src="../img/mod2/2-02b_sli-icn5.png" alt="" class="d-block m-auto"/>
@@ -176,7 +176,7 @@
                                 </div>
                                 <!-- 6 -->
                                 <div class="col-12 col-md-4">
-                                    <div class="flip-container" ontouchstart="this.classList.toggle('hover');">
+                                    <div class="flip-container">
                                         <div class="flipper flip-6">
                                             <div class="front ">
                                                 <img src="../img/mod2/2-02b_sli-icn6.png" alt="" class="d-block m-auto"/>
@@ -294,6 +294,10 @@
                     module: 2
                 },
                 dataType: "html"
+            });
+
+            $(".flip-container").click(function(){
+                $(this).toggleClass("hover");
             });
 
         </script>

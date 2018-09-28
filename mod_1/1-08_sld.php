@@ -327,7 +327,9 @@
             dataType: "html"
         });
         
-        
+        $(".flip-container").click(function(){
+            $(this).toggleClass("hover");
+        });
 
     </script>
 </body>

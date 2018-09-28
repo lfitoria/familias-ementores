@@ -269,7 +269,7 @@ img[usemap]{
     perspective: 1000px;
 }
 /* flip the pane when hovered */
-.flip-container:hover .flipper, .flip-container.hover .flipper {
+.flip-container.hover .flipper, .flip-container.flip .flipper {
     transform: rotateY(180deg);
 }
 
@@ -326,9 +326,7 @@ img[usemap]{
 .f-3,.b-3{
     background-color: #86C656;
 }
-.flip-container:hover .flipper, .flip-container.hover .flipper, .flip-container.flip .flipper {
-    transform: rotateY(180deg);
-}
+
 
 .img-small{
     width: 200px;

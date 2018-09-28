@@ -47,11 +47,11 @@
                                 <div id="map_container">
                                     <img usemap="#1-07-inf" id="img-map" src="../img/mod2/2-07_inf.png" class="img-fluid">
                                     <map name="1-07-inf">
-                                        <area data-nbr="1" shape='rect' coords='541, 1126, 758, 1198' href='#' />
+                                        <area data-nbr="1" shape='rect' coords='540, 1126, 758, 1198' href='#' />
                                         <area data-nbr="2" shape='rect' coords='540, 1836, 758, 1908' href='#' />
-                                        <area data-nbr="3" shape='rect' coords='540, 2532, 756, 2605' href='#' />
+                                        <area data-nbr="3" shape='rect' coords='540, 2532, 758, 2605' href='#' />
                                         <area data-nbr="4" shape='rect' coords='540, 3238, 758, 3312' href='#' />
-                                        <area data-nbr="5" shape='rect' coords='538, 3933, 756, 4009' href='#' />
+                                        <area data-nbr="5" shape='rect' coords='540, 3933, 758, 4009' href='#' />
                                     </map>
                                 </div>
                             </div>
