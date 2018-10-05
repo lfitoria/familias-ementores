@@ -1,80 +1,62 @@
 #page-3-03 .audio_3-03{ border-radius: 15px;padding: 20px 25px; margin-bottom: 20px; position: relative; }
 
-
-
 #page-3-03 .audio_3-03 p.intro-label{color: #fff; }
-
 #page-3-03 .audio_3-03.per1{ background-color: #9E005D; }
-
 #page-3-03 .audio_3-03.per2{ background-color: #C1272D; }
-
 #page-3-03 .audio_3-03.per3{ background-color: #F47B22; }
-
 #page-3-03 .audio_3-03.per4{ background-color: #009245; }
-
 #page-3-03 .audio_3-03.per5{ background-color: #006F7A; }
-
 #page-3-03 .audio_3-03.per6{ background-color: #0E568C; }
 
-
-
 #page-3-03 .audio_3-03:before{ 
-
     content: "";
-
     position: absolute;
-
     left: -50px;
-
     bottom: 40px;
-
     width: 0;
-
     height: 0;
-
     border-top: 40px solid transparent;
-
     border-bottom: 0px solid transparent;
-
 }
-
-
 
 #page-3-03 .audio_3-03.per1:before{ border-right: 50px solid #9E005D; }
-
 #page-3-03 .audio_3-03.per2:before{ border-right: 50px solid #C1272D; }
-
 #page-3-03 .audio_3-03.per3:before{ border-right: 50px solid #F47B22; }
-
 #page-3-03 .audio_3-03.per4:before{ border-right: 50px solid #009245; }
-
 #page-3-03 .audio_3-03.per5:before{ border-right: 50px solid #006F7A; }
-
 #page-3-03 .audio_3-03.per6:before{ border-right: 50px solid #0E568C; }
 
-
-
 #page-3-03 .btn-modal{
-
     background-color: #00A99D;
-
     border: none;
-
     color: #fff;
-
     font-size: 1.2em;
-
     padding: 15px 25px;
-
     margin: auto;
-
     display: block;
-
     font-family: 'Nunito', sans-serif;
-
     font-weight: bold;
-
     border-radius: 5px;
     cursor: pointer;
-
 }
+
+#page-3-05 .nav-link.active{ background: #eee; border-bottom-color: #eee; color: #fff;}
+
+#page-3-05 .nav-link { 
+    border-bottom-color: #67aaca;
+    color: #fff;
+    background: #67aaca;
+    border: none;
+    padding: 5px 20px;
+    font-size: 1.3em;
+    margin-right: 1px;
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+}
+#page-3-05 .nav-link#sofia-tab{ background-color: #EA7A30; }
+#page-3-05 .nav-link#steven-valeria-tab{ background-color: #0851A1; }
+#page-3-05 .nav-link#erick-tab{ background-color: #D10F42; }
+
+#page-3-05 .tab-pane#sofia{ background-color: #EA7A30; }
+#page-3-05 .tab-pane#steven-valeria{ background-color: #0851A1; }
+#page-3-05 .tab-pane#erick{ background-color: #D10F42; }

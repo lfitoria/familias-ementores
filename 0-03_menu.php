@@ -514,6 +514,13 @@
 
                                     $activity2 = mysqli_fetch_assoc($resultAct2);
 
+
+                                    $queryAct3 = "SELECT * FROM activity where user = $last_id and module = 3";
+
+                                    $resultAct3 = $mysqli->query($queryAct3);
+
+                                    $activity3 = mysqli_fetch_assoc($resultAct3);
+
                                     // var_dump($activity2);
 
                                     ?>
@@ -614,7 +621,7 @@
 
                                         </div>
 
-                                        <?php if ($activity1["is_approved"] == 1 && $activity1["is_approved"] == 1) : ?>
+                                        <?php if ($activity2["is_approved"] == 1 && $activity3["is_approved"] == 1) : ?>
 
                                             <div class="col-12 item-cert">
 

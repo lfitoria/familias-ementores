@@ -42,7 +42,7 @@
                 <section class="container">
                     <div class="main">
                         <p>Vea a cada una de estas personas menores de edad describir una oportunidad
-                            que ofrecen las TIC y un desafío relacionado con ella.</p>
+                            que ofrecen las TIC y un riesgo relacionado con ella.</p>
                         <div id="act_01" class="">
                             <div class="cont row">
                                 <div class="col-3">
